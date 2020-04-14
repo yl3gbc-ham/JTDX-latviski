@@ -1,2 +1,2 @@
-# JTDX-ltviski
-jtdx-LTVIESU  
+# JTDX-latviski
+Jtdx-latviski   
