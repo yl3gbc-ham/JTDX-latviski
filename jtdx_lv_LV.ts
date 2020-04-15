@@ -60,7 +60,7 @@
     <message>
         <location filename="../Configuration.cpp" line="1191"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1192"/>
@@ -275,22 +275,22 @@ Format:
     <message>
         <location filename="../Configuration.cpp" line="5207"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with default ones?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties atiestatīt pašreizējās darba frekvences un aizstāt tās ar noklusējuma vērtībām?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5267"/>
         <source>Save Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Saglabāt mapi</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5283"/>
         <source>Failed to open connection to rig</source>
-        <translation type="unfinished"></translation>
+        <translation>Kļūda, savienojot ar transīveru</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5511"/>
         <source>Rig failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Transīvers nereaģē</translation>
     </message>
 </context>
 <context>
