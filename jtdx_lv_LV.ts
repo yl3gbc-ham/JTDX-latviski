@@ -65,74 +65,76 @@
     <message>
         <location filename="../Configuration.cpp" line="1192"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1207"/>
         <source>Create temporary directory error: </source>
-        <translation type="unfinished"></translation>
+        <translation>Kļūda, izveidojot pagaidu mapi: </translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1213"/>
         <source>Create temporary directory error:
 %1
 Another application may be locking the directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Kļūda, izveidojot pagaidu mapi:
+% 1
+Cita programma var bloķēt mapi</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1230"/>
         <source>Create data directory error: </source>
-        <translation type="unfinished"></translation>
+        <translation>Kļūda, izveidojot datu mapi: </translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1239"/>
         <location filename="../Configuration.cpp" line="1250"/>
         <source>Create Directory</source>
         <comment>Cannot create directory &quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Izveidot mapi</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1416"/>
         <location filename="../Configuration.cpp" line="1441"/>
         <location filename="../Configuration.cpp" line="1493"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1445"/>
         <location filename="../Configuration.cpp" line="1497"/>
         <source>&amp;Insert ...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1449"/>
         <source>&amp;Load ...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1453"/>
         <source>&amp;Save as ...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1457"/>
         <source>&amp;Merge ...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1461"/>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2686"/>
         <source>Serial Port:</source>
-        <translation>Seriālais Ports:</translation>
+        <translation>COM Ports:</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2687"/>
         <source>Serial port used for CAT control</source>
-        <translation type="unfinished"></translation>
+        <translation>Komports priekš CAT kontrolei</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2694"/>
@@ -147,7 +149,12 @@ Formats:
 	hostname:port
 	IPv4-address:port
 	[IPv6-address]:port</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēles resursdatora nosaukums un tīkla pakalpojuma ports.
+Šajā mašīnā izmantoto noklusējuma vērtību atstājiet tukšu.
+Formāti:
+resursdatora nosaukums: ports
+IPv4 adrese: ports
+[IPv6 adrese]: por</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2707"/>
@@ -160,27 +167,30 @@ Formats:
 Leave blank for a sensible default for the rig.
 Format:
 	[VID[:PID[:VENDOR[:PRODUCT]]]]</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēles ierīces identifikācija.
+Atstājiet tukšu, lai izmantotu noklusējuma uztvērēju.
+Formāts:
+[VID [: PID [: VENDOR [: PRODUCT]]]]</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2743"/>
         <source>Invalid audio input device</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepareiza skaņas kartes izvēle ievadei</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2750"/>
         <source>Invalid audio output device</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepareiza skaņas kartes izvēle izeja</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2756"/>
         <source>Invalid PTT method</source>
-        <translation type="unfinished"></translation>
+        <translation>Nkorekta PTT metode</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2766"/>
         <source>Invalid PTT port</source>
-        <translation type="unfinished"></translation>
+        <translation>Nekorekts PTT ports</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3273"/>
@@ -195,19 +205,19 @@ Format:
     <message>
         <location filename="../Configuration.cpp" line="4457"/>
         <source>JTDX Decoded Text Font Chooser</source>
-        <translation type="unfinished"></translation>
+        <translation>JTDX izvēlētā fonta dekodēšanas tekstam</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5079"/>
         <source>Load Working Frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Lejupielādējiet darba frekvences</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5081"/>
         <location filename="../Configuration.cpp" line="5112"/>
         <location filename="../Configuration.cpp" line="5166"/>
         <source>Frequency files (*.qrg);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt; Frekvences fails (* .qrg) ;; Visi faili (*. *)</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5083"/>
@@ -218,17 +228,17 @@ Format:
     <message>
         <location filename="../Configuration.cpp" line="5097"/>
         <source>Replace Working Frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomainiet darba frekvences</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5098"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with the loaded ones?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties atiestatīt pašreizējās darba frekvences un aizstāt tās ar ielādētajām?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5110"/>
         <source>Merge Working Frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Apvienojiet darba frekvences</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5137"/>
