@@ -363,7 +363,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="44"/>
         <source>Rotuma Is.</source>
-        <translation type="unfinished">Rotuma </translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="45"/>
