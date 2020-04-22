@@ -403,7 +403,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="52"/>
         <source>Georgia</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruzija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="53"/>
@@ -638,7 +638,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="99"/>
         <source>Qatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Katara</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="100"/>
@@ -658,7 +658,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="103"/>
         <source>Taiwan</source>
-        <translation type="unfinished"></translation>
+        <translation>Taivāna</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="104"/>
@@ -733,7 +733,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="118"/>
         <source>Bolivia</source>
-        <translation type="unfinished"></translation>
+        <translation>Bolīvija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="119"/>
@@ -828,12 +828,12 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="137"/>
         <source>Balearic Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baleāru Salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="138"/>
         <source>Canary Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanāriju Salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="139"/>
@@ -898,7 +898,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="151"/>
         <source>France</source>
-        <translation type="unfinished"></translation>
+        <translation>Francija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="152"/>
@@ -1008,7 +1008,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="173"/>
         <source>England</source>
-        <translation type="unfinished"></translation>
+        <translation>Anglija </translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="174"/>
@@ -1338,7 +1338,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="239"/>
         <source>Bulgaria</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgārija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="240"/>
@@ -1658,7 +1658,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="303"/>
         <source>Kaliningrad</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaļiņingrada</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="304"/>
@@ -2319,7 +2319,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../Configuration.cpp" line="221"/>
         <source>Add Frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienojiet frekvenci</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="226"/>
@@ -5015,7 +5015,7 @@ UDP server %2:%3</source>
     <message>
         <location filename="../Configuration.cpp" line="5049"/>
         <source>Cancel</source>
-        <translation type="unfinished">Acelt</translation>
+        <translation>Acelt</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5050"/>
@@ -5750,7 +5750,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="26"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Iestatījumi</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="35"/>
@@ -5795,7 +5795,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="125"/>
         <source>IARU Region:</source>
-        <translation type="unfinished"></translation>
+        <translation>IARU reģions:</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="135"/>
@@ -6070,7 +6070,7 @@ quiet period when decoding is done.</source>
     <message>
         <location filename="../Configuration.ui" line="742"/>
         <source>S meter</source>
-        <translation type="unfinished">S metrs</translation>
+        <translation>S metrs</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="771"/>
@@ -6173,7 +6173,7 @@ quiet period when decoding is done.</source>
         <location filename="../Configuration.ui" line="1013"/>
         <location filename="../Configuration.ui" line="1080"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Noklusējums</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="969"/>
@@ -6361,7 +6361,7 @@ this setting allows you to select which audio input will be used
     <message>
         <location filename="../Configuration.ui" line="1395"/>
         <source>Mode</source>
-        <translation type="unfinished">Mode</translation>
+        <translation>Mode</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1401"/>
