@@ -5786,7 +5786,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="57"/>
         <source>Station Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Stacijas informācija</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="78"/>
@@ -5796,7 +5796,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="88"/>
         <source>Station callsign.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stacijas izsaukuma signāls.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="108"/>
