@@ -2186,7 +2186,7 @@ Formāts:
     <message>
         <location filename="../WFPalette.cpp" line="191"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dzēst</translation>
     </message>
     <message>
         <location filename="../WFPalette.cpp" line="200"/>
@@ -3470,7 +3470,7 @@ ZD8,ZD9,ZF,ZK3,ZL,ZL7,ZL8,ZL9,ZP,ZS,ZS8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</sou
         <location filename="../mainwindow.ui" line="5751"/>
         <location filename="../mainwindow.ui" line="5775"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="3024"/>
@@ -3649,7 +3649,7 @@ list. The list can be maintained in Settings (F2).</source>
         <location filename="../mainwindow.ui" line="5759"/>
         <location filename="../mainwindow.ui" line="5783"/>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="3621"/>
@@ -3724,7 +3724,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.ui" line="3921"/>
         <source>73</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">73</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="3969"/>
@@ -3945,7 +3945,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.ui" line="4627"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Atvērt</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="4630"/>
@@ -3988,7 +3988,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.ui" line="4673"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nav</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="4681"/>
@@ -4146,7 +4146,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.ui" line="4970"/>
         <source>JT9+JT65</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">JT65+JT65 {9+?}</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="4978"/>
@@ -4341,17 +4341,17 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.ui" line="5313"/>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5321"/>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">8</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5329"/>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">12</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5337"/>
@@ -4468,37 +4468,37 @@ list. The list can be maintained in Settings (F2).</source>
         <location filename="../mainwindow.ui" line="5767"/>
         <location filename="../mainwindow.ui" line="5791"/>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5598"/>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5606"/>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5614"/>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5622"/>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">7</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5630"/>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">9</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5638"/>
         <source>11</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">11</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5646"/>
@@ -4613,7 +4613,7 @@ list. The list can be maintained in Settings (F2).</source>
         <location filename="../mainwindow.cpp" line="6987"/>
         <location filename="../mainwindow.cpp" line="7328"/>
         <source>Cannot open &quot;%1&quot; for append: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nevar atvērt &quot;%1&quot; lai pievienotu: %2&quot;</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1754"/>
@@ -5404,7 +5404,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundin.cpp" line="128"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dīkstāvē</translation>
     </message>
     <message>
         <location filename="../soundin.cpp" line="132"/>
@@ -5625,12 +5625,12 @@ Error(%2): %3</source>
     <message>
         <location filename="../widegraph.ui" line="252"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kreisais</translation>
     </message>
     <message>
         <location filename="../widegraph.ui" line="257"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Labais</translation>
     </message>
     <message>
         <location filename="../widegraph.ui" line="289"/>
@@ -7761,7 +7761,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6277"/>
         <location filename="../Configuration.ui" line="6415"/>
         <source>00</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">00</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5254"/>
@@ -7770,7 +7770,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6025"/>
         <location filename="../Configuration.ui" line="6282"/>
         <source>01</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">01</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5259"/>
@@ -7779,7 +7779,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6030"/>
         <location filename="../Configuration.ui" line="6287"/>
         <source>02</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">02</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5264"/>
@@ -7788,7 +7788,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6035"/>
         <location filename="../Configuration.ui" line="6292"/>
         <source>03</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">03</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5269"/>
@@ -7797,7 +7797,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6040"/>
         <location filename="../Configuration.ui" line="6297"/>
         <source>04</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">04</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5274"/>
@@ -7811,7 +7811,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6302"/>
         <location filename="../Configuration.ui" line="6420"/>
         <source>05</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">05</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5279"/>
@@ -7820,7 +7820,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6050"/>
         <location filename="../Configuration.ui" line="6307"/>
         <source>06</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">06</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5284"/>
@@ -7829,7 +7829,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6055"/>
         <location filename="../Configuration.ui" line="6312"/>
         <source>07</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">07</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5289"/>
@@ -7838,7 +7838,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6060"/>
         <location filename="../Configuration.ui" line="6317"/>
         <source>08</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">08</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5294"/>
@@ -7847,7 +7847,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6065"/>
         <location filename="../Configuration.ui" line="6322"/>
         <source>09</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">09</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5299"/>
@@ -7861,7 +7861,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6327"/>
         <location filename="../Configuration.ui" line="6425"/>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5304"/>
@@ -7870,7 +7870,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6075"/>
         <location filename="../Configuration.ui" line="6332"/>
         <source>11</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">11</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5309"/>
@@ -7879,7 +7879,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6080"/>
         <location filename="../Configuration.ui" line="6337"/>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">12</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5314"/>
@@ -7888,7 +7888,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6085"/>
         <location filename="../Configuration.ui" line="6342"/>
         <source>13</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">13</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5319"/>
@@ -7897,7 +7897,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6090"/>
         <location filename="../Configuration.ui" line="6347"/>
         <source>14</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">14</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5324"/>
@@ -7911,7 +7911,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6352"/>
         <location filename="../Configuration.ui" line="6430"/>
         <source>15</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">15</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5329"/>
@@ -7920,7 +7920,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6100"/>
         <location filename="../Configuration.ui" line="6357"/>
         <source>16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">16</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5334"/>
@@ -7929,7 +7929,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6105"/>
         <location filename="../Configuration.ui" line="6362"/>
         <source>17</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">17</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5339"/>
@@ -7938,7 +7938,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6110"/>
         <location filename="../Configuration.ui" line="6367"/>
         <source>18</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">18</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5344"/>
@@ -7947,7 +7947,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6115"/>
         <location filename="../Configuration.ui" line="6372"/>
         <source>19</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">19</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5349"/>
@@ -7961,7 +7961,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6377"/>
         <location filename="../Configuration.ui" line="6435"/>
         <source>20</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">20</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5354"/>
@@ -7970,7 +7970,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6125"/>
         <location filename="../Configuration.ui" line="6382"/>
         <source>21</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">21</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5359"/>
@@ -7979,7 +7979,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6130"/>
         <location filename="../Configuration.ui" line="6387"/>
         <source>22</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">22</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5364"/>
@@ -7988,7 +7988,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6135"/>
         <location filename="../Configuration.ui" line="6392"/>
         <source>23</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">23</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5412"/>
@@ -7997,7 +7997,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6183"/>
         <location filename="../Configuration.ui" line="6440"/>
         <source>25</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">25</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5417"/>
@@ -8006,7 +8006,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6188"/>
         <location filename="../Configuration.ui" line="6445"/>
         <source>30</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5422"/>
@@ -8015,7 +8015,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6193"/>
         <location filename="../Configuration.ui" line="6450"/>
         <source>35</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">35</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5427"/>
@@ -8024,7 +8024,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6198"/>
         <location filename="../Configuration.ui" line="6455"/>
         <source>40</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">40</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5432"/>
@@ -8033,7 +8033,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6203"/>
         <location filename="../Configuration.ui" line="6460"/>
         <source>45</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">45</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5437"/>
@@ -8042,7 +8042,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6208"/>
         <location filename="../Configuration.ui" line="6465"/>
         <source>50</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">50</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5442"/>
@@ -8051,7 +8051,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <location filename="../Configuration.ui" line="6213"/>
         <location filename="../Configuration.ui" line="6470"/>
         <source>55</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">55</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5462"/>
