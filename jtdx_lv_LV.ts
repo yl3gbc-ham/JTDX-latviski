@@ -77,14 +77,14 @@
         <source>Create temporary directory error:
 %1
 Another application may be locking the directory</source>
-        <translation> Kļūda izveidojot pagaidu direktoriju:
+        <translation>Kļūda izveidojot pagaidu direktoriju:
 % 1
  Cita programma var bloķēt direktoriju</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1240"/>
         <source>Create data directory error: </source>
-        <translation>Kļūda, izveidojot datu katalogu:</translation>
+        <translation>Kļūda, izveidojot datu katalogu: </translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1249"/>
@@ -7404,7 +7404,7 @@ Right click for insert and delete options.</source>
         <location filename="../Configuration.ui" line="4752"/>
         <location filename="../Configuration.ui" line="4771"/>
         <source>K1ABC</source>
-        <translation type="unfinished"></translation>
+        <translation>K1ABC</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="3747"/>
@@ -7414,7 +7414,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="3753"/>
         <source>RR73/73           </source>
-        <translation type="unfinished"></translation>
+        <translation>RR73/73           </translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="3766"/>
@@ -7439,7 +7439,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="3874"/>
         <source>New CQZ</source>
-        <translation type="unfinished"></translation>
+        <translation>Jauna CQZ</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="3944"/>
@@ -7449,7 +7449,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="4014"/>
         <source>New ITUZ</source>
-        <translation type="unfinished"></translation>
+        <translation>Jauna ITUZ</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4084"/>
@@ -7459,7 +7459,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="4154"/>
         <source>New DXCC</source>
-        <translation type="unfinished"></translation>
+        <translation>Jauna DXCC</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4224"/>
@@ -7469,7 +7469,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="4294"/>
         <source>New Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Jauns Lokātors</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4364"/>
@@ -7479,7 +7479,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="4434"/>
         <source>New Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Jauns Prefiks</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4504"/>
@@ -7489,7 +7489,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="4574"/>
         <source>New Call</source>
-        <translation type="unfinished"></translation>
+        <translation>jauns Izsaukuma signāls</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4644"/>
@@ -7509,7 +7509,7 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="4814"/>
         <source>Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrs</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4825"/>
@@ -7519,37 +7519,37 @@ Right click for insert and delete options.</source>
     <message>
         <location filename="../Configuration.ui" line="4837"/>
         <source>Africa</source>
-        <translation type="unfinished"></translation>
+        <translation>Āfrika</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4844"/>
         <source>Antarctica</source>
-        <translation type="unfinished">Antarktīda</translation>
+        <translation>Antarktīda</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4851"/>
         <source>Asia</source>
-        <translation type="unfinished"></translation>
+        <translation>Āzija</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4858"/>
         <source>Europe</source>
-        <translation type="unfinished"></translation>
+        <translation>Eiropa</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4865"/>
         <source>Oceania</source>
-        <translation type="unfinished"></translation>
+        <translation>Okeānija</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4872"/>
         <source>North America</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziemeļamerika</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4879"/>
         <source>South America</source>
-        <translation type="unfinished"></translation>
+        <translation>Dienvidamerika</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4889"/>
@@ -7718,7 +7718,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
     <message>
         <location filename="../Configuration.ui" line="5211"/>
         <source>Band</source>
-        <translation type="unfinished">Diapazons</translation>
+        <translation>Diapazons</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5221"/>
@@ -7733,7 +7733,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
     <message>
         <location filename="../Configuration.ui" line="5224"/>
         <source>JT65+JT9</source>
-        <translation type="unfinished"></translation>
+        <translation>JT65+JT9</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5240"/>
