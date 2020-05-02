@@ -5361,7 +5361,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../SampleDownloader.cpp" line="99"/>
         <source>Download Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Lejupielādējiet paraugus</translation>
     </message>
 </context>
 <context>
@@ -5467,7 +5467,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundout.cpp" line="113"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation>Dīkstāvē</translation>
     </message>
     <message>
         <location filename="../soundout.cpp" line="114"/>
