@@ -2783,7 +2783,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="47"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārtraukt</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="48"/>
@@ -2793,7 +2793,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="49"/>
         <source>Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorēt</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="50"/>
@@ -2828,7 +2828,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="56"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunot noklusējumus</translation>
     </message>
 </context>
 <context>
@@ -8226,7 +8226,7 @@ soundcard changes</source>
     <message>
         <location filename="../main.cpp" line="127"/>
         <source>rig-name</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="131"/>
