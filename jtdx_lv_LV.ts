@@ -298,7 +298,7 @@ Formāts:
         <translation>Kļūda, savienojot ar transīveru</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5533"/>
+        <location filename="../Configuration.cpp" line="5536"/>
         <source>Rig failure</source>
         <translation>Transīvers nereaģē</translation>
     </message>
@@ -2461,268 +2461,268 @@ Error: %2 - %3</source>
 <context>
     <name>HamlibTransceiver</name>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="210"/>
-        <location filename="../HamlibTransceiver.cpp" line="287"/>
+        <location filename="../HamlibTransceiver.cpp" line="211"/>
+        <location filename="../HamlibTransceiver.cpp" line="289"/>
         <source>Hamlib initialisation error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="250"/>
+        <location filename="../HamlibTransceiver.cpp" line="251"/>
         <source>Command completed successfully</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="251"/>
+        <location filename="../HamlibTransceiver.cpp" line="252"/>
         <source>Invalid parameter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="252"/>
+        <location filename="../HamlibTransceiver.cpp" line="253"/>
         <source>Invalid configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="253"/>
+        <location filename="../HamlibTransceiver.cpp" line="254"/>
         <source>Memory shortage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="254"/>
+        <location filename="../HamlibTransceiver.cpp" line="255"/>
         <source>Feature not implemented</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="255"/>
+        <location filename="../HamlibTransceiver.cpp" line="256"/>
         <source>Communication timed out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="256"/>
+        <location filename="../HamlibTransceiver.cpp" line="257"/>
         <source>IO error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="257"/>
+        <location filename="../HamlibTransceiver.cpp" line="258"/>
         <source>Internal Hamlib error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="258"/>
+        <location filename="../HamlibTransceiver.cpp" line="259"/>
         <source>Protocol error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="259"/>
+        <location filename="../HamlibTransceiver.cpp" line="260"/>
         <source>Command rejected by the rig</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="260"/>
+        <location filename="../HamlibTransceiver.cpp" line="261"/>
         <source>Command performed, but arg truncated, result not guaranteed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="261"/>
+        <location filename="../HamlibTransceiver.cpp" line="262"/>
         <source>Feature not available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="262"/>
+        <location filename="../HamlibTransceiver.cpp" line="263"/>
         <source>Target VFO unaccessible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="263"/>
+        <location filename="../HamlibTransceiver.cpp" line="264"/>
         <source>Communication bus error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="264"/>
+        <location filename="../HamlibTransceiver.cpp" line="265"/>
         <source>Communication bus collision</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="265"/>
+        <location filename="../HamlibTransceiver.cpp" line="266"/>
         <source>NULL RIG handle or invalid pointer parameter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="266"/>
+        <location filename="../HamlibTransceiver.cpp" line="267"/>
         <source>Invalid VFO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="267"/>
+        <location filename="../HamlibTransceiver.cpp" line="268"/>
         <source>Argument out of domain of func</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="314"/>
+        <location filename="../HamlibTransceiver.cpp" line="316"/>
         <source>Hamlib settings file error: %1 at character offset %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="320"/>
+        <location filename="../HamlibTransceiver.cpp" line="322"/>
         <source>Hamlib settings file error: top level must be a JSON object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="332"/>
+        <location filename="../HamlibTransceiver.cpp" line="334"/>
         <source>Hamlib settings file error: config must be a JSON object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="394"/>
+        <location filename="../HamlibTransceiver.cpp" line="396"/>
         <source>Unsupported CAT type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="445"/>
+        <location filename="../HamlibTransceiver.cpp" line="453"/>
         <source>Hamlib error: %1 while %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="455"/>
+        <location filename="../HamlibTransceiver.cpp" line="470"/>
         <source>opening connection to rig</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="505"/>
+        <location filename="../HamlibTransceiver.cpp" line="531"/>
         <source>getting current frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="509"/>
+        <location filename="../HamlibTransceiver.cpp" line="540"/>
         <source>getting current mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="538"/>
-        <location filename="../HamlibTransceiver.cpp" line="558"/>
+        <location filename="../HamlibTransceiver.cpp" line="589"/>
+        <location filename="../HamlibTransceiver.cpp" line="624"/>
         <source>exchanging VFOs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="546"/>
-        <location filename="../HamlibTransceiver.cpp" line="1048"/>
+        <location filename="../HamlibTransceiver.cpp" line="597"/>
+        <location filename="../HamlibTransceiver.cpp" line="1154"/>
         <source>getting other VFO frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="550"/>
+        <location filename="../HamlibTransceiver.cpp" line="606"/>
         <source>getting other VFO mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="563"/>
+        <location filename="../HamlibTransceiver.cpp" line="634"/>
         <source>setting current VFO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="572"/>
+        <location filename="../HamlibTransceiver.cpp" line="643"/>
         <source>getting frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="576"/>
+        <location filename="../HamlibTransceiver.cpp" line="652"/>
         <source>getting mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="593"/>
-        <location filename="../HamlibTransceiver.cpp" line="963"/>
+        <location filename="../HamlibTransceiver.cpp" line="674"/>
+        <location filename="../HamlibTransceiver.cpp" line="1069"/>
         <source>getting current VFO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="637"/>
-        <location filename="../HamlibTransceiver.cpp" line="645"/>
-        <location filename="../HamlibTransceiver.cpp" line="659"/>
-        <location filename="../HamlibTransceiver.cpp" line="1022"/>
+        <location filename="../HamlibTransceiver.cpp" line="733"/>
+        <location filename="../HamlibTransceiver.cpp" line="741"/>
+        <location filename="../HamlibTransceiver.cpp" line="755"/>
+        <location filename="../HamlibTransceiver.cpp" line="1128"/>
         <source>getting current VFO frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="643"/>
-        <location filename="../HamlibTransceiver.cpp" line="658"/>
-        <location filename="../HamlibTransceiver.cpp" line="665"/>
-        <location filename="../HamlibTransceiver.cpp" line="744"/>
-        <location filename="../HamlibTransceiver.cpp" line="762"/>
-        <location filename="../HamlibTransceiver.cpp" line="823"/>
+        <location filename="../HamlibTransceiver.cpp" line="739"/>
+        <location filename="../HamlibTransceiver.cpp" line="754"/>
+        <location filename="../HamlibTransceiver.cpp" line="761"/>
+        <location filename="../HamlibTransceiver.cpp" line="851"/>
+        <location filename="../HamlibTransceiver.cpp" line="869"/>
+        <location filename="../HamlibTransceiver.cpp" line="930"/>
         <source>setting frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="752"/>
-        <location filename="../HamlibTransceiver.cpp" line="830"/>
-        <location filename="../HamlibTransceiver.cpp" line="902"/>
-        <location filename="../HamlibTransceiver.cpp" line="915"/>
+        <location filename="../HamlibTransceiver.cpp" line="859"/>
+        <location filename="../HamlibTransceiver.cpp" line="937"/>
+        <location filename="../HamlibTransceiver.cpp" line="1009"/>
+        <location filename="../HamlibTransceiver.cpp" line="1022"/>
         <source>getting current VFO mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="758"/>
-        <location filename="../HamlibTransceiver.cpp" line="767"/>
-        <location filename="../HamlibTransceiver.cpp" line="836"/>
-        <location filename="../HamlibTransceiver.cpp" line="908"/>
-        <location filename="../HamlibTransceiver.cpp" line="921"/>
+        <location filename="../HamlibTransceiver.cpp" line="865"/>
+        <location filename="../HamlibTransceiver.cpp" line="874"/>
+        <location filename="../HamlibTransceiver.cpp" line="943"/>
+        <location filename="../HamlibTransceiver.cpp" line="1015"/>
+        <location filename="../HamlibTransceiver.cpp" line="1028"/>
         <source>setting current VFO mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="810"/>
-        <location filename="../HamlibTransceiver.cpp" line="879"/>
+        <location filename="../HamlibTransceiver.cpp" line="917"/>
+        <location filename="../HamlibTransceiver.cpp" line="986"/>
         <source>setting/unsetting split mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="821"/>
-        <location filename="../HamlibTransceiver.cpp" line="861"/>
+        <location filename="../HamlibTransceiver.cpp" line="928"/>
+        <location filename="../HamlibTransceiver.cpp" line="968"/>
         <source>setting split mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="849"/>
+        <location filename="../HamlibTransceiver.cpp" line="956"/>
         <source>setting split TX frequency and mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="854"/>
+        <location filename="../HamlibTransceiver.cpp" line="961"/>
         <source>setting split TX frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="926"/>
+        <location filename="../HamlibTransceiver.cpp" line="1033"/>
         <source>getting split TX VFO mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="933"/>
+        <location filename="../HamlibTransceiver.cpp" line="1040"/>
         <source>setting split TX VFO mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1190"/>
+        <location filename="../HamlibTransceiver.cpp" line="1296"/>
         <source>getting PTT state</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1226"/>
+        <location filename="../HamlibTransceiver.cpp" line="1332"/>
         <source>setting PTT on</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1234"/>
+        <location filename="../HamlibTransceiver.cpp" line="1340"/>
         <source>setting PTT off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1246"/>
+        <location filename="../HamlibTransceiver.cpp" line="1352"/>
         <source>setting a configuration item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1256"/>
+        <location filename="../HamlibTransceiver.cpp" line="1362"/>
         <source>getting a configuration item</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2760,7 +2760,7 @@ Error: %2 - %3</source>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="43"/>
-        <location filename="../mainwindow.cpp" line="3777"/>
+        <location filename="../mainwindow.cpp" line="3721"/>
         <source>&amp;Yes</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2771,7 +2771,7 @@ Error: %2 - %3</source>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="45"/>
-        <location filename="../mainwindow.cpp" line="3780"/>
+        <location filename="../mainwindow.cpp" line="3724"/>
         <source>&amp;No</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2836,7 +2836,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.ui" line="28"/>
         <source>Click OK to confirm the following QSO:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nospiežiet OK lai apstiprinātu nākamo QSO:</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="44"/>
@@ -2924,7 +2924,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.cpp" line="199"/>
         <source>Cannot open &quot;%1&quot; for append: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar atvērt &quot;%1&quot; lai pievienotu: %2&quot;</translation>
     </message>
 </context>
 <context>
@@ -2936,7 +2936,7 @@ Error: %2 - %3</source>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="175"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Avg: accumulated average DT of decoded signals on current band. Lag: it is decoder lag calculated relatively to beginning of next interval, negative values mean there is spare time available to increase decoding depth, positive values is decoder&apos;s lag into TX or next interval meaning there may be no enough CPU resources for selected decoding depth to provide reliable signal transmission. /xx: number of decoded messages in last interval.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Avg: accumulated average DT of decoded signals on current band.&lt;/p&gt;&lt;p&gt;Lag: it is decoder lag calculated relatively to beginning of next interval, negative values mean there is spare time available to increase decoding depth, positive values is decoder&apos;s lag into TX or next interval meaning there may be no enough CPU resources for selected decoding depth to provide reliable signal transmission.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Lag depends on CPU performance, noise conditions, band fullness and other programs using computer, it can be decreased by reducing waterfall bandwidth. If Lag is constantly negative then CPU handling well interval decoding and you can try to make decoding more aggressive to get more decodes.&lt;/p&gt;&lt;p&gt;FT8: if Lag is 0 .. 0.4 then you can still use Autoseq 3/7 (autoselect will trigger change of TX message early enough to transmit full message). If Lag &gt; 0.4 then you should try to decrease decoding aggressivity. If still Lag &gt; 0.4 then Autoseq 2/6 should be used as responding to incoming call will be partially damaged at transmission in AutoSeq 3/7. If constantly Lag  &gt; 2 then your CPU is unsuitable to operate in FT8 with current decoder settings. Sure You can monitor as SWL.&lt;/p&gt;&lt;p&gt;/xx: number of decoded messages in last interval.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2947,12 +2947,12 @@ Error: %2 - %3</source>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="286"/>
-        <location filename="../mainwindow.cpp" line="3457"/>
-        <location filename="../mainwindow.cpp" line="3464"/>
+        <location filename="../mainwindow.cpp" line="3401"/>
+        <location filename="../mainwindow.cpp" line="3408"/>
+        <location filename="../mainwindow.cpp" line="5937"/>
+        <location filename="../mainwindow.cpp" line="5942"/>
+        <location filename="../mainwindow.cpp" line="5982"/>
         <location filename="../mainwindow.cpp" line="5993"/>
-        <location filename="../mainwindow.cpp" line="5998"/>
-        <location filename="../mainwindow.cpp" line="6038"/>
-        <location filename="../mainwindow.cpp" line="6049"/>
         <source>Band Activity</source>
         <translation></translation>
     </message>
@@ -3070,9 +3070,9 @@ Error: %2 - %3</source>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1085"/>
-        <location filename="../mainwindow.cpp" line="4616"/>
-        <location filename="../mainwindow.cpp" line="5281"/>
-        <location filename="../mainwindow.cpp" line="5696"/>
+        <location filename="../mainwindow.cpp" line="4560"/>
+        <location filename="../mainwindow.cpp" line="5225"/>
+        <location filename="../mainwindow.cpp" line="5640"/>
         <source>DX Call</source>
         <translation></translation>
     </message>
@@ -3125,7 +3125,7 @@ Error: %2 - %3</source>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1480"/>
-        <location filename="../mainwindow.cpp" line="2923"/>
+        <location filename="../mainwindow.cpp" line="2867"/>
         <source>Hound</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3157,8 +3157,8 @@ Error: %2 - %3</source>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1597"/>
-        <location filename="../mainwindow.cpp" line="1526"/>
-        <location filename="../mainwindow.cpp" line="1958"/>
+        <location filename="../mainwindow.cpp" line="1487"/>
+        <location filename="../mainwindow.cpp" line="1919"/>
         <source>S meter</source>
         <translation>S metrs</translation>
     </message>
@@ -3299,7 +3299,7 @@ ZD8,ZD9,ZF,ZK3,ZL,ZL7,ZL8,ZL9,ZP,ZS,ZS8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</sou
     </message>
     <message>
         <location filename="../mainwindow.ui" line="2195"/>
-        <location filename="../mainwindow.cpp" line="5999"/>
+        <location filename="../mainwindow.cpp" line="5943"/>
         <source>Rx Frequency</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3310,7 +3310,7 @@ ZD8,ZD9,ZF,ZK3,ZL,ZL7,ZL8,ZL9,ZP,ZS,ZS8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</sou
     </message>
     <message>
         <location filename="../mainwindow.ui" line="2282"/>
-        <location filename="../mainwindow.cpp" line="6580"/>
+        <location filename="../mainwindow.cpp" line="6524"/>
         <source>&amp;Tune</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4551,427 +4551,427 @@ list. The list can be maintained in Settings (F2).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="904"/>
-        <location filename="../mainwindow.cpp" line="905"/>
+        <location filename="../mainwindow.cpp" line="865"/>
+        <location filename="../mainwindow.cpp" line="866"/>
+        <location filename="../mainwindow.cpp" line="5933"/>
+        <location filename="../mainwindow.cpp" line="5934"/>
         <location filename="../mainwindow.cpp" line="5989"/>
         <location filename="../mainwindow.cpp" line="5990"/>
-        <location filename="../mainwindow.cpp" line="6045"/>
-        <location filename="../mainwindow.cpp" line="6046"/>
         <source>Freq   Message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="926"/>
+        <location filename="../mainwindow.cpp" line="887"/>
         <source>Error Killing jtdxjt9.exe Process</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="927"/>
+        <location filename="../mainwindow.cpp" line="888"/>
         <source>KillByName return code: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="944"/>
+        <location filename="../mainwindow.cpp" line="905"/>
         <source>Error removing &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="945"/>
+        <location filename="../mainwindow.cpp" line="906"/>
         <source>Click OK to retry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1637"/>
+        <location filename="../mainwindow.cpp" line="1598"/>
         <source>TX Even</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1644"/>
+        <location filename="../mainwindow.cpp" line="1605"/>
         <source>TX Odd</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1689"/>
-        <location filename="../mainwindow.cpp" line="2366"/>
-        <location filename="../mainwindow.cpp" line="3487"/>
-        <location filename="../mainwindow.cpp" line="4093"/>
-        <location filename="../mainwindow.cpp" line="4216"/>
-        <location filename="../mainwindow.cpp" line="4450"/>
-        <location filename="../mainwindow.cpp" line="6846"/>
-        <location filename="../mainwindow.cpp" line="7042"/>
+        <location filename="../mainwindow.cpp" line="1650"/>
+        <location filename="../mainwindow.cpp" line="2310"/>
+        <location filename="../mainwindow.cpp" line="3431"/>
+        <location filename="../mainwindow.cpp" line="4037"/>
+        <location filename="../mainwindow.cpp" line="4160"/>
+        <location filename="../mainwindow.cpp" line="4394"/>
+        <location filename="../mainwindow.cpp" line="6790"/>
+        <location filename="../mainwindow.cpp" line="6986"/>
         <source>File Open Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1690"/>
-        <location filename="../mainwindow.cpp" line="2367"/>
-        <location filename="../mainwindow.cpp" line="3488"/>
-        <location filename="../mainwindow.cpp" line="4094"/>
-        <location filename="../mainwindow.cpp" line="4217"/>
-        <location filename="../mainwindow.cpp" line="4451"/>
-        <location filename="../mainwindow.cpp" line="6847"/>
-        <location filename="../mainwindow.cpp" line="7043"/>
-        <location filename="../mainwindow.cpp" line="7384"/>
+        <location filename="../mainwindow.cpp" line="1651"/>
+        <location filename="../mainwindow.cpp" line="2311"/>
+        <location filename="../mainwindow.cpp" line="3432"/>
+        <location filename="../mainwindow.cpp" line="4038"/>
+        <location filename="../mainwindow.cpp" line="4161"/>
+        <location filename="../mainwindow.cpp" line="4395"/>
+        <location filename="../mainwindow.cpp" line="6791"/>
+        <location filename="../mainwindow.cpp" line="6987"/>
+        <location filename="../mainwindow.cpp" line="7328"/>
         <source>Cannot open &quot;%1&quot; for append: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1793"/>
+        <location filename="../mainwindow.cpp" line="1754"/>
         <source>Error saving c2 file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1870"/>
+        <location filename="../mainwindow.cpp" line="1831"/>
         <source>Error in SoundInput</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1874"/>
+        <location filename="../mainwindow.cpp" line="1835"/>
         <source>Error in SoundOutput</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1960"/>
+        <location filename="../mainwindow.cpp" line="1921"/>
         <source>Pwr</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2477"/>
+        <location filename="../mainwindow.cpp" line="2421"/>
         <source>Subprocess Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2478"/>
+        <location filename="../mainwindow.cpp" line="2422"/>
         <source>Subprocess failed with exit code %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2480"/>
-        <location filename="../mainwindow.cpp" line="2499"/>
+        <location filename="../mainwindow.cpp" line="2424"/>
+        <location filename="../mainwindow.cpp" line="2443"/>
         <source>Running: %1
 %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2498"/>
+        <location filename="../mainwindow.cpp" line="2442"/>
         <source>Subprocess error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2574"/>
+        <location filename="../mainwindow.cpp" line="2518"/>
         <source>Spotted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2581"/>
+        <location filename="../mainwindow.cpp" line="2525"/>
         <source>Can not establish/complete connection to dxsummit server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2604"/>
+        <location filename="../mainwindow.cpp" line="2548"/>
         <source>The algorithms, source code, look-and-feel of WSJT-X and related programs, and protocol specifications for the modes FSK441, FT8, JT4, JT6M, JT9, JT65, JTMS, QRA64, ISCAT, MSK144 are Copyright (C) 2001-2018 by one or more of the following authors: Joseph Taylor, K1JT; Bill Somerville, G4WJS; Steven Franke, K9AN; Nico Palermo, IV3NWV; Greg Beam, KI7MT; Michael Black, W9MDB; Edson Pereira, PY2SDR; Philip Karn, KA9Q; and other members of the WSJT Development Group.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2724"/>
+        <location filename="../mainwindow.cpp" line="2668"/>
         <source>No data read from disk. Wrong file format?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2731"/>
+        <location filename="../mainwindow.cpp" line="2675"/>
         <source>Confirm Delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2732"/>
+        <location filename="../mainwindow.cpp" line="2676"/>
         <source>Are you sure you want to delete all *.wav and *.c2 files in
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2772"/>
+        <location filename="../mainwindow.cpp" line="2716"/>
         <source>AutoSeq0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2785"/>
+        <location filename="../mainwindow.cpp" line="2729"/>
         <source>AutoSeq1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2794"/>
-        <location filename="../mainwindow.cpp" line="2820"/>
+        <location filename="../mainwindow.cpp" line="2738"/>
+        <location filename="../mainwindow.cpp" line="2764"/>
         <source>AutoSeq2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2795"/>
-        <location filename="../mainwindow.cpp" line="2816"/>
+        <location filename="../mainwindow.cpp" line="2739"/>
+        <location filename="../mainwindow.cpp" line="2760"/>
         <source>AutoSeq6</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2804"/>
-        <location filename="../mainwindow.cpp" line="2821"/>
+        <location filename="../mainwindow.cpp" line="2748"/>
+        <location filename="../mainwindow.cpp" line="2765"/>
         <source>AutoSeq3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2805"/>
-        <location filename="../mainwindow.cpp" line="2817"/>
+        <location filename="../mainwindow.cpp" line="2749"/>
+        <location filename="../mainwindow.cpp" line="2761"/>
         <source>AutoSeq7</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2899"/>
+        <location filename="../mainwindow.cpp" line="2843"/>
         <source>Hound TX frequency control is not allowed in the standard FT8 sub-bands.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2907"/>
+        <location filename="../mainwindow.cpp" line="2851"/>
         <source>Hound mode TX frequency control requires *Split* rig control (either *Rig* or *Fake It* on the *Settings | Radio* tab.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2910"/>
+        <location filename="../mainwindow.cpp" line="2854"/>
         <source>Hound TX frequency control is not allowed in the standard FT8 sub-bands and requires *Split* rig control (either *Rig* or *Fake It* on the *Settings | Radio* tab.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2918"/>
+        <location filename="../mainwindow.cpp" line="2862"/>
         <source>Hound TX frequency control warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2923"/>
+        <location filename="../mainwindow.cpp" line="2867"/>
         <source>HoundFC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2984"/>
+        <location filename="../mainwindow.cpp" line="2928"/>
         <source>Keyboard Shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2995"/>
+        <location filename="../mainwindow.cpp" line="2939"/>
         <source>Special Mouse Commands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3451"/>
+        <location filename="../mainwindow.cpp" line="3395"/>
         <source>Avg=</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3451"/>
-        <location filename="../mainwindow.cpp" line="3467"/>
+        <location filename="../mainwindow.cpp" line="3395"/>
+        <location filename="../mainwindow.cpp" line="3411"/>
         <source>Freq  </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3451"/>
-        <location filename="../mainwindow.cpp" line="3467"/>
+        <location filename="../mainwindow.cpp" line="3395"/>
+        <location filename="../mainwindow.cpp" line="3411"/>
         <source>Lag=</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3456"/>
-        <location filename="../mainwindow.cpp" line="3463"/>
+        <location filename="../mainwindow.cpp" line="3400"/>
+        <location filename="../mainwindow.cpp" line="3407"/>
         <source>check time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3765"/>
-        <location filename="../mainwindow.cpp" line="3771"/>
+        <location filename="../mainwindow.cpp" line="3709"/>
+        <location filename="../mainwindow.cpp" line="3715"/>
         <source>Confirm change Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3767"/>
-        <location filename="../mainwindow.cpp" line="3774"/>
+        <location filename="../mainwindow.cpp" line="3711"/>
+        <location filename="../mainwindow.cpp" line="3718"/>
         <source>Are You sure to change UI Language to English, JTDX will restart?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3943"/>
+        <location filename="../mainwindow.cpp" line="3887"/>
         <source>Please choose another Tx frequency. JTDX will not knowingly transmit another mode in the WSPR sub-band.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3948"/>
-        <location filename="../mainwindow.cpp" line="3951"/>
+        <location filename="../mainwindow.cpp" line="3892"/>
+        <location filename="../mainwindow.cpp" line="3895"/>
         <source>WSPR Guard Band</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4069"/>
+        <location filename="../mainwindow.cpp" line="4013"/>
         <source>TUNE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4070"/>
+        <location filename="../mainwindow.cpp" line="4014"/>
         <source>LastTx: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4284"/>
+        <location filename="../mainwindow.cpp" line="4228"/>
         <source>Tx: TUNE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4285"/>
+        <location filename="../mainwindow.cpp" line="4229"/>
         <source>Tx: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4290"/>
+        <location filename="../mainwindow.cpp" line="4234"/>
         <source>Receiving </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4343"/>
+        <location filename="../mainwindow.cpp" line="4287"/>
         <source>Pwr&lt;br&gt;%1 W</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4501"/>
+        <location filename="../mainwindow.cpp" line="4445"/>
         <source>Last Tx: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5382"/>
-        <location filename="../mainwindow.cpp" line="5394"/>
-        <location filename="../mainwindow.cpp" line="5407"/>
-        <location filename="../mainwindow.cpp" line="5433"/>
+        <location filename="../mainwindow.cpp" line="5326"/>
+        <location filename="../mainwindow.cpp" line="5338"/>
+        <location filename="../mainwindow.cpp" line="5351"/>
+        <location filename="../mainwindow.cpp" line="5377"/>
         <source>Add to CALL3.TXT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5383"/>
+        <location filename="../mainwindow.cpp" line="5327"/>
         <source>Please enter a valid grid locator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5395"/>
+        <location filename="../mainwindow.cpp" line="5339"/>
         <source>Cannot open &quot;%1&quot; for read/write: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5408"/>
+        <location filename="../mainwindow.cpp" line="5352"/>
         <source>Cannot open &quot;%1&quot; for writing: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5431"/>
+        <location filename="../mainwindow.cpp" line="5375"/>
         <source>%1
 is already in CALL3.TXT, do you wish to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5794"/>
+        <location filename="../mainwindow.cpp" line="5738"/>
         <source>Error sending QSO ADIF data to secondary UDP server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5794"/>
+        <location filename="../mainwindow.cpp" line="5738"/>
         <source>Write returned &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5940"/>
+        <location filename="../mainwindow.cpp" line="5884"/>
         <source>Tx WSPR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6036"/>
+        <location filename="../mainwindow.cpp" line="5980"/>
         <source>    Freq     Drift  Call          Grid    dBm   Dist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6135"/>
-        <location filename="../mainwindow.cpp" line="6147"/>
+        <location filename="../mainwindow.cpp" line="6079"/>
+        <location filename="../mainwindow.cpp" line="6091"/>
         <source>Confirm Erase</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6136"/>
+        <location filename="../mainwindow.cpp" line="6080"/>
         <source>Are you sure you want to erase file ALL.TXT ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6148"/>
+        <location filename="../mainwindow.cpp" line="6092"/>
         <source>Are you sure you want to erase your QSO LOG?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6753"/>
+        <location filename="../mainwindow.cpp" line="6697"/>
         <source>Lockd Tx=Rx</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6754"/>
+        <location filename="../mainwindow.cpp" line="6698"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Push button to allow Tx/Rx AF frequencies split operation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6757"/>
+        <location filename="../mainwindow.cpp" line="6701"/>
         <source>Tx/Rx Split</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6758"/>
+        <location filename="../mainwindow.cpp" line="6702"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Push button to lock Tx frequency to the Rx AF frequency.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6881"/>
+        <location filename="../mainwindow.cpp" line="6825"/>
         <source>Rig Control Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6955"/>
+        <location filename="../mainwindow.cpp" line="6899"/>
         <source>Tune digital gain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6956"/>
+        <location filename="../mainwindow.cpp" line="6900"/>
         <source>Transmit digital gain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6975"/>
+        <location filename="../mainwindow.cpp" line="6919"/>
         <source>Prefixes</source>
         <translation>Prefiks</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7024"/>
-        <location filename="../mainwindow.cpp" line="7025"/>
+        <location filename="../mainwindow.cpp" line="6968"/>
+        <location filename="../mainwindow.cpp" line="6969"/>
         <source>Logd </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7248"/>
+        <location filename="../mainwindow.cpp" line="7192"/>
         <source>Network Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7249"/>
+        <location filename="../mainwindow.cpp" line="7193"/>
         <source>Error: %1
 UDP server %2:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7383"/>
+        <location filename="../mainwindow.cpp" line="7327"/>
         <source>File Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7595"/>
+        <location filename="../mainwindow.cpp" line="7539"/>
         <source>Tx watchdog expired</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7609"/>
+        <location filename="../mainwindow.cpp" line="7553"/>
         <source>WD %1m</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4988,9 +4988,9 @@ UDP server %2:%3</source>
 <context>
     <name>PollingTransceiver</name>
     <message>
-        <location filename="../PollingTransceiver.cpp" line="259"/>
+        <location filename="../PollingTransceiver.cpp" line="271"/>
         <source>Unexpected rig error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Negaidīta transīvera kļūda</translation>
     </message>
 </context>
 <context>
@@ -5246,7 +5246,7 @@ Please verify the correct directory name was given.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widegraph.cpp" line="17"/>
+        <location filename="../widegraph.cpp" line="14"/>
         <source>User Defined</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5574,7 +5574,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../widegraph.ui" line="20"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dialogs</translation>
     </message>
     <message>
         <location filename="../widegraph.ui" line="83"/>
@@ -5756,7 +5756,7 @@ Error(%2): %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widegraph.cpp" line="32"/>
+        <location filename="../widegraph.cpp" line="29"/>
         <source>Wide Graph</source>
         <translation type="unfinished"></translation>
     </message>
