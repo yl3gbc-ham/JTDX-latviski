@@ -2033,7 +2033,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="378"/>
         <source>S. Africa</source>
-        <translation type="unfinished"></translation>
+        <translation>Dienvidāfrika</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="379"/>
