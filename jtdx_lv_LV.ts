@@ -418,7 +418,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="55"/>
         <source>ITU HQ</source>
-        <translation></translation>
+        <translation>ITU HQ</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="56"/>
@@ -478,7 +478,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="67"/>
         <source>Togo</source>
-        <translation type="unfinished"></translation>
+        <translation>Togo</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="68"/>
@@ -573,12 +573,12 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="86"/>
         <source>W. Malaysia</source>
-        <translation> Dienvidmalaizija</translation>
+        <translation>Dienvidmalaizija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="87"/>
         <source>E. Malaysia</source>
-        <translation> Austrummalaizija</translation>
+        <translation>Austrummalaizija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="88"/>
@@ -593,7 +593,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="90"/>
         <source>Burundi</source>
-        <translation>Burundi</translation>
+        <translation>Burundija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="91"/>
@@ -708,7 +708,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="113"/>
         <source>Easter Is.</source>
-        <translation>Lieldienu sala.</translation>
+        <translation>Lieldienu sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="114"/>
@@ -743,7 +743,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="120"/>
         <source>Madeira Is.</source>
-        <translation>Madeiras sala.</translation>
+        <translation>Madeiras sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="121"/>
@@ -773,7 +773,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="126"/>
         <source>Cape Verde</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaboverde</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="127"/>
@@ -833,7 +833,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="138"/>
         <source>Canary Is.</source>
-        <translation>Kanāriju Salas.</translation>
+        <translation>Kanāriju Salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="139"/>
@@ -943,12 +943,12 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="160"/>
         <source>Clipperton Is.</source>
-        <translation>Klipertona sala.</translation>
+        <translation>Klipertona sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="161"/>
         <source>Marquesas Is.</source>
-        <translation>Marķīza salas.</translation>
+        <translation>Marķīza salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="162"/>
