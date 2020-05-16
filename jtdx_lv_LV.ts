@@ -1373,12 +1373,12 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="246"/>
         <source>Czech Rep.</source>
-        <translation>Čehija Republika.</translation>
+        <translation>Čehija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="247"/>
         <source>Slovak Rep.</source>
-        <translation>Slovākijas Republika.</translation>
+        <translation>Slovākija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="248"/>
@@ -1563,7 +1563,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="284"/>
         <source>Somalia</source>
-        <translation type="unfinished"></translation>
+        <translation>Somālija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="285"/>
