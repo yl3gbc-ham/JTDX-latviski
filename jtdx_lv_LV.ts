@@ -338,7 +338,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="39"/>
         <source>Rodriguez Is.</source>
-        <translation>Rodrigesa sala</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="40"/>
@@ -363,7 +363,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="44"/>
         <source>Rotuma Is.</source>
-        <translation>Rotuma sala</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="45"/>
@@ -663,7 +663,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="104"/>
         <source>Pratas Is.</source>
-        <translation>Pratas sala</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="105"/>
@@ -708,7 +708,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="113"/>
         <source>Easter Is.</source>
-        <translation>Lieldienu sala</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="114"/>
