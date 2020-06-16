@@ -308,12 +308,12 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="33"/>
         <source>where?</source>
-        <translation>kādā veidā?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="34"/>
         <source>Sov Mil Order of Malta</source>
-        <translation>Neatkarīgais Maltas Bruņinieku ordenis</translation>
+        <translation type="unfinished">Neatkarīgais Maltas Bruņinieku ordenis</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="35"/>
@@ -588,7 +588,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="89"/>
         <source>Dem. Rep. of the Congo</source>
-        <translation>Kongo Demokrātiskā Republika</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="90"/>
@@ -968,7 +968,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="165"/>
         <source>Glorioso Is.</source>
-        <translation>Glorjēzu salas.</translation>
+        <translation>Glorjēzu salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="166"/>
