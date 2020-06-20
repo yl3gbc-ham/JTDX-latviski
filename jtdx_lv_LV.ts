@@ -60,12 +60,12 @@
     <message>
         <location filename="../Configuration.cpp" line="1201"/>
         <source>&amp;OK</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1202"/>
         <source>&amp;Cancel</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1217"/>
@@ -98,33 +98,33 @@ Another application may be locking the directory</source>
         <location filename="../Configuration.cpp" line="1452"/>
         <location filename="../Configuration.cpp" line="1504"/>
         <source>&amp;Delete</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1456"/>
         <location filename="../Configuration.cpp" line="1508"/>
         <source>&amp;Insert ...</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1460"/>
         <source>&amp;Load ...</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1464"/>
         <source>&amp;Save as ...</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1468"/>
         <source>&amp;Merge ...</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1472"/>
         <source>&amp;Reset</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2697"/>
@@ -195,7 +195,7 @@ Formāts:
     <message>
         <location filename="../Configuration.cpp" line="3284"/>
         <source>CQ/73 in message</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3285"/>
@@ -2143,7 +2143,7 @@ Formāts:
     <message>
         <location filename="../decodedtext.cpp" line="29"/>
         <source>nQSOProgress</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../decodedtext.cpp" line="30"/>
@@ -5301,7 +5301,7 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../Bands.cpp" line="50"/>
         <source>OOB</source>
-        <translation>OOB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../WFPalette.cpp" line="55"/>
@@ -5568,7 +5568,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.cpp" line="279"/>
         <source>&amp;OK</source>
-        <translation type="unfinished">&amp;OK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="280"/>
@@ -5591,7 +5591,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../StationList.cpp" line="344"/>
         <source>Antenna description</source>
-        <translation type="unfinished"></translation>
+        <translation>Antenas apraksts</translation>
     </message>
     <message>
         <location filename="../StationList.cpp" line="366"/>
@@ -5698,7 +5698,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../widegraph.ui" line="320"/>
         <source>Start </source>
-        <translation>Sākt </translation>
+        <translation>Sākt</translation>
     </message>
     <message>
         <location filename="../widegraph.ui" line="345"/>
@@ -8279,7 +8279,7 @@ soundcard changes</source>
     <message>
         <location filename="../main.cpp" line="141"/>
         <source>rig-name</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="145"/>
