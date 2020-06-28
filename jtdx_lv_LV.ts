@@ -5845,7 +5845,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="78"/>
         <source>My C&amp;all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mans C&amp;all:</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="88"/>
