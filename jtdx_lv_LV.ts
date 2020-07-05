@@ -5458,17 +5458,17 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundin.cpp" line="132"/>
         <source>Receiving</source>
-        <translation type="unfinished"></translation>
+        <translation>Saņemt</translation>
     </message>
     <message>
         <location filename="../soundin.cpp" line="136"/>
         <source>Suspended</source>
-        <translation type="unfinished"></translation>
+        <translation>Suspendēts</translation>
     </message>
     <message>
         <location filename="../soundin.cpp" line="141"/>
         <source>Interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>pārtraukt</translation>
     </message>
     <message>
         <location filename="../soundin.cpp" line="148"/>
@@ -5478,7 +5478,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundin.cpp" line="152"/>
         <source>Stopped</source>
-        <translation>Apstājās</translation>
+        <translation>Apturēt</translation>
     </message>
 </context>
 <context>
