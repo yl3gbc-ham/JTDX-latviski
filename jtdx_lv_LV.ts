@@ -98,13 +98,13 @@ Another application may be locking the directory</source>
         <location filename="../Configuration.cpp" line="1452"/>
         <location filename="../Configuration.cpp" line="1504"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dzēst</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1456"/>
         <location filename="../Configuration.cpp" line="1508"/>
         <source>&amp;Insert ...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ievietot ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1460"/>
@@ -114,7 +114,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1464"/>
         <source>&amp;Save as ...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Saglabāt kā ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1468"/>
@@ -200,7 +200,7 @@ Formāts:
     <message>
         <location filename="../Configuration.cpp" line="3285"/>
         <source>CQ in message</source>
-        <translation type="unfinished"></translation>
+        <translation>CQ ziņojums</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="4468"/>
@@ -308,7 +308,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="33"/>
         <source>where?</source>
-        <translation type="unfinished"></translation>
+        <translation>valsts?</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="34"/>
@@ -6031,7 +6031,7 @@ Error(%2): %3</source>
         <location filename="../Configuration.ui" line="505"/>
         <location filename="../Configuration.ui" line="552"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Atslēgt</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="508"/>
@@ -6150,7 +6150,7 @@ quiet period when decoding is done.</source>
     <message>
         <location filename="../Configuration.ui" line="774"/>
         <source>Output power</source>
-        <translation type="unfinished"></translation>
+        <translation>Izejas jauda</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="802"/>
@@ -6181,7 +6181,7 @@ quiet period when decoding is done.</source>
     <message>
         <location filename="../Configuration.ui" line="873"/>
         <source>Baud Rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārraides ātrumu:</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="889"/>
