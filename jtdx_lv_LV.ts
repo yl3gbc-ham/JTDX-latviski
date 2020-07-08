@@ -2859,7 +2859,7 @@ Error: %2 - %3</source>
         <location filename="../logqso.ui" line="82"/>
         <location filename="../logqso.ui" line="114"/>
         <source>dd/MM/yyyy HH:mm:ss</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="98"/>
@@ -2921,12 +2921,12 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.cpp" line="27"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../logqso.cpp" line="28"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../logqso.cpp" line="201"/>
@@ -5366,7 +5366,7 @@ Error(%3): %4</source>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="181"/>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="196"/>
         <source>Network Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkla kļuda</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="173"/>
@@ -6337,7 +6337,7 @@ a few, particularly some Kenwood rigs, require it).</source>
         <location filename="../Configuration.ui" line="1165"/>
         <location filename="../Configuration.ui" line="1198"/>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>Zems</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1177"/>
@@ -6479,7 +6479,7 @@ or bandwidth is selected).</source>
     <message>
         <location filename="../Configuration.ui" line="1471"/>
         <source>Rig</source>
-        <translation type="unfinished"></translation>
+        <translation>Transīvers</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1514"/>
