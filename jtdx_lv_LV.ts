@@ -5569,7 +5569,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.cpp" line="279"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="280"/>
