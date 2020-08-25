@@ -79,7 +79,7 @@
 Another application may be locking the directory</source>
         <translation>Kļūda izveidojot pagaidu direktoriju:
 % 1
- Cita programma var bloķēt direktoriju</translation>
+Cita programma var bloķēt direktoriju</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1244"/>
@@ -308,7 +308,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="33"/>
         <source>where?</source>
-        <translation>valsts?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="34"/>
@@ -6733,7 +6733,7 @@ both here.</source>
     <message>
         <location filename="../Configuration.ui" line="2233"/>
         <source>Tx &amp;Macros</source>
-        <translation type="unfinished"></translation>
+        <translation>Tx &amp;Makrosi</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2236"/>
@@ -6743,7 +6743,7 @@ both here.</source>
     <message>
         <location filename="../Configuration.ui" line="2242"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="2249"/>
@@ -7640,7 +7640,7 @@ Right click for insert and delete options.</source>
         <location filename="../Configuration.ui" line="4955"/>
         <location filename="../Configuration.ui" line="5020"/>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Paslēpt</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="4962"/>
@@ -7672,7 +7672,7 @@ ZD8,ZD9,ZF,ZK3,ZL,ZL7,ZL8,ZL9,ZP,ZS,ZS8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</sou
         <location filename="../Configuration.ui" line="4988"/>
         <location filename="../Configuration.ui" line="5043"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodzēst</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5000"/>
@@ -7705,7 +7705,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
     <message>
         <location filename="../Configuration.ui" line="5075"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieslēgt</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5082"/>
@@ -7720,7 +7720,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
     <message>
         <location filename="../Configuration.ui" line="5092"/>
         <source>Reset</source>
-        <translation type="unfinished">Nomest</translation>
+        <translation>Nomest</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5106"/>
@@ -7762,7 +7762,7 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
     <message>
         <location filename="../Configuration.ui" line="5210"/>
         <source>Scheduler</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5218"/>
@@ -7777,12 +7777,12 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
     <message>
         <location filename="../Configuration.ui" line="5231"/>
         <source>hh</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5241"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="5251"/>
