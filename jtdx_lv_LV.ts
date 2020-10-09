@@ -60,7 +60,7 @@
     <message>
         <location filename="../Configuration.cpp" line="1205"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1206"/>
@@ -5569,12 +5569,12 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.cpp" line="279"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="280"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Acelt</translation>
     </message>
 </context>
 <context>
@@ -8295,7 +8295,7 @@ soundcard changes</source>
     <message>
         <location filename="../main.cpp" line="141"/>
         <source>rig-name</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="145"/>
