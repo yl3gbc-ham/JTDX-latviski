@@ -633,7 +633,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="98"/>
         <source>United Arab Emirates</source>
-        <translation>Apvienotie Arābu Emirāti </translation>
+        <translation>Apvienotie Arābu Emirāti</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="99"/>
