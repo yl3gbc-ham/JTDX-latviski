@@ -1558,7 +1558,6 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="283"/>
         <source>Banaba Is.</source>
-        <translatorcomment>pārbaudit</translatorcomment>
         <translation>Banana sala</translation>
     </message>
     <message>
