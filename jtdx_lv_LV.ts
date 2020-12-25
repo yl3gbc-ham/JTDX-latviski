@@ -109,7 +109,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1464"/>
         <source>&amp;Load ...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1468"/>
@@ -119,12 +119,12 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1472"/>
         <source>&amp;Merge ...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1476"/>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2724"/>
@@ -308,7 +308,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="33"/>
         <source>where?</source>
-        <translation>valsts?</translation>
+        <translation>nezināma teritorija?</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="34"/>
@@ -2047,7 +2047,7 @@ Formāts:
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="71"/>
         <source>Failed to connect to DX Lab Suite Commander
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Kļūda pieslēdzoties pie DX Lab Suite Commander</translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="127"/>
@@ -2388,7 +2388,8 @@ Error: %2 - %3</source>
         <location filename="../HRDTransceiver.cpp" line="151"/>
         <source>Failed to connect to Ham Radio Deluxe
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Kļuda savienojoties ar Ham Radio Deluxe
+</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="160"/>
@@ -5381,7 +5382,8 @@ Error(%3): %4</source>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="100"/>
         <source>Cannot delete file:
 &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar nodzēst failu:
+&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="172"/>
