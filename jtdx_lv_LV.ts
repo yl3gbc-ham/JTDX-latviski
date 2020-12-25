@@ -313,7 +313,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="34"/>
         <source>Sov Mil Order of Malta</source>
-        <translation type="unfinished">Neatkarīgais Maltas Bruņinieku ordenis</translation>
+        <translation>Neatkarīgais Maltas Bruņinieku ordenis</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="35"/>
@@ -1213,7 +1213,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="214"/>
         <source>Bear Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lāču sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="215"/>
@@ -1468,17 +1468,17 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="265"/>
         <source>Franz Josef Land</source>
-        <translation type="unfinished"></translation>
+        <translation>Franča Jozefa Zeme</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="266"/>
         <source>Western Sahara</source>
-        <translation type="unfinished"></translation>
+        <translation>Rietumsahāra</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="267"/>
         <source>Bangladesh</source>
-        <translation type="unfinished"></translation>
+        <translation>Bangladeša</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="268"/>
@@ -1488,12 +1488,12 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="269"/>
         <source>Seychelles</source>
-        <translation type="unfinished"></translation>
+        <translation>Seišelu salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="270"/>
         <source>Sao Tome &amp; Principe</source>
-        <translation type="unfinished"></translation>
+        <translation>Santome un Prinsipi</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="271"/>
@@ -1508,7 +1508,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="273"/>
         <source>Sudan</source>
-        <translation type="unfinished"></translation>
+        <translation>Sudāna</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="274"/>
@@ -1523,7 +1523,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="276"/>
         <source>Mount Athos</source>
-        <translation type="unfinished"></translation>
+        <translation>Atona kalns</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="277"/>
@@ -1538,7 +1538,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="279"/>
         <source>Tuvalu</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuvalu</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="280"/>
@@ -1558,7 +1558,8 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="283"/>
         <source>Banaba Is.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>pārbaudit</translatorcomment>
+        <translation>Banana sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="284"/>
@@ -1573,7 +1574,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="286"/>
         <source>Palau</source>
-        <translation type="unfinished"></translation>
+        <translation>Palau</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="287"/>
@@ -1593,7 +1594,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="290"/>
         <source>Guatemala</source>
-        <translation type="unfinished"></translation>
+        <translation>Gvatemala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="291"/>
@@ -1603,12 +1604,12 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="292"/>
         <source>Cocos Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokosu Salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="293"/>
         <source>Cameroon</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamerūna</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="294"/>
@@ -1618,37 +1619,37 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="295"/>
         <source>C. African Rep.</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrālāfrikas Republika</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="296"/>
         <source>Rep. of the Congo</source>
-        <translation type="unfinished"></translation>
+        <translation>Kongo Republika</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="297"/>
         <source>Gabon</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabona</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="298"/>
         <source>Chad</source>
-        <translation type="unfinished"></translation>
+        <translation>Čada</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="299"/>
         <source>Cote d&apos;Ivoire</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotdivuāra</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="300"/>
         <source>Benin</source>
-        <translation type="unfinished"></translation>
+        <translation>Benina</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="301"/>
         <source>Mali</source>
-        <translation type="unfinished"></translation>
+        <translation>Mali</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="302"/>
@@ -1683,37 +1684,37 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="308"/>
         <source>Antigua &amp; Barbuda</source>
-        <translation type="unfinished"></translation>
+        <translation>Antigva un Barbuda</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="309"/>
         <source>Belize</source>
-        <translation type="unfinished"></translation>
+        <translation>Beliza</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="310"/>
         <source>St. Kitts &amp; Nevis</source>
-        <translation type="unfinished"></translation>
+        <translation>Svētā Kristofera un Nevisa sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="311"/>
         <source>Namibia</source>
-        <translation type="unfinished"></translation>
+        <translation>Namībija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="312"/>
         <source>Micronesia</source>
-        <translation type="unfinished"></translation>
+        <translation>Mikronēzija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="313"/>
         <source>Marshall Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maršalu salas </translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="314"/>
         <source>Brunei Darussalam</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruneja Darusalama</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="315"/>
@@ -1728,22 +1729,22 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="317"/>
         <source>Heard Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hērda sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="318"/>
         <source>Macquarie Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Makvorija sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="319"/>
         <source>Cocos (Keeling) Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokosu Salas </translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="320"/>
         <source>Lord Howe Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorda Hava sala </translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="321"/>
@@ -1753,7 +1754,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="322"/>
         <source>Norfolk Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notfolkas sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="323"/>
@@ -1768,27 +1769,27 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="325"/>
         <source>Anguilla</source>
-        <translation type="unfinished"></translation>
+        <translation>Angila</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="326"/>
         <source>Montserrat</source>
-        <translation type="unfinished"></translation>
+        <translation>Montserata</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="327"/>
         <source>British Virgin Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Britu Virdžīnu salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="328"/>
         <source>Turks &amp; Caicos Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tērksas un Kaikosas salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="329"/>
         <source>Pitcairn Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pitkērna salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="330"/>
@@ -1798,32 +1799,32 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="331"/>
         <source>Falkland Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Folklenda salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="332"/>
         <source>S. Georgia Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dienvidsendviču salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="333"/>
         <source>S. Shetland Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dienvidšetlendas salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="334"/>
         <source>S. Orkney Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dienvidorkneju salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="335"/>
         <source>S. Sandwich Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dienvidsendviču Salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="336"/>
         <source>Bermuda</source>
-        <translation type="unfinished"></translation>
+        <translation>Bermuda</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="337"/>
@@ -1843,47 +1844,47 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="340"/>
         <source>Andaman &amp; Nicobar Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Andamanu un Nikobaru salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="341"/>
         <source>Lakshadweep Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lakšadvīpa</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="342"/>
         <source>Mexico</source>
-        <translation type="unfinished"></translation>
+        <translation>Meksika</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="343"/>
         <source>Revillagigedo</source>
-        <translation type="unfinished"></translation>
+        <translation>Reviljahihedo salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="344"/>
         <source>Burkina Faso</source>
-        <translation type="unfinished"></translation>
+        <translation>Burkina Faso</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="345"/>
         <source>Cambodia</source>
-        <translation type="unfinished"></translation>
+        <translation>Kambodža</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="346"/>
         <source>Laos</source>
-        <translation type="unfinished"></translation>
+        <translation>Laosa</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="347"/>
         <source>Macao</source>
-        <translation type="unfinished"></translation>
+        <translation>Makau</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="348"/>
         <source>Myanmar</source>
-        <translation type="unfinished"></translation>
+        <translation>Mjanma</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="349"/>
@@ -1903,7 +1904,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="352"/>
         <source>Vanuatu</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanuatu</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="353"/>
@@ -1918,7 +1919,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="355"/>
         <source>Nicaragua</source>
-        <translation type="unfinished"></translation>
+        <translation>Nikvaragva</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="356"/>
@@ -1928,7 +1929,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="357"/>
         <source>El Salvador</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvadora</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="358"/>
@@ -1943,27 +1944,27 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="360"/>
         <source>Aves Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avesas sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="361"/>
         <source>Zimbabwe</source>
-        <translation type="unfinished"></translation>
+        <translation>Zimbabve</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="362"/>
         <source>N. Macedonia</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziemeļmaķedonija</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="363"/>
         <source>Rep. of Kosovo</source>
-        <translation type="unfinished"></translation>
+        <translation>Kosovas Republika</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="364"/>
         <source>Rep. of S. Sudan</source>
-        <translation type="unfinished"></translation>
+        <translation>Dienvidsudāna</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="365"/>
@@ -1973,7 +1974,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="366"/>
         <source>Gibraltar</source>
-        <translation type="unfinished"></translation>
+        <translation>Gibraltārs</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="367"/>
@@ -1983,17 +1984,17 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="368"/>
         <source>St. Helena</source>
-        <translation type="unfinished"></translation>
+        <translation>Sv. Helēnas sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="369"/>
         <source>Ascension Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Debesbraukšanas sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="370"/>
         <source>Tristan da Cunha &amp; Gough</source>
-        <translation type="unfinished"></translation>
+        <translation>Tristana da Kuņas salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="371"/>
@@ -2003,7 +2004,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="372"/>
         <source>Tokelau Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tokelau salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="373"/>
@@ -2013,22 +2014,22 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="374"/>
         <source>Chatham Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Četema salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="375"/>
         <source>Kermadec Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kermadeka salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="376"/>
         <source>N.Z. Subantarctic Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaunzēlandes Subantarktikas salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="377"/>
         <source>Paraguay</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragvaja</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="378"/>
@@ -2038,7 +2039,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="379"/>
         <source>Pr. Edward &amp; Marion Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prinča Edvarda salas</translation>
     </message>
 </context>
 <context>
