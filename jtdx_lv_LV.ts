@@ -109,7 +109,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1463"/>
         <source>&amp;Load ...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1467"/>
@@ -119,12 +119,12 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1471"/>
         <source>&amp;Merge ...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1475"/>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2735"/>
@@ -1828,7 +1828,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="337"/>
         <source>Chagos Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Čagosa sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="338"/>
@@ -5626,7 +5626,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../StationList.cpp" line="365"/>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../StationList.cpp" line="366"/>
@@ -5703,7 +5703,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../widegraph.ui" line="284"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Izslēgt</translation>
     </message>
     <message>
         <location filename="../widegraph.ui" line="289"/>
@@ -5728,7 +5728,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../widegraph.ui" line="332"/>
         <source>Start </source>
-        <translation>Sākt</translation>
+        <translation>Sākt </translation>
     </message>
     <message>
         <location filename="../widegraph.ui" line="357"/>
@@ -5738,7 +5738,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../widegraph.ui" line="360"/>
         <source>N Avg </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../widegraph.ui" line="398"/>
@@ -5803,12 +5803,12 @@ Error(%2): %3</source>
     <message>
         <location filename="../widegraph.ui" line="539"/>
         <source> %</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../widegraph.ui" line="542"/>
         <source>Spec </source>
-        <translation type="unfinished"></translation>
+        <translation>Pauze </translation>
     </message>
     <message>
         <location filename="../widegraph.ui" line="593"/>
