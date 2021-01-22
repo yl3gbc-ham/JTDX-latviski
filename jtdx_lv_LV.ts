@@ -109,7 +109,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1463"/>
         <source>&amp;Load ...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1467"/>
@@ -124,7 +124,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1475"/>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2735"/>
@@ -5380,7 +5380,7 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../widegraph.cpp" line="14"/>
         <source>User Defined</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Bands.cpp" line="51"/>
