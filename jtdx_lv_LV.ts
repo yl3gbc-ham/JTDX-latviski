@@ -119,7 +119,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1471"/>
         <source>&amp;Merge ...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1475"/>
@@ -255,12 +255,12 @@ Formāts:
     <message>
         <location filename="../Configuration.cpp" line="5217"/>
         <source>Version is too new</source>
-        <translation type="unfinished"></translation>
+        <translation>Versija ir pārāk jauna</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5227"/>
         <source>Contents corrupt</source>
-        <translation type="unfinished"></translation>
+        <translation>Saturs ir bojāts</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5237"/>
@@ -1758,7 +1758,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="323"/>
         <source>Willis Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vilisa sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="324"/>
@@ -1793,7 +1793,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="330"/>
         <source>Ducie Is.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="331"/>
@@ -1828,7 +1828,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="337"/>
         <source>Chagos Is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chagos arhipelāgs</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="338"/>
@@ -5633,17 +5633,17 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.cpp" line="266"/>
         <source>Add Station</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienot staciju</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="271"/>
         <source>&amp;Band:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="272"/>
         <source>&amp;Offset (MHz):</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="273"/>
@@ -5658,7 +5658,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.cpp" line="280"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
