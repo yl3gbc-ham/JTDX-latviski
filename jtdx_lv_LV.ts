@@ -58,22 +58,22 @@
 <context>
     <name>Configuration::impl</name>
     <message>
-        <location filename="../Configuration.cpp" line="1210"/>
+        <location filename="../Configuration.cpp" line="1338"/>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="1211"/>
+        <location filename="../Configuration.cpp" line="1339"/>
         <source>&amp;Cancel</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="1226"/>
+        <location filename="../Configuration.cpp" line="1354"/>
         <source>Create temporary directory error: </source>
         <translation>Kļūda izveidojot pagaidu direktoriju: </translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="1232"/>
+        <location filename="../Configuration.cpp" line="1360"/>
         <source>Create temporary directory error:
 %1
 Another application may be locking the directory</source>
@@ -82,67 +82,82 @@ Another application may be locking the directory</source>
  Cita programma var bloķēt direktoriju</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="1249"/>
+        <location filename="../Configuration.cpp" line="1377"/>
         <source>Create data directory error: </source>
         <translation>Kļūda, izveidojot datu katalogu: </translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="1258"/>
-        <location filename="../Configuration.cpp" line="1269"/>
+        <location filename="../Configuration.cpp" line="1386"/>
+        <location filename="../Configuration.cpp" line="1397"/>
         <source>Create Directory</source>
         <comment>Cannot create directory &quot;</comment>
         <translation>Izveidot direktoriju</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="1429"/>
-        <location filename="../Configuration.cpp" line="1455"/>
-        <location filename="../Configuration.cpp" line="1507"/>
+        <location filename="../Configuration.cpp" line="1557"/>
+        <location filename="../Configuration.cpp" line="1583"/>
+        <location filename="../Configuration.cpp" line="1635"/>
         <source>&amp;Delete</source>
         <translation>&amp;Dzēst</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="1459"/>
-        <location filename="../Configuration.cpp" line="1511"/>
+        <location filename="../Configuration.cpp" line="1587"/>
+        <location filename="../Configuration.cpp" line="1639"/>
         <source>&amp;Insert ...</source>
         <translation>&amp;Ievietot ...</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="1463"/>
+        <location filename="../Configuration.cpp" line="1591"/>
         <source>&amp;Load ...</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="1467"/>
+        <location filename="../Configuration.cpp" line="1595"/>
         <source>&amp;Save as ...</source>
         <translation>&amp;Saglabāt kā ...</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="1471"/>
+        <location filename="../Configuration.cpp" line="1599"/>
         <source>&amp;Merge ...</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="1475"/>
+        <location filename="../Configuration.cpp" line="1603"/>
         <source>&amp;Reset</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="2735"/>
+        <location filename="../Configuration.cpp" line="2878"/>
         <source>Serial Port:</source>
         <translation>COM Ports:</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="2736"/>
+        <location filename="../Configuration.cpp" line="2879"/>
         <source>Serial port used for CAT control</source>
         <translation>Komports priekš CAT kontrolei</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="2743"/>
+        <location filename="../Configuration.cpp" line="2886"/>
+        <source>TCI Server:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Configuration.cpp" line="2887"/>
+        <source>Optional hostname and port of TCI service.
+Leave blank for a sensible default on this machine.
+Formats:
+	hostname:port
+	IPv4-address:port
+	[IPv6-address]:port</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Configuration.cpp" line="2899"/>
         <source>Network Server:</source>
         <translation>Tīkla serveris:</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="2744"/>
+        <location filename="../Configuration.cpp" line="2900"/>
         <source>Optional hostname and port of network service.
 Leave blank for a sensible default on this machine.
 Formats:
@@ -157,12 +172,12 @@ IPv4 adrese: ports
 [IPv6 adrese]: por</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="2756"/>
+        <location filename="../Configuration.cpp" line="2912"/>
         <source>USB Device:</source>
         <translation>USB Ierīce:</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="2757"/>
+        <location filename="../Configuration.cpp" line="2913"/>
         <source>Optional device identification.
 Leave blank for a sensible default for the rig.
 Format:
@@ -173,132 +188,132 @@ Formāts:
 [VID [: PID [: VENDOR [: PRODUCT]]]]</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="2792"/>
+        <location filename="../Configuration.cpp" line="2948"/>
         <source>Invalid audio input device</source>
         <translation>Nepareiza audio ievades ierīce</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="2799"/>
+        <location filename="../Configuration.cpp" line="2955"/>
         <source>Invalid audio output device</source>
         <translation>Nepareiza skaņas kartes izvēle izeja</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="2805"/>
+        <location filename="../Configuration.cpp" line="2961"/>
         <source>Invalid PTT method</source>
         <translation>Nekorekta PTT metode</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="2815"/>
+        <location filename="../Configuration.cpp" line="2971"/>
         <source>Invalid PTT port</source>
         <translation>Nekorekts PTT ports</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="3328"/>
+        <location filename="../Configuration.cpp" line="3498"/>
         <source>CQ/73 in message</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="3329"/>
+        <location filename="../Configuration.cpp" line="3499"/>
         <source>CQ in message</source>
         <translation>CQ ziņojums</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="4512"/>
+        <location filename="../Configuration.cpp" line="4682"/>
         <source>JTDX Decoded Text Font Chooser</source>
         <translation>JTDX dekodēšanas tekstam izvēlētais fonts</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5150"/>
+        <location filename="../Configuration.cpp" line="5327"/>
         <source>Load Working Frequencies</source>
         <translation>Lejupielādējiet darba frekvences</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5152"/>
-        <location filename="../Configuration.cpp" line="5183"/>
-        <location filename="../Configuration.cpp" line="5237"/>
+        <location filename="../Configuration.cpp" line="5329"/>
+        <location filename="../Configuration.cpp" line="5360"/>
+        <location filename="../Configuration.cpp" line="5414"/>
         <source>Frequency files (*.qrg);;All files (*.*)</source>
         <translation>&gt; Frekvences fails (* .qrg) ;; Visi faili (*. *)</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5154"/>
-        <location filename="../Configuration.cpp" line="5185"/>
+        <location filename="../Configuration.cpp" line="5331"/>
+        <location filename="../Configuration.cpp" line="5362"/>
         <source>Cancel</source>
         <translation>Acelt</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5168"/>
+        <location filename="../Configuration.cpp" line="5345"/>
         <source>Replace Working Frequencies</source>
         <translation>Nomainiet darba frekvences</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5169"/>
+        <location filename="../Configuration.cpp" line="5346"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with the loaded ones?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5181"/>
+        <location filename="../Configuration.cpp" line="5358"/>
         <source>Merge Working Frequencies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5208"/>
-        <location filename="../Configuration.cpp" line="5217"/>
-        <location filename="../Configuration.cpp" line="5227"/>
+        <location filename="../Configuration.cpp" line="5385"/>
+        <location filename="../Configuration.cpp" line="5394"/>
+        <location filename="../Configuration.cpp" line="5404"/>
         <source>Not a valid frequencies file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5208"/>
+        <location filename="../Configuration.cpp" line="5385"/>
         <source>Incorrect file magic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5217"/>
+        <location filename="../Configuration.cpp" line="5394"/>
         <source>Version is too new</source>
         <translation>Versija ir pārāk jauna</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5227"/>
+        <location filename="../Configuration.cpp" line="5404"/>
         <source>Contents corrupt</source>
         <translation>Saturs ir bojāts</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5237"/>
+        <location filename="../Configuration.cpp" line="5414"/>
         <source>Save Working Frequencies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5247"/>
+        <location filename="../Configuration.cpp" line="5424"/>
         <source>Only Save Selected  Working Frequencies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5249"/>
+        <location filename="../Configuration.cpp" line="5426"/>
         <source>Are you sure you want to save only the working frequencies that are currently selected? Click No to save all.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5276"/>
+        <location filename="../Configuration.cpp" line="5453"/>
         <source>Reset Working Frequencies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5278"/>
+        <location filename="../Configuration.cpp" line="5455"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with default ones?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5338"/>
+        <location filename="../Configuration.cpp" line="5515"/>
         <source>Save Directory</source>
         <translation>Saglabāt mapi</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5354"/>
+        <location filename="../Configuration.cpp" line="5531"/>
         <source>Failed to open connection to rig</source>
         <translation>Kļūda, savienojoties ar transīveru</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5597"/>
+        <location filename="../Configuration.cpp" line="5920"/>
         <source>Rig failure</source>
         <translation>Transīvers nereaģē</translation>
     </message>
@@ -2044,86 +2059,86 @@ Formāts:
 <context>
     <name>DXLabSuiteCommanderTransceiver</name>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="71"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="72"/>
         <source>Failed to connect to DX Lab Suite Commander
 </source>
         <translation>Kļūda pieslēdzoties pie DX Lab Suite Commander</translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="127"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="128"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly reading frequency: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="174"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="175"/>
         <source>DX Lab Suite Commander sent an unrecognised TX state: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="180"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="181"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling TX status: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="188"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="189"/>
         <source>DX Lab Suite Commander rig did not respond to PTT: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="274"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="275"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling frequency: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="295"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="296"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling TX frequency: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="314"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="315"/>
         <source>DX Lab Suite Commander sent an unrecognised split state: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="320"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="321"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling split status: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="376"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="377"/>
         <source>DX Lab Suite Commander sent an unrecognised mode: &quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="383"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="384"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling mode: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="400"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="401"/>
         <source>DX Lab Suite Commander send command failed
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="412"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="413"/>
         <source>DX Lab Suite Commander failed to send command &quot;%1&quot;: %2
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="429"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="430"/>
         <source>DX Lab Suite Commander send command &quot;%1&quot; read reply failed: %2
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="440"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="441"/>
         <source>DX Lab Suite Commander retries exhausted sending command &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="503"/>
+        <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="504"/>
         <source>DX Lab Suite Commander sent an unrecognized frequency</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2310,7 +2325,7 @@ Error: %2 - %3</source>
 <context>
     <name>EmulateSplitTransceiver</name>
     <message>
-        <location filename="../EmulateSplitTransceiver.cpp" line="48"/>
+        <location filename="../EmulateSplitTransceiver.cpp" line="50"/>
         <source>Emulated split mode requires rig to be in simplex mode</source>
         <translation>Lai atdarinātu sadalīšanas režīmu, platformai jābūt vienpusējā režīmā</translation>
     </message>
@@ -2318,32 +2333,32 @@ Error: %2 - %3</source>
 <context>
     <name>FrequencyDialog</name>
     <message>
-        <location filename="../Configuration.cpp" line="221"/>
+        <location filename="../Configuration.cpp" line="219"/>
         <source>Add Frequency</source>
         <translation>Pievienojiet frekvenci</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="226"/>
+        <location filename="../Configuration.cpp" line="224"/>
         <source>IARU &amp;Region:</source>
         <translation>IARU &amp;Reģionas:</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="227"/>
+        <location filename="../Configuration.cpp" line="225"/>
         <source>&amp;Mode:</source>
         <translation>&amp;Modes:</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="228"/>
+        <location filename="../Configuration.cpp" line="226"/>
         <source>&amp;Frequency (MHz):</source>
         <translation>&amp;Frekvences (MHz):</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="234"/>
+        <location filename="../Configuration.cpp" line="232"/>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="235"/>
+        <location filename="../Configuration.cpp" line="233"/>
         <source>&amp;Cancel</source>
         <translation></translation>
     </message>
@@ -2384,84 +2399,84 @@ Error: %2 - %3</source>
 <context>
     <name>HRDTransceiver</name>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="126"/>
-        <location filename="../HRDTransceiver.cpp" line="151"/>
+        <location filename="../HRDTransceiver.cpp" line="127"/>
+        <location filename="../HRDTransceiver.cpp" line="152"/>
         <source>Failed to connect to Ham Radio Deluxe
 </source>
         <translation>Kļuda savienojoties ar Ham Radio Deluxe
 </translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="160"/>
+        <location filename="../HRDTransceiver.cpp" line="161"/>
         <source>Failed to open file &quot;%1&quot;: %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="175"/>
-        <location filename="../HRDTransceiver.cpp" line="199"/>
+        <location filename="../HRDTransceiver.cpp" line="176"/>
+        <location filename="../HRDTransceiver.cpp" line="200"/>
         <source>Ham Radio Deluxe: no rig found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="423"/>
+        <location filename="../HRDTransceiver.cpp" line="424"/>
         <source>Ham Radio Deluxe: rig doesn&apos;t support mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="442"/>
+        <location filename="../HRDTransceiver.cpp" line="443"/>
         <source>Ham Radio Deluxe: sent an unrecognised mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="477"/>
+        <location filename="../HRDTransceiver.cpp" line="478"/>
         <source>Ham Radio Deluxe: item not found in %1 dropdown list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="521"/>
+        <location filename="../HRDTransceiver.cpp" line="522"/>
         <source>Ham Radio Deluxe: button not available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="887"/>
+        <location filename="../HRDTransceiver.cpp" line="888"/>
         <source>Ham Radio Deluxe didn&apos;t respond as expected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="1036"/>
+        <location filename="../HRDTransceiver.cpp" line="1037"/>
         <source>Ham Radio Deluxe: rig has disappeared or changed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="1051"/>
+        <location filename="../HRDTransceiver.cpp" line="1052"/>
         <source>Ham Radio Deluxe send command &quot;%1&quot; failed %2
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="1064"/>
-        <location filename="../HRDTransceiver.cpp" line="1077"/>
+        <location filename="../HRDTransceiver.cpp" line="1065"/>
+        <location filename="../HRDTransceiver.cpp" line="1078"/>
         <source>Ham Radio Deluxe: failed to write command &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="1094"/>
+        <location filename="../HRDTransceiver.cpp" line="1095"/>
         <source>Ham Radio Deluxe sent an invalid reply to our command &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="1148"/>
+        <location filename="../HRDTransceiver.cpp" line="1149"/>
         <source>Ham Radio Deluxe failed to reply to command &quot;%1&quot; %2
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="1158"/>
+        <location filename="../HRDTransceiver.cpp" line="1159"/>
         <source>Ham Radio Deluxe retries exhausted sending command &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HRDTransceiver.cpp" line="1171"/>
+        <location filename="../HRDTransceiver.cpp" line="1172"/>
         <source>Ham Radio Deluxe didn&apos;t respond to command &quot;%1&quot; as expected</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2469,268 +2484,268 @@ Error: %2 - %3</source>
 <context>
     <name>HamlibTransceiver</name>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="211"/>
-        <location filename="../HamlibTransceiver.cpp" line="289"/>
+        <location filename="../HamlibTransceiver.cpp" line="212"/>
+        <location filename="../HamlibTransceiver.cpp" line="291"/>
         <source>Hamlib initialisation error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="251"/>
+        <location filename="../HamlibTransceiver.cpp" line="253"/>
         <source>Command completed successfully</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="252"/>
+        <location filename="../HamlibTransceiver.cpp" line="254"/>
         <source>Invalid parameter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="253"/>
+        <location filename="../HamlibTransceiver.cpp" line="255"/>
         <source>Invalid configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="254"/>
+        <location filename="../HamlibTransceiver.cpp" line="256"/>
         <source>Memory shortage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="255"/>
+        <location filename="../HamlibTransceiver.cpp" line="257"/>
         <source>Feature not implemented</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="256"/>
+        <location filename="../HamlibTransceiver.cpp" line="258"/>
         <source>Communication timed out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="257"/>
+        <location filename="../HamlibTransceiver.cpp" line="259"/>
         <source>IO error</source>
         <translation>IO kļuda</translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="258"/>
+        <location filename="../HamlibTransceiver.cpp" line="260"/>
         <source>Internal Hamlib error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="259"/>
+        <location filename="../HamlibTransceiver.cpp" line="261"/>
         <source>Protocol error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="260"/>
+        <location filename="../HamlibTransceiver.cpp" line="262"/>
         <source>Command rejected by the rig</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="261"/>
+        <location filename="../HamlibTransceiver.cpp" line="263"/>
         <source>Command performed, but arg truncated, result not guaranteed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="262"/>
+        <location filename="../HamlibTransceiver.cpp" line="264"/>
         <source>Feature not available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="263"/>
+        <location filename="../HamlibTransceiver.cpp" line="265"/>
         <source>Target VFO unaccessible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="264"/>
+        <location filename="../HamlibTransceiver.cpp" line="266"/>
         <source>Communication bus error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="265"/>
+        <location filename="../HamlibTransceiver.cpp" line="267"/>
         <source>Communication bus collision</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="266"/>
+        <location filename="../HamlibTransceiver.cpp" line="268"/>
         <source>NULL RIG handle or invalid pointer parameter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="267"/>
+        <location filename="../HamlibTransceiver.cpp" line="269"/>
         <source>Invalid VFO</source>
         <translation>Nepareizs VFO</translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="268"/>
+        <location filename="../HamlibTransceiver.cpp" line="270"/>
         <source>Argument out of domain of func</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="316"/>
+        <location filename="../HamlibTransceiver.cpp" line="318"/>
         <source>Hamlib settings file error: %1 at character offset %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="322"/>
+        <location filename="../HamlibTransceiver.cpp" line="324"/>
         <source>Hamlib settings file error: top level must be a JSON object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="334"/>
+        <location filename="../HamlibTransceiver.cpp" line="336"/>
         <source>Hamlib settings file error: config must be a JSON object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="397"/>
+        <location filename="../HamlibTransceiver.cpp" line="400"/>
         <source>Unsupported CAT type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="454"/>
+        <location filename="../HamlibTransceiver.cpp" line="457"/>
         <source>Hamlib error: %1 while %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="471"/>
+        <location filename="../HamlibTransceiver.cpp" line="474"/>
         <source>opening connection to rig</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="532"/>
+        <location filename="../HamlibTransceiver.cpp" line="535"/>
         <source>getting current frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="541"/>
+        <location filename="../HamlibTransceiver.cpp" line="544"/>
         <source>getting current mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="590"/>
-        <location filename="../HamlibTransceiver.cpp" line="625"/>
+        <location filename="../HamlibTransceiver.cpp" line="593"/>
+        <location filename="../HamlibTransceiver.cpp" line="628"/>
         <source>exchanging VFOs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="598"/>
-        <location filename="../HamlibTransceiver.cpp" line="1155"/>
+        <location filename="../HamlibTransceiver.cpp" line="601"/>
+        <location filename="../HamlibTransceiver.cpp" line="1158"/>
         <source>getting other VFO frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="607"/>
+        <location filename="../HamlibTransceiver.cpp" line="610"/>
         <source>getting other VFO mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="635"/>
+        <location filename="../HamlibTransceiver.cpp" line="638"/>
         <source>setting current VFO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="644"/>
+        <location filename="../HamlibTransceiver.cpp" line="647"/>
         <source>getting frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="653"/>
+        <location filename="../HamlibTransceiver.cpp" line="656"/>
         <source>getting mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="675"/>
-        <location filename="../HamlibTransceiver.cpp" line="1070"/>
+        <location filename="../HamlibTransceiver.cpp" line="678"/>
+        <location filename="../HamlibTransceiver.cpp" line="1073"/>
         <source>getting current VFO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="734"/>
-        <location filename="../HamlibTransceiver.cpp" line="742"/>
-        <location filename="../HamlibTransceiver.cpp" line="756"/>
-        <location filename="../HamlibTransceiver.cpp" line="1129"/>
+        <location filename="../HamlibTransceiver.cpp" line="737"/>
+        <location filename="../HamlibTransceiver.cpp" line="745"/>
+        <location filename="../HamlibTransceiver.cpp" line="759"/>
+        <location filename="../HamlibTransceiver.cpp" line="1132"/>
         <source>getting current VFO frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="740"/>
-        <location filename="../HamlibTransceiver.cpp" line="755"/>
-        <location filename="../HamlibTransceiver.cpp" line="762"/>
-        <location filename="../HamlibTransceiver.cpp" line="852"/>
-        <location filename="../HamlibTransceiver.cpp" line="870"/>
-        <location filename="../HamlibTransceiver.cpp" line="931"/>
+        <location filename="../HamlibTransceiver.cpp" line="743"/>
+        <location filename="../HamlibTransceiver.cpp" line="758"/>
+        <location filename="../HamlibTransceiver.cpp" line="765"/>
+        <location filename="../HamlibTransceiver.cpp" line="855"/>
+        <location filename="../HamlibTransceiver.cpp" line="873"/>
+        <location filename="../HamlibTransceiver.cpp" line="934"/>
         <source>setting frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="860"/>
-        <location filename="../HamlibTransceiver.cpp" line="938"/>
-        <location filename="../HamlibTransceiver.cpp" line="1010"/>
-        <location filename="../HamlibTransceiver.cpp" line="1023"/>
+        <location filename="../HamlibTransceiver.cpp" line="863"/>
+        <location filename="../HamlibTransceiver.cpp" line="941"/>
+        <location filename="../HamlibTransceiver.cpp" line="1013"/>
+        <location filename="../HamlibTransceiver.cpp" line="1026"/>
         <source>getting current VFO mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="866"/>
-        <location filename="../HamlibTransceiver.cpp" line="875"/>
-        <location filename="../HamlibTransceiver.cpp" line="944"/>
-        <location filename="../HamlibTransceiver.cpp" line="1016"/>
-        <location filename="../HamlibTransceiver.cpp" line="1029"/>
+        <location filename="../HamlibTransceiver.cpp" line="869"/>
+        <location filename="../HamlibTransceiver.cpp" line="878"/>
+        <location filename="../HamlibTransceiver.cpp" line="947"/>
+        <location filename="../HamlibTransceiver.cpp" line="1019"/>
+        <location filename="../HamlibTransceiver.cpp" line="1032"/>
         <source>setting current VFO mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="918"/>
-        <location filename="../HamlibTransceiver.cpp" line="987"/>
+        <location filename="../HamlibTransceiver.cpp" line="921"/>
+        <location filename="../HamlibTransceiver.cpp" line="990"/>
         <source>setting/unsetting split mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="929"/>
-        <location filename="../HamlibTransceiver.cpp" line="969"/>
+        <location filename="../HamlibTransceiver.cpp" line="932"/>
+        <location filename="../HamlibTransceiver.cpp" line="972"/>
         <source>setting split mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="957"/>
+        <location filename="../HamlibTransceiver.cpp" line="960"/>
         <source>setting split TX frequency and mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="962"/>
+        <location filename="../HamlibTransceiver.cpp" line="965"/>
         <source>setting split TX frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1034"/>
+        <location filename="../HamlibTransceiver.cpp" line="1037"/>
         <source>getting split TX VFO mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1041"/>
+        <location filename="../HamlibTransceiver.cpp" line="1044"/>
         <source>setting split TX VFO mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1297"/>
+        <location filename="../HamlibTransceiver.cpp" line="1300"/>
         <source>getting PTT state</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1333"/>
+        <location filename="../HamlibTransceiver.cpp" line="1336"/>
         <source>setting PTT on</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1341"/>
+        <location filename="../HamlibTransceiver.cpp" line="1344"/>
         <source>setting PTT off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1353"/>
+        <location filename="../HamlibTransceiver.cpp" line="1356"/>
         <source>setting a configuration item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../HamlibTransceiver.cpp" line="1363"/>
+        <location filename="../HamlibTransceiver.cpp" line="1366"/>
         <source>getting a configuration item</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2781,7 +2796,7 @@ Error: %2 - %3</source>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="43"/>
-        <location filename="../mainwindow.cpp" line="3971"/>
+        <location filename="../mainwindow.cpp" line="3962"/>
         <source>&amp;Yes</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2792,7 +2807,7 @@ Error: %2 - %3</source>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="45"/>
-        <location filename="../mainwindow.cpp" line="3974"/>
+        <location filename="../mainwindow.cpp" line="3965"/>
         <source>&amp;No</source>
         <translation>&amp;Nē</translation>
     </message>
@@ -2962,7 +2977,7 @@ Error: %2 - %3</source>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="181"/>
-        <location filename="../mainwindow.ui" line="2248"/>
+        <location filename="../mainwindow.ui" line="2216"/>
         <source>UTC           dB            DT           Freq          Dr </source>
         <translation>UTC           dB            DT           Freq          Dr </translation>
     </message>
@@ -2973,13 +2988,13 @@ Error: %2 - %3</source>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="289"/>
-        <location filename="../mainwindow.cpp" line="1846"/>
-        <location filename="../mainwindow.cpp" line="3636"/>
-        <location filename="../mainwindow.cpp" line="3645"/>
-        <location filename="../mainwindow.cpp" line="6246"/>
-        <location filename="../mainwindow.cpp" line="6251"/>
-        <location filename="../mainwindow.cpp" line="6293"/>
-        <location filename="../mainwindow.cpp" line="6304"/>
+        <location filename="../mainwindow.cpp" line="1869"/>
+        <location filename="../mainwindow.cpp" line="3686"/>
+        <location filename="../mainwindow.cpp" line="3695"/>
+        <location filename="../mainwindow.cpp" line="6245"/>
+        <location filename="../mainwindow.cpp" line="6250"/>
+        <location filename="../mainwindow.cpp" line="6292"/>
+        <location filename="../mainwindow.cpp" line="6303"/>
         <source>Band Activity</source>
         <translation></translation>
     </message>
@@ -2989,339 +3004,339 @@ Error: %2 - %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="440"/>
+        <location filename="../mainwindow.ui" line="418"/>
         <source>?</source>
         <translation>?</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="664"/>
+        <location filename="../mainwindow.ui" line="642"/>
         <source>USB dial frequency</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="686"/>
+        <location filename="../mainwindow.ui" line="654"/>
         <source>14.078 000</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="715"/>
+        <location filename="../mainwindow.ui" line="683"/>
         <source>Menu</source>
         <translation>Izvēlne</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="725"/>
+        <location filename="../mainwindow.ui" line="693"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this control to show or hide spot edit line&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="731"/>
+        <location filename="../mainwindow.ui" line="699"/>
         <source>Spt</source>
         <translation>Spots</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="750"/>
+        <location filename="../mainwindow.ui" line="718"/>
         <source>Select operating band or frequency in MHz</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="798"/>
+        <location filename="../mainwindow.ui" line="766"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DXSummit spot information field preview.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="801"/>
+        <location filename="../mainwindow.ui" line="769"/>
         <source>info:</source>
         <translation>informācija:</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="813"/>
-        <location filename="../mainwindow.ui" line="823"/>
+        <location filename="../mainwindow.ui" line="781"/>
+        <location filename="../mainwindow.ui" line="791"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DXSummit spot line edit: mode in the information field being spotted automatically, user can add own text message in the information field. Available macros: #D is for distance, #G is for &quot;Grid1&lt;&gt;Grid2&quot;, #R is for report value. Information field preview is available.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="816"/>
+        <location filename="../mainwindow.ui" line="784"/>
         <source>edit</source>
         <translation>rediģēt</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="830"/>
-        <location filename="../mainwindow.ui" line="840"/>
+        <location filename="../mainwindow.ui" line="798"/>
+        <location filename="../mainwindow.ui" line="808"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type of the propagation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="833"/>
+        <location filename="../mainwindow.ui" line="801"/>
         <source>prop</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="991"/>
+        <location filename="../mainwindow.ui" line="959"/>
         <source>DX Grid</source>
         <translation>QTH Lokātors</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1013"/>
+        <location filename="../mainwindow.ui" line="981"/>
         <source>Locator of station to be worked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1032"/>
+        <location filename="../mainwindow.ui" line="1000"/>
         <source>Callsign of station to be worked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1051"/>
+        <location filename="../mainwindow.ui" line="1019"/>
         <source>Search for callsign in database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1054"/>
+        <location filename="../mainwindow.ui" line="1022"/>
         <source>&amp;Lookup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1067"/>
+        <location filename="../mainwindow.ui" line="1035"/>
         <source>Add callsign and locator to database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1070"/>
+        <location filename="../mainwindow.ui" line="1038"/>
         <source>Add</source>
         <translation>Pievienot</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1105"/>
+        <location filename="../mainwindow.ui" line="1073"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Click by left mouse&apos;s button to spot DX call to dxsummit.fi (spotting shall be enabled in Reporting tab of the settings). Click by right mouse&apos;s button to add callsign to the &apos;Hide messages from callsigns&apos; filter.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1108"/>
-        <location filename="../mainwindow.cpp" line="4841"/>
-        <location filename="../mainwindow.cpp" line="5507"/>
-        <location filename="../mainwindow.cpp" line="5928"/>
+        <location filename="../mainwindow.ui" line="1076"/>
+        <location filename="../mainwindow.cpp" line="4838"/>
+        <location filename="../mainwindow.cpp" line="5504"/>
+        <location filename="../mainwindow.cpp" line="5925"/>
         <source>DX Call</source>
         <translation>DX Izsaukuma signāls</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1355"/>
+        <location filename="../mainwindow.ui" line="1323"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;01:23:45 &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1389"/>
+        <location filename="../mainwindow.ui" line="1357"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Toggle TX minute&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1395"/>
+        <location filename="../mainwindow.ui" line="1363"/>
         <source>TX minute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1759"/>
+        <location filename="../mainwindow.ui" line="1727"/>
         <source>Audio Rx frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1659"/>
-        <location filename="../mainwindow.ui" line="1765"/>
-        <location filename="../mainwindow.ui" line="4339"/>
+        <location filename="../mainwindow.ui" line="1627"/>
+        <location filename="../mainwindow.ui" line="1733"/>
+        <location filename="../mainwindow.ui" line="4307"/>
         <source>  Hz</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1768"/>
+        <location filename="../mainwindow.ui" line="1736"/>
         <source>Rx  </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1826"/>
+        <location filename="../mainwindow.ui" line="1794"/>
         <source>Toggle Tx mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1829"/>
+        <location filename="../mainwindow.ui" line="1797"/>
         <source>Tx JT9 @</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1421"/>
+        <location filename="../mainwindow.ui" line="1389"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable FT8 DXpedition Hound mode. Right mouse button click enable hound TX frequency control.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1435"/>
-        <location filename="../mainwindow.cpp" line="3066"/>
+        <location filename="../mainwindow.ui" line="1403"/>
+        <location filename="../mainwindow.cpp" line="3115"/>
         <source>Hound</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1463"/>
+        <location filename="../mainwindow.ui" line="1431"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Signal report (dB)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1466"/>
+        <location filename="../mainwindow.ui" line="1434"/>
         <source>Report </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1653"/>
+        <location filename="../mainwindow.ui" line="1621"/>
         <source>Audio Tx frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1662"/>
-        <location filename="../mainwindow.ui" line="4342"/>
+        <location filename="../mainwindow.ui" line="1630"/>
+        <location filename="../mainwindow.ui" line="4310"/>
         <source>Tx  </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1494"/>
+        <location filename="../mainwindow.ui" line="1462"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;CAT shall be set up via Hamlib, Hamlib does support getting S meter data for some transceivers.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1509"/>
-        <location filename="../mainwindow.cpp" line="1558"/>
-        <location filename="../mainwindow.cpp" line="2053"/>
+        <location filename="../mainwindow.ui" line="1477"/>
+        <location filename="../mainwindow.cpp" line="1590"/>
+        <location filename="../mainwindow.cpp" line="2098"/>
         <source>S meter</source>
         <translation>S metrs</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1704"/>
+        <location filename="../mainwindow.ui" line="1672"/>
         <source>▲</source>
         <translation>▲</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1732"/>
+        <location filename="../mainwindow.ui" line="1700"/>
         <source>▼</source>
         <translation>▼</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1790"/>
+        <location filename="../mainwindow.ui" line="1758"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use different Rx/Tx AF frequencies or set Tx frequency equal to Rx AF frequency.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1796"/>
+        <location filename="../mainwindow.ui" line="1764"/>
         <source>Split Tx/Rx</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1729"/>
+        <location filename="../mainwindow.ui" line="1697"/>
         <source>Set Rx frequency to Tx Frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1528"/>
+        <location filename="../mainwindow.ui" line="1496"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable semi-automatic message sequencing. In calling CQ operation autoselect by default searching for response with the highiest priority.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1542"/>
-        <location filename="../mainwindow.ui" line="4763"/>
+        <location filename="../mainwindow.ui" line="1510"/>
+        <location filename="../mainwindow.ui" line="4731"/>
         <source>AutoSeq</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1558"/>
+        <location filename="../mainwindow.ui" line="1526"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Double-click on call sets TX enable&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1572"/>
+        <location filename="../mainwindow.ui" line="1540"/>
         <source>AutoTX</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1701"/>
+        <location filename="../mainwindow.ui" line="1669"/>
         <source>Set Tx frequency to Rx Frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1588"/>
+        <location filename="../mainwindow.ui" line="1556"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use this control to show or hide wanted callsign/prefix edit lines&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1591"/>
+        <location filename="../mainwindow.ui" line="1559"/>
         <source>Wanted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1610"/>
+        <location filename="../mainwindow.ui" line="1578"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Candidate list thinning, this feature is dedicated to wideband decoding with slow CPUs and &apos;minimum&apos; wideband decoder sensitivity setting. Candidate list being sorted by synchonization pattern level with applied DT weight factor, candidates with low value will not be processed by decoder to decrease time spent for interval decoding. This feature is not applied to QSO RX frequency.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1903"/>
+        <location filename="../mainwindow.ui" line="1871"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;CAT shall be set up via Hamlib, Hamlib does support getting output power data for some transceivers.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1906"/>
+        <location filename="../mainwindow.ui" line="1874"/>
         <source> Pwr</source>
         <translation> Jauda Pwr</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1928"/>
+        <location filename="../mainwindow.ui" line="1896"/>
         <source>Adjust Tx audio level</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1978"/>
-        <location filename="../mainwindow.ui" line="1994"/>
+        <location filename="../mainwindow.ui" line="1946"/>
+        <location filename="../mainwindow.ui" line="1962"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comma separated list of the wanted callsigns. Autoselection under AutoSeq 1..7 will process wanted callsign according to the choosen notifications/priorities, this functionality is not supported under AutoSeq0. Non FT8 modes only: for compound callsigns the base callsign shall be used in the list, sometimes base callsign will be copied from the decoded message: when logging such QSO user will have to change correspondent&apos;s callsign to compound one if needed.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1981"/>
+        <location filename="../mainwindow.ui" line="1949"/>
         <source>callsign:</source>
         <translation>izsaukuma signāls:</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2007"/>
+        <location filename="../mainwindow.ui" line="1975"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clear callsign from this list at logging of the QSO.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2013"/>
-        <location filename="../mainwindow.ui" line="2089"/>
+        <location filename="../mainwindow.ui" line="1981"/>
+        <location filename="../mainwindow.ui" line="2057"/>
         <source>Clr</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2027"/>
-        <location filename="../mainwindow.ui" line="2043"/>
+        <location filename="../mainwindow.ui" line="1995"/>
+        <location filename="../mainwindow.ui" line="2011"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comma separated list of the wanted prefixes. Autoselection under AutoSeq 1..7 will process wanted prefix according to the choosen notifications/priorities, this functionality is not supported under AutoSeq0. For compound callsigns prefix is recognized at beginning of the callsign. Autoselection will process wanted callsign according to the choosen notifications/priorities. Non FT8 modes only: sometimes the base callsign will be copied from the decoded message: when logging such QSO user will have to change correspondent&apos;s callsign to compound one if needed.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2030"/>
+        <location filename="../mainwindow.ui" line="1998"/>
         <source>prefix:</source>
         <translation>prefiks:</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2060"/>
-        <location filename="../mainwindow.ui" line="2076"/>
+        <location filename="../mainwindow.ui" line="2028"/>
+        <location filename="../mainwindow.ui" line="2044"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comma separated list of the wanted grid squares where four char grid being supported only. Autoselection under AutoSeq 1..7 will process wanted grid according to the choosen notifications/priorities, this functionality is not supported under AutoSeq0.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2063"/>
+        <location filename="../mainwindow.ui" line="2031"/>
         <source>grid:</source>
         <translation>lokātors:</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2083"/>
+        <location filename="../mainwindow.ui" line="2051"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clear grid from this list at logging of the QSO.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2102"/>
-        <location filename="../mainwindow.ui" line="2127"/>
+        <location filename="../mainwindow.ui" line="2070"/>
+        <location filename="../mainwindow.ui" line="2095"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comma separated list of the wanted countries: main country prefix shall be used in this list. For compound callsigns prefix is recognized at beginning of the callsign. Autoselection under AutoSeq 1..7 will process wanted country according to the choosen notifications/priorities, this functionality is not supported under AutoSeq0. Non FT8 modes only: sometimes the base callsign will be copied from the decoded message: when logging such QSO user will have to change correspondent&apos;s callsign to compound one if needed. List of the main country prefixes: 1A,1S,3A,3B6,3B8,3B9,3C,3C0,3D2,3D2/C,&lt;br&gt;
 3D2/R,3DA,3V,3W,3X,3Y/B,3Y/P,4J,4L,4O,4S,4U1I,4U1U,*4U1V,4W,4X,5A,5B,5H,5N,5R,5T,&lt;br&gt;
 5U,5V,5W,5X,5Z,6W,6Y,7O,7P,7Q,7X,8P,8Q,8R,9A,9G,9H,9J,9K,9L,9M2,9M6,9N,9Q,9U,9V,9X,&lt;br&gt;
@@ -3341,314 +3356,314 @@ ZD8,ZD9,ZF,ZK3,ZL,ZL7,ZL8,ZL9,ZP,ZS,ZS8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</sou
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2120"/>
+        <location filename="../mainwindow.ui" line="2088"/>
         <source>country:</source>
         <translation>valsts:</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2326"/>
-        <location filename="../mainwindow.cpp" line="6252"/>
+        <location filename="../mainwindow.ui" line="2294"/>
+        <location filename="../mainwindow.cpp" line="6251"/>
         <source>Rx Frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2412"/>
+        <location filename="../mainwindow.ui" line="2380"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Transmit a pure tone. Tune timer can be set in General tab of the settings.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2426"/>
-        <location filename="../mainwindow.cpp" line="6831"/>
+        <location filename="../mainwindow.ui" line="2394"/>
+        <location filename="../mainwindow.cpp" line="6833"/>
         <source>&amp;Tune</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2454"/>
+        <location filename="../mainwindow.ui" line="2422"/>
         <source>Start monitoring</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2468"/>
+        <location filename="../mainwindow.ui" line="2436"/>
         <source>&amp;Monitor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2499"/>
+        <location filename="../mainwindow.ui" line="2467"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bypass all text filters option, duplicates action in the Misc tab.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2513"/>
+        <location filename="../mainwindow.ui" line="2481"/>
         <source>Bypass</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2544"/>
+        <location filename="../mainwindow.ui" line="2512"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Single shot QSO AutoSeq option&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2558"/>
+        <location filename="../mainwindow.ui" line="2526"/>
         <source>1 QSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2589"/>
+        <location filename="../mainwindow.ui" line="2557"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Answer worked B4 AutoSeq option&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2603"/>
+        <location filename="../mainwindow.ui" line="2571"/>
         <source>AnsB4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2631"/>
+        <location filename="../mainwindow.ui" line="2599"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Stop monitoring input signal, stop playing pack of the audio wav files&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2634"/>
+        <location filename="../mainwindow.ui" line="2602"/>
         <source>&amp;Stop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2673"/>
+        <location filename="../mainwindow.ui" line="2641"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Decode again most recent Rx period or last played wav audio file for any Hint/Filter/SWL mode buttons combination&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2687"/>
+        <location filename="../mainwindow.ui" line="2655"/>
         <source>Dec&amp;ode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2715"/>
+        <location filename="../mainwindow.ui" line="2683"/>
         <source>Toggle Tx Enable On/Off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2729"/>
+        <location filename="../mainwindow.ui" line="2697"/>
         <source>E&amp;nable Tx</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2757"/>
+        <location filename="../mainwindow.ui" line="2725"/>
         <source>Stop transmitting immediately</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2760"/>
+        <location filename="../mainwindow.ui" line="2728"/>
         <source>&amp;Halt Tx</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2785"/>
+        <location filename="../mainwindow.ui" line="2753"/>
         <source>Enter this QSO in ADIF log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2788"/>
+        <location filename="../mainwindow.ui" line="2756"/>
         <source>Log &amp;QSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2813"/>
+        <location filename="../mainwindow.ui" line="2781"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Left mouse button: Erase decoded text(left) window. Right mouse button: Erase QSO Frequency window. Double-click for both windows.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2816"/>
+        <location filename="../mainwindow.ui" line="2784"/>
         <source>&amp;Erase</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2841"/>
+        <location filename="../mainwindow.ui" line="2809"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Increase number of decoding attempts&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2855"/>
+        <location filename="../mainwindow.ui" line="2823"/>
         <source>S&amp;WL mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2886"/>
+        <location filename="../mainwindow.ui" line="2854"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activates group of decoders based on the matched filters, in FT8 mode activates FT8AP functionality&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2900"/>
+        <location filename="../mainwindow.ui" line="2868"/>
         <source>Hint</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2945"/>
+        <location filename="../mainwindow.ui" line="2913"/>
         <source>Filter</source>
         <translation>Filtrs</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2979"/>
+        <location filename="../mainwindow.ui" line="2947"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activates AGC compensation functionality. Raising up decoding efficiency if AGC is turned ON in the receiver&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2993"/>
+        <location filename="../mainwindow.ui" line="2961"/>
         <source>AGCc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3024"/>
+        <location filename="../mainwindow.ui" line="2992"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Left mouse button: Erase data from DX Call and DX Grid windows. Right mouse button: Erase data from DX Call, DX Grid windows, QSO history and blacklist. CTRL+Right mouse button: add callsign from DX Call window to blacklist, erase data from DX Call, DX Grid windows and QSO history.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3027"/>
+        <location filename="../mainwindow.ui" line="2995"/>
         <source>Clear D&amp;X</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3131"/>
-        <location filename="../mainwindow.ui" line="5528"/>
-        <location filename="../mainwindow.ui" line="6001"/>
-        <location filename="../mainwindow.ui" line="6025"/>
+        <location filename="../mainwindow.ui" line="3099"/>
+        <location filename="../mainwindow.ui" line="5496"/>
+        <location filename="../mainwindow.ui" line="5969"/>
+        <location filename="../mainwindow.ui" line="5993"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3174"/>
+        <location filename="../mainwindow.ui" line="3142"/>
         <source>Generate standard messages for minimal QSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3177"/>
+        <location filename="../mainwindow.ui" line="3145"/>
         <source>GenMsgs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3206"/>
-        <location filename="../mainwindow.ui" line="5714"/>
+        <location filename="../mainwindow.ui" line="3174"/>
+        <location filename="../mainwindow.ui" line="5682"/>
         <source>CQ</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3253"/>
-        <location filename="../mainwindow.ui" line="3875"/>
+        <location filename="../mainwindow.ui" line="3221"/>
+        <location filename="../mainwindow.ui" line="3843"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Directional CQ, range from AA to ZZ is being supported.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3256"/>
-        <location filename="../mainwindow.ui" line="3878"/>
+        <location filename="../mainwindow.ui" line="3224"/>
+        <location filename="../mainwindow.ui" line="3846"/>
         <source>DX</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3269"/>
-        <location filename="../mainwindow.ui" line="3907"/>
+        <location filename="../mainwindow.ui" line="3237"/>
+        <location filename="../mainwindow.ui" line="3875"/>
         <source>Check to generate &apos;RRR&apos; message, uncheck to generate &apos;RR73&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3275"/>
-        <location filename="../mainwindow.ui" line="3913"/>
+        <location filename="../mainwindow.ui" line="3243"/>
+        <location filename="../mainwindow.ui" line="3881"/>
         <source>RRR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3288"/>
-        <location filename="../mainwindow.ui" line="3961"/>
+        <location filename="../mainwindow.ui" line="3256"/>
+        <location filename="../mainwindow.ui" line="3929"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Skip transmitting message with QTH Grid locator&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3294"/>
+        <location filename="../mainwindow.ui" line="3262"/>
         <source>SkipTx1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3339"/>
-        <location filename="../mainwindow.ui" line="3421"/>
-        <location filename="../mainwindow.ui" line="3491"/>
-        <location filename="../mainwindow.ui" line="3561"/>
-        <location filename="../mainwindow.ui" line="3649"/>
-        <location filename="../mainwindow.ui" line="3722"/>
+        <location filename="../mainwindow.ui" line="3307"/>
+        <location filename="../mainwindow.ui" line="3389"/>
+        <location filename="../mainwindow.ui" line="3459"/>
+        <location filename="../mainwindow.ui" line="3529"/>
+        <location filename="../mainwindow.ui" line="3617"/>
+        <location filename="../mainwindow.ui" line="3690"/>
         <source>Send this message in next Tx interval</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3345"/>
+        <location filename="../mainwindow.ui" line="3313"/>
         <source>Ctrl+1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3370"/>
-        <location filename="../mainwindow.ui" line="3449"/>
-        <location filename="../mainwindow.ui" line="3519"/>
-        <location filename="../mainwindow.ui" line="3589"/>
-        <location filename="../mainwindow.ui" line="3677"/>
-        <location filename="../mainwindow.ui" line="3753"/>
+        <location filename="../mainwindow.ui" line="3338"/>
+        <location filename="../mainwindow.ui" line="3417"/>
+        <location filename="../mainwindow.ui" line="3487"/>
+        <location filename="../mainwindow.ui" line="3557"/>
+        <location filename="../mainwindow.ui" line="3645"/>
+        <location filename="../mainwindow.ui" line="3721"/>
         <source>Switch to this Tx message NOW</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3376"/>
+        <location filename="../mainwindow.ui" line="3344"/>
         <source>Tx &amp;1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3379"/>
+        <location filename="../mainwindow.ui" line="3347"/>
         <source>Alt+1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3427"/>
+        <location filename="../mainwindow.ui" line="3395"/>
         <source>Ctrl+2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3452"/>
+        <location filename="../mainwindow.ui" line="3420"/>
         <source>Tx &amp;2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3455"/>
+        <location filename="../mainwindow.ui" line="3423"/>
         <source>Alt+2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3497"/>
+        <location filename="../mainwindow.ui" line="3465"/>
         <source>Ctrl+3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3522"/>
+        <location filename="../mainwindow.ui" line="3490"/>
         <source>Tx &amp;3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3525"/>
+        <location filename="../mainwindow.ui" line="3493"/>
         <source>Alt+3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3567"/>
+        <location filename="../mainwindow.ui" line="3535"/>
         <source>Ctrl+4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3592"/>
+        <location filename="../mainwindow.ui" line="3560"/>
         <source>Tx &amp;4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3595"/>
+        <location filename="../mainwindow.ui" line="3563"/>
         <source>Alt+4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3627"/>
-        <location filename="../mainwindow.ui" line="4216"/>
+        <location filename="../mainwindow.ui" line="3595"/>
+        <location filename="../mainwindow.ui" line="4184"/>
         <source>Enter a free text message (maximum 13 characters)
 or select a predefined macro from the dropdown list.
 Press ENTER to add the current text to the predefined
@@ -3656,1378 +3671,1378 @@ list. The list can be maintained in Settings (F2).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3655"/>
+        <location filename="../mainwindow.ui" line="3623"/>
         <source>Ctrl+5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3680"/>
+        <location filename="../mainwindow.ui" line="3648"/>
         <source>Tx &amp;5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3683"/>
+        <location filename="../mainwindow.ui" line="3651"/>
         <source>Alt+5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3728"/>
+        <location filename="../mainwindow.ui" line="3696"/>
         <source>Ctrl+6</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3756"/>
+        <location filename="../mainwindow.ui" line="3724"/>
         <source>Tx &amp;6</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3759"/>
+        <location filename="../mainwindow.ui" line="3727"/>
         <source>Alt+6</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3777"/>
-        <location filename="../mainwindow.ui" line="5536"/>
-        <location filename="../mainwindow.ui" line="5539"/>
-        <location filename="../mainwindow.ui" line="6009"/>
-        <location filename="../mainwindow.ui" line="6033"/>
+        <location filename="../mainwindow.ui" line="3745"/>
+        <location filename="../mainwindow.ui" line="5504"/>
+        <location filename="../mainwindow.ui" line="5507"/>
+        <location filename="../mainwindow.ui" line="5977"/>
+        <location filename="../mainwindow.ui" line="6001"/>
         <source>2</source>
         <translation>2</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3831"/>
+        <location filename="../mainwindow.ui" line="3799"/>
         <source>CQ </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3945"/>
+        <location filename="../mainwindow.ui" line="3913"/>
         <source>AnsCQ </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3967"/>
+        <location filename="../mainwindow.ui" line="3935"/>
         <source>SkpGrid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3994"/>
+        <location filename="../mainwindow.ui" line="3962"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Generate CQ or directional CQ message&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="3997"/>
+        <location filename="../mainwindow.ui" line="3965"/>
         <source>CQ/CQ DX</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4022"/>
+        <location filename="../mainwindow.ui" line="3990"/>
         <source>Generate message for replying to a CQ</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4025"/>
+        <location filename="../mainwindow.ui" line="3993"/>
         <source>Grid</source>
         <translation>Lokātors</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4050"/>
+        <location filename="../mainwindow.ui" line="4018"/>
         <source>Generate message with report</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4053"/>
+        <location filename="../mainwindow.ui" line="4021"/>
         <source>dB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4078"/>
+        <location filename="../mainwindow.ui" line="4046"/>
         <source>Generate message with R+report</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4081"/>
+        <location filename="../mainwindow.ui" line="4049"/>
         <source>R+dB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4106"/>
+        <location filename="../mainwindow.ui" line="4074"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Generate message with RR73 if RRR checkbox is unchecked, generate RRR message if RRR checkbox is checked&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4109"/>
+        <location filename="../mainwindow.ui" line="4077"/>
         <source>RRR/RR73</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4134"/>
+        <location filename="../mainwindow.ui" line="4102"/>
         <source>Generate message with 73</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4137"/>
+        <location filename="../mainwindow.ui" line="4105"/>
         <source>73</source>
         <translation>73</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4185"/>
+        <location filename="../mainwindow.ui" line="4153"/>
         <source>Send this standard (generated) message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4188"/>
+        <location filename="../mainwindow.ui" line="4156"/>
         <source>Gen msg</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4253"/>
+        <location filename="../mainwindow.ui" line="4221"/>
         <source>Send this free-text message (max 13 characters)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4256"/>
+        <location filename="../mainwindow.ui" line="4224"/>
         <source>Free msg</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4377"/>
+        <location filename="../mainwindow.ui" line="4345"/>
         <source>Band Hopping</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4386"/>
+        <location filename="../mainwindow.ui" line="4354"/>
         <source>Choose bands and times of day for band-hopping.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4389"/>
+        <location filename="../mainwindow.ui" line="4357"/>
         <source>Schedule ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4403"/>
+        <location filename="../mainwindow.ui" line="4371"/>
         <source>Upload decoded messages to WSPRnet.org.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4406"/>
+        <location filename="../mainwindow.ui" line="4374"/>
         <source>Upload spots</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4413"/>
+        <location filename="../mainwindow.ui" line="4381"/>
         <source>Transmit during the next 2-minute sequence.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4427"/>
+        <location filename="../mainwindow.ui" line="4395"/>
         <source>Tx Next</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4444"/>
+        <location filename="../mainwindow.ui" line="4412"/>
         <source>Set Tx power in dBm (dB above 1 mW) as part of your WSPR message.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4358"/>
+        <location filename="../mainwindow.ui" line="4326"/>
         <source>Percentage of 2-minute sequences devoted to transmitting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1613"/>
+        <location filename="../mainwindow.ui" line="1581"/>
         <source> %</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1616"/>
+        <location filename="../mainwindow.ui" line="1584"/>
         <source>CL  </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1842"/>
+        <location filename="../mainwindow.ui" line="1810"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DT weighting functionality for candidate list thinning option, median value of DT distribution of decoded signals should be set there. This value depends on system clock synchronization accuracy and on overcrowded bands is close to average DT value of decoded signals. Correct value raises up decoding efficiency in the candidate list thinning option.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1845"/>
+        <location filename="../mainwindow.ui" line="1813"/>
         <source>DT </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="1848"/>
+        <location filename="../mainwindow.ui" line="1816"/>
         <source> s</source>
         <translation type="unfinished"> s</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="2931"/>
+        <location filename="../mainwindow.ui" line="2899"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bandwidth, FT8 170Hz, FT8 hound mode 580Hz, FT4 274Hz, JT9 115Hz, T10 225Hz. JT65 signals: 580Hz decoding, 300 Hz for displaying messages. Filter is centered to the RX signal spectrum. Filter functionality can not improve signal decoding, it is dedicated for use with slow CPUs to let decoder finish processing before signal transmission and avoid message change at transmission. All incoming calls out of Filter bandwidth will be lost, use Filter functionaly only if it is really needed for your CPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4364"/>
+        <location filename="../mainwindow.ui" line="4332"/>
         <source>  %</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4367"/>
+        <location filename="../mainwindow.ui" line="4335"/>
         <source>Tx Pct </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4437"/>
+        <location filename="../mainwindow.ui" line="4405"/>
         <source>No own call decodes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4539"/>
+        <location filename="../mainwindow.ui" line="4507"/>
         <source>File</source>
         <translation>Fails</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4557"/>
+        <location filename="../mainwindow.ui" line="4525"/>
         <source>View</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4564"/>
+        <location filename="../mainwindow.ui" line="4532"/>
         <source>Decode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4568"/>
+        <location filename="../mainwindow.ui" line="4536"/>
         <source>FT8 threads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4598"/>
+        <location filename="../mainwindow.ui" line="4566"/>
         <source>JT9 WSPR decoding</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4606"/>
+        <location filename="../mainwindow.ui" line="4574"/>
         <source>FT8 decoding</source>
         <translation type="unfinished">FT4 kodēšana {8 ?}</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4610"/>
+        <location filename="../mainwindow.ui" line="4578"/>
         <source>decoder sensitivity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4618"/>
+        <location filename="../mainwindow.ui" line="4586"/>
         <source>QSO RX freq sensitivity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4626"/>
+        <location filename="../mainwindow.ui" line="4594"/>
         <source>decoding cycles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4634"/>
+        <location filename="../mainwindow.ui" line="4602"/>
         <source>SWL decoding cycles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4652"/>
+        <location filename="../mainwindow.ui" line="4620"/>
         <source>FT4 decoding</source>
         <translation>FT4 kodēšana</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4668"/>
+        <location filename="../mainwindow.ui" line="4636"/>
         <source>Save</source>
         <translation>Saglabāt</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4676"/>
+        <location filename="../mainwindow.ui" line="4644"/>
         <source>Language</source>
         <translation>Valodas</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4700"/>
+        <location filename="../mainwindow.ui" line="4668"/>
         <source>Help</source>
         <translation>Palīdzība</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4716"/>
+        <location filename="../mainwindow.ui" line="4684"/>
         <source>Mode</source>
         <translation>Modes</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4728"/>
+        <location filename="../mainwindow.ui" line="4696"/>
         <source>Misc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4732"/>
+        <location filename="../mainwindow.ui" line="4700"/>
         <source>Accept UDP Reply messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4767"/>
+        <location filename="../mainwindow.ui" line="4735"/>
         <source>Auto RX frequency Filter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4792"/>
+        <location filename="../mainwindow.ui" line="4760"/>
         <source>DXpedition</source>
         <translation>DX ekspedīcijas</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4811"/>
+        <location filename="../mainwindow.ui" line="4779"/>
         <source>Exit</source>
         <translation>Iziet</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4814"/>
+        <location filename="../mainwindow.ui" line="4782"/>
         <source>Alt+F4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4825"/>
+        <location filename="../mainwindow.ui" line="4793"/>
         <source>Configuration</source>
         <translation>Konfigurācija</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4828"/>
-        <location filename="../mainwindow.ui" line="5249"/>
+        <location filename="../mainwindow.ui" line="4796"/>
+        <location filename="../mainwindow.ui" line="5217"/>
         <source>F2</source>
         <translation>F2</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4833"/>
+        <location filename="../mainwindow.ui" line="4801"/>
         <source>About JTDX</source>
         <translation>Par JTDX</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4836"/>
+        <location filename="../mainwindow.ui" line="4804"/>
         <source>Ctrl+F1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4841"/>
+        <location filename="../mainwindow.ui" line="4809"/>
         <source>Waterfall</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4846"/>
+        <location filename="../mainwindow.ui" line="4814"/>
         <source>Open</source>
         <translation>Atvērt</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4849"/>
+        <location filename="../mainwindow.ui" line="4817"/>
         <source>Ctrl+O</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4854"/>
+        <location filename="../mainwindow.ui" line="4822"/>
         <source>Open next in directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4857"/>
+        <location filename="../mainwindow.ui" line="4825"/>
         <source>F6</source>
         <translation>F6</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4862"/>
+        <location filename="../mainwindow.ui" line="4830"/>
         <source>Decode remaining files in directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4865"/>
+        <location filename="../mainwindow.ui" line="4833"/>
         <source>Shift+F6</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4870"/>
+        <location filename="../mainwindow.ui" line="4838"/>
         <source>Delete all *.wav &amp;&amp; *.c2 files in SaveDir</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4881"/>
-        <location filename="../mainwindow.ui" line="5579"/>
-        <location filename="../mainwindow.ui" line="5641"/>
-        <location filename="../mainwindow.ui" line="5931"/>
+        <location filename="../mainwindow.ui" line="4849"/>
+        <location filename="../mainwindow.ui" line="5547"/>
+        <location filename="../mainwindow.ui" line="5609"/>
+        <location filename="../mainwindow.ui" line="5899"/>
         <source>fast</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4892"/>
+        <location filename="../mainwindow.ui" line="4860"/>
         <source>None</source>
         <translation>Nav</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="4900"/>
+        <location filename="../mainwindow.ui" line="4868"/>
         <source>Save all</source>
         <translation>Saglabāt visu</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5000"/>
+        <location filename="../mainwindow.ui" line="4968"/>
         <source>JTDX Web site</source>
         <translation>JTDX Web lapa</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5003"/>
+        <location filename="../mainwindow.ui" line="4971"/>
         <source>F1</source>
         <translation>F1</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5008"/>
+        <location filename="../mainwindow.ui" line="4976"/>
         <source>Keyboard shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5011"/>
+        <location filename="../mainwindow.ui" line="4979"/>
         <source>F3</source>
         <translation>F3</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5016"/>
+        <location filename="../mainwindow.ui" line="4984"/>
         <source>Special mouse commands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5019"/>
+        <location filename="../mainwindow.ui" line="4987"/>
         <source>F5</source>
         <translation>F5</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5030"/>
+        <location filename="../mainwindow.ui" line="4998"/>
         <source>JT9</source>
         <translation>JT9</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5041"/>
+        <location filename="../mainwindow.ui" line="5009"/>
         <source>Save decoded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5052"/>
-        <location filename="../mainwindow.ui" line="5587"/>
-        <location filename="../mainwindow.ui" line="5649"/>
-        <location filename="../mainwindow.ui" line="5899"/>
-        <location filename="../mainwindow.ui" line="5939"/>
+        <location filename="../mainwindow.ui" line="5020"/>
+        <location filename="../mainwindow.ui" line="5555"/>
+        <location filename="../mainwindow.ui" line="5617"/>
+        <location filename="../mainwindow.ui" line="5867"/>
+        <location filename="../mainwindow.ui" line="5907"/>
         <source>medium</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5063"/>
-        <location filename="../mainwindow.ui" line="5598"/>
-        <location filename="../mainwindow.ui" line="5660"/>
-        <location filename="../mainwindow.ui" line="5950"/>
+        <location filename="../mainwindow.ui" line="5031"/>
+        <location filename="../mainwindow.ui" line="5566"/>
+        <location filename="../mainwindow.ui" line="5628"/>
+        <location filename="../mainwindow.ui" line="5918"/>
         <source>deep</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5071"/>
+        <location filename="../mainwindow.ui" line="5039"/>
         <source>Monitor OFF at startup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5076"/>
+        <location filename="../mainwindow.ui" line="5044"/>
         <source>Erase ALL.TXT</source>
         <translation>Notīrīt ALL.TXT</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5081"/>
+        <location filename="../mainwindow.ui" line="5049"/>
         <source>Erase QSO LOG file wsjtx_log.adi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5086"/>
+        <location filename="../mainwindow.ui" line="5054"/>
         <source>Open wsjtx_log.adi</source>
         <translation>Atvērt wsjtx_log.adi</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5089"/>
-        <location filename="../mainwindow.ui" line="5273"/>
+        <location filename="../mainwindow.ui" line="5057"/>
+        <location filename="../mainwindow.ui" line="5241"/>
         <source>F7</source>
         <translation>F7</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5097"/>
+        <location filename="../mainwindow.ui" line="5065"/>
         <source>Convert mode to RTTY for logging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5105"/>
+        <location filename="../mainwindow.ui" line="5073"/>
         <source>Log dB reports to Comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5113"/>
+        <location filename="../mainwindow.ui" line="5081"/>
         <source>Prompt me to log QSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5121"/>
+        <location filename="../mainwindow.ui" line="5089"/>
         <source>Blank line between decoding periods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5129"/>
+        <location filename="../mainwindow.ui" line="5097"/>
         <source>Clear DX Call and Grid after logging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5137"/>
+        <location filename="../mainwindow.ui" line="5105"/>
         <source>Display distance in miles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5145"/>
+        <location filename="../mainwindow.ui" line="5113"/>
         <source>Double-click on call sets Tx Enable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5153"/>
+        <location filename="../mainwindow.ui" line="5121"/>
         <source>Tx disabled after sending 73</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5161"/>
+        <location filename="../mainwindow.ui" line="5129"/>
         <source>Runaway Tx watchdog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5169"/>
+        <location filename="../mainwindow.ui" line="5137"/>
         <source>Allow multiple instances</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5177"/>
+        <location filename="../mainwindow.ui" line="5145"/>
         <source>Tx freq locked to Rx freq</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5185"/>
+        <location filename="../mainwindow.ui" line="5153"/>
         <source>Skip Tx 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5193"/>
+        <location filename="../mainwindow.ui" line="5161"/>
         <source>JT65</source>
         <translation type="unfinished">JT65</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5204"/>
+        <location filename="../mainwindow.ui" line="5172"/>
         <source>JT9+JT65</source>
         <translation>JT65+JT65 {9+?}</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5212"/>
+        <location filename="../mainwindow.ui" line="5180"/>
         <source>Tx messages to Rx Frequency window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5220"/>
+        <location filename="../mainwindow.ui" line="5188"/>
         <source>Gray1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5228"/>
+        <location filename="../mainwindow.ui" line="5196"/>
         <source>Show DXCC entity and worked B4 status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5236"/>
+        <location filename="../mainwindow.ui" line="5204"/>
         <source>Astronomical data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5241"/>
+        <location filename="../mainwindow.ui" line="5209"/>
         <source>Short list of add-on prefixes and suffixes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5246"/>
+        <location filename="../mainwindow.ui" line="5214"/>
         <source>Settings...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5257"/>
+        <location filename="../mainwindow.ui" line="5225"/>
         <source>JTDX forum</source>
         <translation>JTDX forums</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5262"/>
+        <location filename="../mainwindow.ui" line="5230"/>
         <source>Open log directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5270"/>
+        <location filename="../mainwindow.ui" line="5238"/>
         <source>Message averaging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5287"/>
+        <location filename="../mainwindow.ui" line="5255"/>
         <source>Include averaging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5301"/>
+        <location filename="../mainwindow.ui" line="5269"/>
         <source>JT65 hinted decoding</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5312"/>
+        <location filename="../mainwindow.ui" line="5280"/>
         <source>WSPR-2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5317"/>
+        <location filename="../mainwindow.ui" line="5285"/>
         <source>Save reference spectrum</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5322"/>
+        <location filename="../mainwindow.ui" line="5290"/>
         <source>&amp;Download Samples ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5325"/>
+        <location filename="../mainwindow.ui" line="5293"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Download sample audio files demonstrating the various modes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5333"/>
+        <location filename="../mainwindow.ui" line="5301"/>
         <source>T10</source>
         <translation>T10</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5344"/>
+        <location filename="../mainwindow.ui" line="5312"/>
         <source>Bypass text filters on RX frequency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5355"/>
+        <location filename="../mainwindow.ui" line="5323"/>
         <source>Bypass all text filters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5358"/>
+        <location filename="../mainwindow.ui" line="5326"/>
         <source>Alt+F</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5366"/>
+        <location filename="../mainwindow.ui" line="5334"/>
         <source>Show messages decoded from JT65 harmonics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5377"/>
+        <location filename="../mainwindow.ui" line="5345"/>
         <source>Enable main window popup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5388"/>
+        <location filename="../mainwindow.ui" line="5356"/>
         <source>Messages with my callsign to RX frequency window </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5393"/>
+        <location filename="../mainwindow.ui" line="5361"/>
         <source>Copyright notice from WSJT Development Group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5407"/>
+        <location filename="../mainwindow.ui" line="5375"/>
         <source>FT8</source>
         <translation>FT8</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5415"/>
+        <location filename="../mainwindow.ui" line="5383"/>
         <source>FT8 call first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5426"/>
+        <location filename="../mainwindow.ui" line="5394"/>
         <source>Call priority and search CQ</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5429"/>
+        <location filename="../mainwindow.ui" line="5397"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Autoselect searching for response to CQ with priorities, if failed then searching for CQ messages with higher priority&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5437"/>
+        <location filename="../mainwindow.ui" line="5405"/>
         <source>FT8 call last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5445"/>
+        <location filename="../mainwindow.ui" line="5413"/>
         <source>FT8 manual call</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5453"/>
+        <location filename="../mainwindow.ui" line="5421"/>
         <source>0  Call None</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5461"/>
+        <location filename="../mainwindow.ui" line="5429"/>
         <source>1  Call first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5469"/>
+        <location filename="../mainwindow.ui" line="5437"/>
         <source>4+ Call and search through CQ messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5477"/>
+        <location filename="../mainwindow.ui" line="5445"/>
         <source>2  Call decoded till start of TX interval</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5485"/>
+        <location filename="../mainwindow.ui" line="5453"/>
         <source>3  Call based on end of decoding</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5493"/>
+        <location filename="../mainwindow.ui" line="5461"/>
         <source>Single shot QSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5501"/>
+        <location filename="../mainwindow.ui" line="5469"/>
         <source>Erase band activity window at start of decoding</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5509"/>
+        <location filename="../mainwindow.ui" line="5477"/>
         <source>Answer worked B4 calls</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5520"/>
+        <location filename="../mainwindow.ui" line="5488"/>
         <source>Auto</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5547"/>
+        <location filename="../mainwindow.ui" line="5515"/>
         <source>4</source>
         <translation>4</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5555"/>
+        <location filename="../mainwindow.ui" line="5523"/>
         <source>8</source>
         <translation>8</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5563"/>
+        <location filename="../mainwindow.ui" line="5531"/>
         <source>12</source>
         <translation>12</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5571"/>
+        <location filename="../mainwindow.ui" line="5539"/>
         <source>Erase both message windows at band change</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5609"/>
+        <location filename="../mainwindow.ui" line="5577"/>
         <source>deep with 4 passes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5617"/>
+        <location filename="../mainwindow.ui" line="5585"/>
         <source>Max distance instead of best SNR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5625"/>
+        <location filename="../mainwindow.ui" line="5593"/>
         <source>Messages with wanted call to RX frequency window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5633"/>
+        <location filename="../mainwindow.ui" line="5601"/>
         <source>use low thresholds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5668"/>
+        <location filename="../mainwindow.ui" line="5636"/>
         <source>use subpass</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5679"/>
+        <location filename="../mainwindow.ui" line="5647"/>
         <source>minimum</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5687"/>
+        <location filename="../mainwindow.ui" line="5655"/>
         <source>late start of decoder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5695"/>
+        <location filename="../mainwindow.ui" line="5663"/>
         <source>Call worked B4 callsigns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5703"/>
+        <location filename="../mainwindow.ui" line="5671"/>
         <source>Call higher than new calls priority callsigns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5722"/>
+        <location filename="../mainwindow.ui" line="5690"/>
         <source>CQ and 73</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5730"/>
+        <location filename="../mainwindow.ui" line="5698"/>
         <source>any messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5738"/>
+        <location filename="../mainwindow.ui" line="5706"/>
         <source>Enable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5746"/>
+        <location filename="../mainwindow.ui" line="5714"/>
         <source>Switch Filter OFF at sending 73</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5754"/>
+        <location filename="../mainwindow.ui" line="5722"/>
         <source>Switch Filter OFF at getting 73</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5762"/>
+        <location filename="../mainwindow.ui" line="5730"/>
         <source>Hide FT8 dupe messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5770"/>
+        <location filename="../mainwindow.ui" line="5738"/>
         <source>Display output power</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5778"/>
+        <location filename="../mainwindow.ui" line="5746"/>
         <source>Report message priority</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5786"/>
+        <location filename="../mainwindow.ui" line="5754"/>
         <source>Enable hound mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5797"/>
+        <location filename="../mainwindow.ui" line="5765"/>
         <source>Use hound TX frequency control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5805"/>
+        <location filename="../mainwindow.ui" line="5773"/>
         <source>Disable TX after sending RRR/RR73/73 in manual mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5816"/>
+        <location filename="../mainwindow.ui" line="5784"/>
         <source>Show tooltips in main window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5824"/>
+        <location filename="../mainwindow.ui" line="5792"/>
         <source>Color Tx message buttons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5832"/>
-        <location filename="../mainwindow.ui" line="6017"/>
-        <location filename="../mainwindow.ui" line="6041"/>
+        <location filename="../mainwindow.ui" line="5800"/>
+        <location filename="../mainwindow.ui" line="5985"/>
+        <location filename="../mainwindow.ui" line="6009"/>
         <source>3</source>
         <translation>3</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5840"/>
+        <location filename="../mainwindow.ui" line="5808"/>
         <source>6</source>
         <translation>6</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5848"/>
+        <location filename="../mainwindow.ui" line="5816"/>
         <source>10</source>
         <translation>10</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5856"/>
+        <location filename="../mainwindow.ui" line="5824"/>
         <source>5</source>
         <translation>5</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5864"/>
+        <location filename="../mainwindow.ui" line="5832"/>
         <source>7</source>
         <translation>7</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5872"/>
+        <location filename="../mainwindow.ui" line="5840"/>
         <source>9</source>
         <translation>9</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5880"/>
+        <location filename="../mainwindow.ui" line="5848"/>
         <source>11</source>
         <translation>11</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5888"/>
+        <location filename="../mainwindow.ui" line="5856"/>
         <source>low</source>
         <translation>zems</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5907"/>
+        <location filename="../mainwindow.ui" line="5875"/>
         <source>high</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5915"/>
+        <location filename="../mainwindow.ui" line="5883"/>
         <source>Hide FT contest messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5923"/>
+        <location filename="../mainwindow.ui" line="5891"/>
         <source>FT4</source>
         <translation>FT4</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5958"/>
+        <location filename="../mainwindow.ui" line="5926"/>
         <source>wideband DX Call search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5966"/>
+        <location filename="../mainwindow.ui" line="5934"/>
         <source>6 pass SWL mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5977"/>
+        <location filename="../mainwindow.ui" line="5945"/>
         <source>Callsign to clipboard at double-click|autoselect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5985"/>
+        <location filename="../mainwindow.ui" line="5953"/>
         <source>Crossband 160m operation with Japan</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="5993"/>
+        <location filename="../mainwindow.ui" line="5961"/>
         <source>Crossband 160m operation with Korea</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6049"/>
+        <location filename="../mainwindow.ui" line="6017"/>
         <source>Hide telemetry messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6057"/>
+        <location filename="../mainwindow.ui" line="6025"/>
         <source>13</source>
         <translation>13</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6065"/>
+        <location filename="../mainwindow.ui" line="6033"/>
         <source>14</source>
         <translation>14</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6073"/>
+        <location filename="../mainwindow.ui" line="6041"/>
         <source>15</source>
         <translation>15</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6081"/>
+        <location filename="../mainwindow.ui" line="6049"/>
         <source>16</source>
         <translation>16</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6089"/>
+        <location filename="../mainwindow.ui" line="6057"/>
         <source>17</source>
         <translation>17</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6097"/>
+        <location filename="../mainwindow.ui" line="6065"/>
         <source>18</source>
         <translation>18</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6105"/>
+        <location filename="../mainwindow.ui" line="6073"/>
         <source>19</source>
         <translation>19</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6113"/>
+        <location filename="../mainwindow.ui" line="6081"/>
         <source>20</source>
         <translation>20</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6121"/>
+        <location filename="../mainwindow.ui" line="6089"/>
         <source>21</source>
         <translation>21</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6129"/>
+        <location filename="../mainwindow.ui" line="6097"/>
         <source>22</source>
         <translation>22</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6137"/>
+        <location filename="../mainwindow.ui" line="6105"/>
         <source>23</source>
         <translation>23</translation>
     </message>
     <message>
-        <location filename="../mainwindow.ui" line="6145"/>
+        <location filename="../mainwindow.ui" line="6113"/>
         <source>24</source>
         <translation>24</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="463"/>
+        <location filename="../mainwindow.cpp" line="470"/>
         <source>Do you want to reconfigure the radio interface?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="815"/>
+        <location filename="../mainwindow.cpp" line="828"/>
         <source>Error Writing WAV File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="933"/>
-        <location filename="../mainwindow.cpp" line="934"/>
+        <location filename="../mainwindow.cpp" line="948"/>
+        <location filename="../mainwindow.cpp" line="949"/>
+        <location filename="../mainwindow.cpp" line="6241"/>
         <location filename="../mainwindow.cpp" line="6242"/>
-        <location filename="../mainwindow.cpp" line="6243"/>
+        <location filename="../mainwindow.cpp" line="6299"/>
         <location filename="../mainwindow.cpp" line="6300"/>
-        <location filename="../mainwindow.cpp" line="6301"/>
         <source>Freq   Message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="955"/>
+        <location filename="../mainwindow.cpp" line="970"/>
         <source>Error Killing jtdxjt9.exe Process</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="956"/>
+        <location filename="../mainwindow.cpp" line="971"/>
         <source>KillByName return code: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="973"/>
+        <location filename="../mainwindow.cpp" line="988"/>
         <source>Error removing &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="974"/>
+        <location filename="../mainwindow.cpp" line="989"/>
         <source>Click OK to retry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1669"/>
+        <location filename="../mainwindow.cpp" line="1692"/>
         <source>TX Even</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1676"/>
+        <location filename="../mainwindow.cpp" line="1699"/>
         <source>TX Odd</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1739"/>
-        <location filename="../mainwindow.cpp" line="2504"/>
-        <location filename="../mainwindow.cpp" line="3680"/>
-        <location filename="../mainwindow.cpp" line="4302"/>
-        <location filename="../mainwindow.cpp" line="4450"/>
-        <location filename="../mainwindow.cpp" line="4690"/>
-        <location filename="../mainwindow.cpp" line="7109"/>
-        <location filename="../mainwindow.cpp" line="7322"/>
+        <location filename="../mainwindow.cpp" line="1762"/>
+        <location filename="../mainwindow.cpp" line="2551"/>
+        <location filename="../mainwindow.cpp" line="3730"/>
+        <location filename="../mainwindow.cpp" line="4293"/>
+        <location filename="../mainwindow.cpp" line="4441"/>
+        <location filename="../mainwindow.cpp" line="4686"/>
+        <location filename="../mainwindow.cpp" line="7110"/>
+        <location filename="../mainwindow.cpp" line="7326"/>
         <source>File Open Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1740"/>
-        <location filename="../mainwindow.cpp" line="2505"/>
-        <location filename="../mainwindow.cpp" line="3681"/>
-        <location filename="../mainwindow.cpp" line="4303"/>
-        <location filename="../mainwindow.cpp" line="4451"/>
-        <location filename="../mainwindow.cpp" line="4691"/>
-        <location filename="../mainwindow.cpp" line="7110"/>
-        <location filename="../mainwindow.cpp" line="7323"/>
-        <location filename="../mainwindow.cpp" line="7676"/>
+        <location filename="../mainwindow.cpp" line="1763"/>
+        <location filename="../mainwindow.cpp" line="2552"/>
+        <location filename="../mainwindow.cpp" line="3731"/>
+        <location filename="../mainwindow.cpp" line="4294"/>
+        <location filename="../mainwindow.cpp" line="4442"/>
+        <location filename="../mainwindow.cpp" line="4687"/>
+        <location filename="../mainwindow.cpp" line="7111"/>
+        <location filename="../mainwindow.cpp" line="7327"/>
+        <location filename="../mainwindow.cpp" line="7680"/>
         <source>Cannot open &quot;%1&quot; for append: %2</source>
         <translation>Nevar atvērt &quot;%1&quot; lai pievienotu: %2&quot;</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1795"/>
+        <location filename="../mainwindow.cpp" line="1818"/>
         <source>lost audio </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1879"/>
+        <location filename="../mainwindow.cpp" line="1902"/>
         <source>Error saving c2 file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1956"/>
+        <location filename="../mainwindow.cpp" line="1979"/>
         <source>Error in SoundInput</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1960"/>
+        <location filename="../mainwindow.cpp" line="1983"/>
         <source>Error in SoundOutput</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2055"/>
+        <location filename="../mainwindow.cpp" line="2100"/>
         <source>Pwr</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2615"/>
+        <location filename="../mainwindow.cpp" line="2664"/>
         <source>Subprocess Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2616"/>
+        <location filename="../mainwindow.cpp" line="2665"/>
         <source>Subprocess failed with exit code %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2618"/>
-        <location filename="../mainwindow.cpp" line="2637"/>
+        <location filename="../mainwindow.cpp" line="2667"/>
+        <location filename="../mainwindow.cpp" line="2686"/>
         <source>Running: %1
 %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2636"/>
+        <location filename="../mainwindow.cpp" line="2685"/>
         <source>Subprocess error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2712"/>
+        <location filename="../mainwindow.cpp" line="2761"/>
         <source>Spotted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2719"/>
+        <location filename="../mainwindow.cpp" line="2768"/>
         <source>Can not establish/complete connection to dxsummit server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2742"/>
+        <location filename="../mainwindow.cpp" line="2791"/>
         <source>The algorithms, source code, look-and-feel of WSJT-X and related programs, and protocol specifications for the modes FSK441, FT8, JT4, JT6M, JT9, JT65, JTMS, QRA64, ISCAT, MSK144 are Copyright (C) 2001-2018 by one or more of the following authors: Joseph Taylor, K1JT; Bill Somerville, G4WJS; Steven Franke, K9AN; Nico Palermo, IV3NWV; Greg Beam, KI7MT; Michael Black, W9MDB; Edson Pereira, PY2SDR; Philip Karn, KA9Q; and other members of the WSJT Development Group.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2862"/>
+        <location filename="../mainwindow.cpp" line="2911"/>
         <source>No data read from disk. Wrong file format?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2869"/>
+        <location filename="../mainwindow.cpp" line="2918"/>
         <source>Confirm Delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2870"/>
+        <location filename="../mainwindow.cpp" line="2919"/>
         <source>Are you sure you want to delete all *.wav and *.c2 files in
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2913"/>
+        <location filename="../mainwindow.cpp" line="2962"/>
         <source>AutoSeq0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2926"/>
+        <location filename="../mainwindow.cpp" line="2975"/>
         <source>AutoSeq1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2935"/>
-        <location filename="../mainwindow.cpp" line="2961"/>
+        <location filename="../mainwindow.cpp" line="2984"/>
+        <location filename="../mainwindow.cpp" line="3010"/>
         <source>AutoSeq2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2936"/>
-        <location filename="../mainwindow.cpp" line="2957"/>
+        <location filename="../mainwindow.cpp" line="2985"/>
+        <location filename="../mainwindow.cpp" line="3006"/>
         <source>AutoSeq6</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2945"/>
-        <location filename="../mainwindow.cpp" line="2962"/>
+        <location filename="../mainwindow.cpp" line="2994"/>
+        <location filename="../mainwindow.cpp" line="3011"/>
         <source>AutoSeq3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="2946"/>
-        <location filename="../mainwindow.cpp" line="2958"/>
+        <location filename="../mainwindow.cpp" line="2995"/>
+        <location filename="../mainwindow.cpp" line="3007"/>
         <source>AutoSeq7</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3042"/>
+        <location filename="../mainwindow.cpp" line="3091"/>
         <source>Hound TX frequency control is not allowed in the standard FT8 sub-bands.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3050"/>
+        <location filename="../mainwindow.cpp" line="3099"/>
         <source>Hound mode TX frequency control requires *Split* rig control (either *Rig* or *Fake It* on the *Settings | Radio* tab.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3053"/>
+        <location filename="../mainwindow.cpp" line="3102"/>
         <source>Hound TX frequency control is not allowed in the standard FT8 sub-bands and requires *Split* rig control (either *Rig* or *Fake It* on the *Settings | Radio* tab.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3061"/>
+        <location filename="../mainwindow.cpp" line="3110"/>
         <source>Hound TX frequency control warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3066"/>
+        <location filename="../mainwindow.cpp" line="3115"/>
         <source>HoundFC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3140"/>
+        <location filename="../mainwindow.cpp" line="3189"/>
         <source>Keyboard Shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3151"/>
+        <location filename="../mainwindow.cpp" line="3200"/>
         <source>Special Mouse Commands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3629"/>
+        <location filename="../mainwindow.cpp" line="3679"/>
         <source>Avg=</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3629"/>
-        <location filename="../mainwindow.cpp" line="3648"/>
+        <location filename="../mainwindow.cpp" line="3679"/>
+        <location filename="../mainwindow.cpp" line="3698"/>
         <source>Freq  </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3629"/>
-        <location filename="../mainwindow.cpp" line="3648"/>
+        <location filename="../mainwindow.cpp" line="3679"/>
+        <location filename="../mainwindow.cpp" line="3698"/>
         <source>Lag=</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3635"/>
-        <location filename="../mainwindow.cpp" line="3644"/>
+        <location filename="../mainwindow.cpp" line="3685"/>
+        <location filename="../mainwindow.cpp" line="3694"/>
         <source>check time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3959"/>
-        <location filename="../mainwindow.cpp" line="3965"/>
+        <location filename="../mainwindow.cpp" line="3950"/>
+        <location filename="../mainwindow.cpp" line="3956"/>
         <source>Confirm change Language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="3961"/>
-        <location filename="../mainwindow.cpp" line="3968"/>
+        <location filename="../mainwindow.cpp" line="3952"/>
+        <location filename="../mainwindow.cpp" line="3959"/>
         <source>Are You sure to change UI Language to English, JTDX will restart?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4140"/>
+        <location filename="../mainwindow.cpp" line="4131"/>
         <source>Please choose another Tx frequency. JTDX will not knowingly transmit another mode in the WSPR sub-band.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4145"/>
-        <location filename="../mainwindow.cpp" line="4148"/>
+        <location filename="../mainwindow.cpp" line="4136"/>
+        <location filename="../mainwindow.cpp" line="4139"/>
         <source>WSPR Guard Band</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4266"/>
+        <location filename="../mainwindow.cpp" line="4257"/>
         <source>TUNE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4267"/>
-        <location filename="../mainwindow.cpp" line="4726"/>
+        <location filename="../mainwindow.cpp" line="4258"/>
+        <location filename="../mainwindow.cpp" line="4723"/>
         <source>LastTx: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4518"/>
+        <location filename="../mainwindow.cpp" line="4509"/>
         <source>Tx: TUNE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4519"/>
+        <location filename="../mainwindow.cpp" line="4510"/>
         <source>Tx: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4524"/>
+        <location filename="../mainwindow.cpp" line="4515"/>
         <source>Receiving </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="4577"/>
+        <location filename="../mainwindow.cpp" line="4568"/>
         <source>Pwr&lt;br&gt;%1 W</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5608"/>
-        <location filename="../mainwindow.cpp" line="5620"/>
-        <location filename="../mainwindow.cpp" line="5639"/>
-        <location filename="../mainwindow.cpp" line="5665"/>
+        <location filename="../mainwindow.cpp" line="5605"/>
+        <location filename="../mainwindow.cpp" line="5617"/>
+        <location filename="../mainwindow.cpp" line="5636"/>
+        <location filename="../mainwindow.cpp" line="5662"/>
         <source>Add to CALL3.TXT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5609"/>
+        <location filename="../mainwindow.cpp" line="5606"/>
         <source>Please enter a valid grid locator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5621"/>
+        <location filename="../mainwindow.cpp" line="5618"/>
         <source>Cannot open &quot;%1&quot; for read/write: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5640"/>
+        <location filename="../mainwindow.cpp" line="5637"/>
         <source>Cannot open &quot;%1&quot; for writing: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="5663"/>
+        <location filename="../mainwindow.cpp" line="5660"/>
         <source>%1
 is already in CALL3.TXT, do you wish to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6027"/>
+        <location filename="../mainwindow.cpp" line="6024"/>
         <source>Error sending QSO ADIF data to secondary UDP server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6027"/>
+        <location filename="../mainwindow.cpp" line="6024"/>
         <source>Write returned &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6192"/>
+        <location filename="../mainwindow.cpp" line="6190"/>
         <source>Tx WSPR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="6291"/>
+        <location filename="../mainwindow.cpp" line="6290"/>
         <source>    Freq     Drift  Call          Grid    dBm   Dist</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5048,74 +5063,74 @@ is already in CALL3.TXT, do you wish to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7010"/>
+        <location filename="../mainwindow.cpp" line="7011"/>
         <source>Lockd Tx=Rx</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7011"/>
+        <location filename="../mainwindow.cpp" line="7012"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Push button to allow Tx/Rx AF frequencies split operation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7014"/>
+        <location filename="../mainwindow.cpp" line="7015"/>
         <source>Tx/Rx Split</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7015"/>
+        <location filename="../mainwindow.cpp" line="7016"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Push button to lock Tx frequency to the Rx AF frequency.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7149"/>
+        <location filename="../mainwindow.cpp" line="7146"/>
         <source>Rig Control Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7223"/>
+        <location filename="../mainwindow.cpp" line="7226"/>
         <source>Tune digital gain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7224"/>
+        <location filename="../mainwindow.cpp" line="7227"/>
         <source>Transmit digital gain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7243"/>
+        <location filename="../mainwindow.cpp" line="7247"/>
         <source>Prefixes</source>
         <translation>Prefiks</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7292"/>
-        <location filename="../mainwindow.cpp" line="7293"/>
+        <location filename="../mainwindow.cpp" line="7296"/>
+        <location filename="../mainwindow.cpp" line="7297"/>
         <source>Logd </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7528"/>
+        <location filename="../mainwindow.cpp" line="7532"/>
         <source>Network Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7529"/>
+        <location filename="../mainwindow.cpp" line="7533"/>
         <source>Error: %1
 UDP server %2:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7675"/>
+        <location filename="../mainwindow.cpp" line="7679"/>
         <source>File Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7897"/>
+        <location filename="../mainwindow.cpp" line="7901"/>
         <source>Tx watchdog expired</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="7911"/>
+        <location filename="../mainwindow.cpp" line="7915"/>
         <source>WD %1m</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5132,7 +5147,7 @@ UDP server %2:%3</source>
 <context>
     <name>PollingTransceiver</name>
     <message>
-        <location filename="../PollingTransceiver.cpp" line="271"/>
+        <location filename="../PollingTransceiver.cpp" line="272"/>
         <source>Unexpected rig error</source>
         <translation>Negaidīta transīvera kļūda</translation>
     </message>
@@ -5140,7 +5155,7 @@ UDP server %2:%3</source>
 <context>
     <name>QDialogButtonBox</name>
     <message>
-        <location filename="../Configuration.cpp" line="5103"/>
+        <location filename="../Configuration.cpp" line="5280"/>
         <source>OK</source>
         <translation>Labi</translation>
     </message>
@@ -5148,190 +5163,190 @@ UDP server %2:%3</source>
 <context>
     <name>QFileDialog</name>
     <message>
-        <location filename="../Configuration.cpp" line="5105"/>
+        <location filename="../Configuration.cpp" line="5282"/>
         <source>Directory:</source>
         <translation>Katalogs:</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5106"/>
+        <location filename="../Configuration.cpp" line="5283"/>
         <source>File &amp;name:</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5107"/>
+        <location filename="../Configuration.cpp" line="5284"/>
         <source>&amp;Open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5108"/>
+        <location filename="../Configuration.cpp" line="5285"/>
         <source>&amp;Choose</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5109"/>
+        <location filename="../Configuration.cpp" line="5286"/>
         <source>&amp;Save</source>
         <translation>&amp;Saglabāt</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5110"/>
+        <location filename="../Configuration.cpp" line="5287"/>
         <source>Cancel</source>
         <translation>Acelt</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5111"/>
+        <location filename="../Configuration.cpp" line="5288"/>
         <source>All files (*)</source>
         <translation>Visi faili (*)</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5112"/>
+        <location filename="../Configuration.cpp" line="5289"/>
         <source>New Folder</source>
         <translation>Jauna mape</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5113"/>
+        <location filename="../Configuration.cpp" line="5290"/>
         <source>Delete</source>
         <translation>Dzēst</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5114"/>
+        <location filename="../Configuration.cpp" line="5291"/>
         <source>&amp;Delete</source>
         <translation>&amp;Dzēst</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5115"/>
+        <location filename="../Configuration.cpp" line="5292"/>
         <source>&amp;Rename</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5116"/>
+        <location filename="../Configuration.cpp" line="5293"/>
         <source>Show &amp;hidden files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5117"/>
+        <location filename="../Configuration.cpp" line="5294"/>
         <source>&amp;New Folder</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5118"/>
+        <location filename="../Configuration.cpp" line="5295"/>
         <source>Look in:</source>
         <translation>Ieskaties:</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5119"/>
+        <location filename="../Configuration.cpp" line="5296"/>
         <source>Files of type:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5120"/>
+        <location filename="../Configuration.cpp" line="5297"/>
         <source>&apos;%1&apos; is write protected.
 Do you want to delete it anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5121"/>
+        <location filename="../Configuration.cpp" line="5298"/>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5122"/>
+        <location filename="../Configuration.cpp" line="5299"/>
         <source>Could not delete directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5123"/>
+        <location filename="../Configuration.cpp" line="5300"/>
         <source>%1
 Directory not found.
 Please verify the correct directory name was given.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5125"/>
+        <location filename="../Configuration.cpp" line="5302"/>
         <source>Recent Places</source>
         <translation>Nesenās vietas</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5126"/>
+        <location filename="../Configuration.cpp" line="5303"/>
         <source>Back</source>
         <translation>Atpakaļ</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5127"/>
+        <location filename="../Configuration.cpp" line="5304"/>
         <source>Go back</source>
         <translation>Atgriezties</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5128"/>
+        <location filename="../Configuration.cpp" line="5305"/>
         <source>Alt+Left</source>
         <translation>Alt+Left</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5129"/>
+        <location filename="../Configuration.cpp" line="5306"/>
         <source>Forward</source>
         <translation>Uz priekšu</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5130"/>
+        <location filename="../Configuration.cpp" line="5307"/>
         <source>Go forward</source>
         <translation>Ej uz priekšu</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5131"/>
+        <location filename="../Configuration.cpp" line="5308"/>
         <source>Alt+Right</source>
         <translation>Alt+Right</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5132"/>
+        <location filename="../Configuration.cpp" line="5309"/>
         <source>Parent Directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5133"/>
+        <location filename="../Configuration.cpp" line="5310"/>
         <source>Go to the parent directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5134"/>
+        <location filename="../Configuration.cpp" line="5311"/>
         <source>Alt+Up</source>
         <translation>Alt+Up</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5135"/>
+        <location filename="../Configuration.cpp" line="5312"/>
         <source>Create New Folder</source>
         <translation>Izveidot Jaunu Folderi</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5136"/>
+        <location filename="../Configuration.cpp" line="5313"/>
         <source>Create a New Folder</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5137"/>
+        <location filename="../Configuration.cpp" line="5314"/>
         <source>List View</source>
         <translation>Saraksta skats</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5138"/>
+        <location filename="../Configuration.cpp" line="5315"/>
         <source>Change to list view mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5139"/>
+        <location filename="../Configuration.cpp" line="5316"/>
         <source>Detail View</source>
         <translation>Detalizēts skats</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5140"/>
+        <location filename="../Configuration.cpp" line="5317"/>
         <source>Change to detail view mode</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5141"/>
+        <location filename="../Configuration.cpp" line="5318"/>
         <source>Sidebar</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5142"/>
+        <location filename="../Configuration.cpp" line="5319"/>
         <source>List of places and bookmarks</source>
         <translation></translation>
     </message>
@@ -5339,22 +5354,22 @@ Please verify the correct directory name was given.</source>
 <context>
     <name>QFileSystemModel</name>
     <message>
-        <location filename="../Configuration.cpp" line="5144"/>
+        <location filename="../Configuration.cpp" line="5321"/>
         <source>Name</source>
         <translation>Vārds</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5145"/>
+        <location filename="../Configuration.cpp" line="5322"/>
         <source>Size</source>
         <translation>Izmērs</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5146"/>
+        <location filename="../Configuration.cpp" line="5323"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="5147"/>
+        <location filename="../Configuration.cpp" line="5324"/>
         <source>Date Modified</source>
         <translation>Datums izmainīts</translation>
     </message>
@@ -5376,17 +5391,17 @@ Please verify the correct directory name was given.</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../main.cpp" line="184"/>
+        <location filename="../main.cpp" line="186"/>
         <source>Invalid rig name - \ &amp; / not allowed</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="209"/>
+        <location filename="../main.cpp" line="211"/>
         <source>Another instance may be running, try to remove stale lock file?</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="351"/>
+        <location filename="../main.cpp" line="353"/>
         <source>Unexpected error</source>
         <translation>Negaidīta kļūda</translation>
     </message>
@@ -5513,67 +5528,67 @@ Error(%2): %3</source>
 <context>
     <name>SoundInput</name>
     <message>
-        <location filename="../soundin.cpp" line="24"/>
+        <location filename="../soundin.cpp" line="21"/>
         <source>An error opening the audio input device has occurred.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="28"/>
+        <location filename="../soundin.cpp" line="25"/>
         <source>An error occurred during read from the audio input device.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="32"/>
+        <location filename="../soundin.cpp" line="29"/>
         <source>Audio data not being fed to the audio input device fast enough.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="36"/>
+        <location filename="../soundin.cpp" line="33"/>
         <source>Non-recoverable error, audio input device not usable at this time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="65"/>
+        <location filename="../soundin.cpp" line="62"/>
         <source>Requested input audio format is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="72"/>
+        <location filename="../soundin.cpp" line="69"/>
         <source>Requested input audio format is not supported on device.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="93"/>
+        <location filename="../soundin.cpp" line="90"/>
         <source>Failed to initialize audio sink device</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="128"/>
+        <location filename="../soundin.cpp" line="125"/>
         <source>Idle</source>
         <translation>Dīkstāvē</translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="132"/>
+        <location filename="../soundin.cpp" line="129"/>
         <source>Receiving</source>
         <translation>Saņemt</translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="136"/>
+        <location filename="../soundin.cpp" line="133"/>
         <source>Suspended</source>
         <translation>Suspendēts</translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="141"/>
+        <location filename="../soundin.cpp" line="138"/>
         <source>Interrupted</source>
         <translation>pārtraukt</translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="148"/>
+        <location filename="../soundin.cpp" line="145"/>
         <source>Error</source>
         <translation>Kūda</translation>
     </message>
     <message>
-        <location filename="../soundin.cpp" line="152"/>
+        <location filename="../soundin.cpp" line="149"/>
         <source>Stopped</source>
         <translation>Apturēt</translation>
     </message>
@@ -5581,62 +5596,62 @@ Error(%2): %3</source>
 <context>
     <name>SoundOutput</name>
     <message>
-        <location filename="../soundout.cpp" line="27"/>
+        <location filename="../soundout.cpp" line="24"/>
         <source>An error opening the audio output device has occurred.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundout.cpp" line="28"/>
+        <location filename="../soundout.cpp" line="25"/>
         <source>An error occurred during write to the audio output device.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundout.cpp" line="29"/>
+        <location filename="../soundout.cpp" line="26"/>
         <source>Audio data not being fed to the audio output device fast enough.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundout.cpp" line="30"/>
+        <location filename="../soundout.cpp" line="27"/>
         <source>Non-recoverable error, audio output device not usable at this time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundout.cpp" line="49"/>
+        <location filename="../soundout.cpp" line="45"/>
         <source>Requested output audio format is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundout.cpp" line="50"/>
+        <location filename="../soundout.cpp" line="46"/>
         <source>Requested output audio format is not supported on device.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../soundout.cpp" line="113"/>
+        <location filename="../soundout.cpp" line="109"/>
         <source>Idle</source>
         <translation>Dīkstāvē</translation>
     </message>
     <message>
-        <location filename="../soundout.cpp" line="114"/>
+        <location filename="../soundout.cpp" line="110"/>
         <source>Sending</source>
         <translation>Sūta</translation>
     </message>
     <message>
-        <location filename="../soundout.cpp" line="115"/>
+        <location filename="../soundout.cpp" line="111"/>
         <source>Suspended</source>
         <translation>Suspendēts</translation>
     </message>
     <message>
-        <location filename="../soundout.cpp" line="117"/>
+        <location filename="../soundout.cpp" line="113"/>
         <source>Interrupted</source>
         <translation>pārtraukt</translation>
     </message>
     <message>
-        <location filename="../soundout.cpp" line="119"/>
+        <location filename="../soundout.cpp" line="115"/>
         <source>Error</source>
         <translation>Kūda</translation>
     </message>
     <message>
-        <location filename="../soundout.cpp" line="119"/>
+        <location filename="../soundout.cpp" line="115"/>
         <source>Stopped</source>
         <translation>Apstājās</translation>
     </message>
@@ -5644,32 +5659,32 @@ Error(%2): %3</source>
 <context>
     <name>StationDialog</name>
     <message>
-        <location filename="../Configuration.cpp" line="266"/>
+        <location filename="../Configuration.cpp" line="264"/>
         <source>Add Station</source>
         <translation>Pievienot staciju</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="271"/>
+        <location filename="../Configuration.cpp" line="269"/>
         <source>&amp;Band:</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="272"/>
+        <location filename="../Configuration.cpp" line="270"/>
         <source>&amp;Offset (MHz):</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="273"/>
+        <location filename="../Configuration.cpp" line="271"/>
         <source>&amp;Antenna:</source>
         <translation>&amp;Antēna:</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="279"/>
+        <location filename="../Configuration.cpp" line="277"/>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
     </message>
     <message>
-        <location filename="../Configuration.cpp" line="280"/>
+        <location filename="../Configuration.cpp" line="278"/>
         <source>&amp;Cancel</source>
         <translation></translation>
     </message>
@@ -5708,9 +5723,80 @@ Error(%2): %3</source>
     </message>
 </context>
 <context>
+    <name>TCITransceiver</name>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="232"/>
+        <source>TCI websocket error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="319"/>
+        <source>TCI SDR could not be switched on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="320"/>
+        <source>TCI SDR is not switched on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="329"/>
+        <source>TCI Audio could not be switched on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="336"/>
+        <source>TCI could not be opened</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="763"/>
+        <source>TCI failed to set ptt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="770"/>
+        <source>TCI should use PTT via CAT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="798"/>
+        <source>TCI failed set rxfreq</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="803"/>
+        <location filename="../TCITransceiver.cpp" line="811"/>
+        <location filename="../TCITransceiver.cpp" line="878"/>
+        <source>TCI failed set mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="840"/>
+        <source>TCI failed set txfreq</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="845"/>
+        <location filename="../TCITransceiver.cpp" line="859"/>
+        <source>TCI failed set split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="1015"/>
+        <source>TCI sent an unrecognized frequency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../TCITransceiver.cpp" line="1055"/>
+        <source>TCI modulator not Idle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>TransceiverBase</name>
     <message>
-        <location filename="../TransceiverBase.cpp" line="15"/>
+        <location filename="../TransceiverBase.cpp" line="14"/>
         <source>Unexpected rig error</source>
         <translation>Negaidīta transīvera kļūda</translation>
     </message>
@@ -6235,381 +6321,371 @@ quiet period when decoding is done.</source>
     </message>
     <message>
         <location filename="../Configuration.ui" line="727"/>
-        <location filename="../Configuration.ui" line="1638"/>
+        <location filename="../Configuration.ui" line="1654"/>
         <source> s</source>
         <translation> s</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="750"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Request switch on/off rig power when supported in  Hamlib.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Configuration.ui" line="753"/>
-        <source>Rig power</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Configuration.ui" line="779"/>
+        <location filename="../Configuration.ui" line="795"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Request S meter data from transceiver: CAT shall be set up via Hamlib, Hamlib does support getting S meter data for some transceivers.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="782"/>
+        <location filename="../Configuration.ui" line="798"/>
         <source>S meter</source>
         <translation>S metrs</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="811"/>
+        <location filename="../Configuration.ui" line="827"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Request output power data from transceiver: CAT shall be set up via Hamlib, Hamlib does support getting output power data for some transceivers.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="814"/>
+        <location filename="../Configuration.ui" line="830"/>
         <source>Output power</source>
         <translation>Izejas jauda</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="842"/>
+        <location filename="../Configuration.ui" line="858"/>
         <source>Settings that control your CAT interface.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="845"/>
+        <location filename="../Configuration.ui" line="861"/>
         <source>CAT Control</source>
         <translation>CAT kontrole</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="856"/>
-        <location filename="../Configuration.ui" line="1341"/>
+        <location filename="../Configuration.ui" line="872"/>
+        <location filename="../Configuration.ui" line="1357"/>
         <source>Port:</source>
         <translation>Ports:</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="872"/>
+        <location filename="../Configuration.ui" line="888"/>
         <source>Serial port used for CAT control.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="896"/>
+        <location filename="../Configuration.ui" line="912"/>
         <source>Serial Port Parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="913"/>
+        <location filename="../Configuration.ui" line="929"/>
         <source>Baud Rate:</source>
         <translation>Pārraides ātrumu:</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="929"/>
+        <location filename="../Configuration.ui" line="945"/>
         <source>Serial port data rate which must match the setting of your radio.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="936"/>
+        <location filename="../Configuration.ui" line="952"/>
         <source>1200</source>
         <translation>1200</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="941"/>
+        <location filename="../Configuration.ui" line="957"/>
         <source>2400</source>
         <translation>2400</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="946"/>
+        <location filename="../Configuration.ui" line="962"/>
         <source>4800</source>
         <translation>4800</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="951"/>
+        <location filename="../Configuration.ui" line="967"/>
         <source>9600</source>
         <translation>9600</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="956"/>
+        <location filename="../Configuration.ui" line="972"/>
         <source>19200</source>
         <translation>19200</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="961"/>
+        <location filename="../Configuration.ui" line="977"/>
         <source>38400</source>
         <translation>38400</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="966"/>
+        <location filename="../Configuration.ui" line="982"/>
         <source>57600</source>
         <translation>57600</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="971"/>
+        <location filename="../Configuration.ui" line="987"/>
         <source>115200</source>
         <translation>115200</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="981"/>
+        <location filename="../Configuration.ui" line="997"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Number of data bits used to communicate with your radio&apos;s CAT interface (usually eight).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="984"/>
+        <location filename="../Configuration.ui" line="1000"/>
         <source>Data Bits</source>
         <translation>Datu biti</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="996"/>
-        <location filename="../Configuration.ui" line="1053"/>
-        <location filename="../Configuration.ui" line="1120"/>
+        <location filename="../Configuration.ui" line="1012"/>
+        <location filename="../Configuration.ui" line="1069"/>
+        <location filename="../Configuration.ui" line="1136"/>
         <source>Default</source>
         <translation>Noklusējums</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1009"/>
+        <location filename="../Configuration.ui" line="1025"/>
         <source>Se&amp;ven</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1022"/>
+        <location filename="../Configuration.ui" line="1038"/>
         <source>E&amp;ight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1038"/>
+        <location filename="../Configuration.ui" line="1054"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Number of stop bits used when communicating with your radio&apos;s CAT interface&lt;/p&gt;&lt;p&gt;(consult you radio&apos;s manual for details).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1041"/>
+        <location filename="../Configuration.ui" line="1057"/>
         <source>Stop Bits</source>
         <translation>Stop biti</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1066"/>
+        <location filename="../Configuration.ui" line="1082"/>
         <source>On&amp;e</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1076"/>
+        <location filename="../Configuration.ui" line="1092"/>
         <source>T&amp;wo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1092"/>
+        <location filename="../Configuration.ui" line="1108"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Flow control protocol used between this computer and your radio&apos;s CAT interface (usually &amp;quot;None&amp;quot; but some require &amp;quot;Hardware&amp;quot;).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1095"/>
+        <location filename="../Configuration.ui" line="1111"/>
         <source>Handshake</source>
         <translation>Rokasspiediens</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1107"/>
+        <location filename="../Configuration.ui" line="1123"/>
         <source>&amp;None</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1133"/>
+        <location filename="../Configuration.ui" line="1149"/>
         <source>Software flow control (very rare on CAT interfaces).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1136"/>
+        <location filename="../Configuration.ui" line="1152"/>
         <source>XON/XOFF</source>
         <translation>XON/XOFF</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1146"/>
+        <location filename="../Configuration.ui" line="1162"/>
         <source>Flow control using the RTS and CTS RS-232 control lines
 not often used but some radios have it as an option and 
 a few, particularly some Kenwood rigs, require it).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1151"/>
+        <location filename="../Configuration.ui" line="1167"/>
         <source>&amp;Hardware</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1164"/>
+        <location filename="../Configuration.ui" line="1180"/>
         <source>Special control of CAT port control lines.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1167"/>
+        <location filename="../Configuration.ui" line="1183"/>
         <source>Force Control Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1184"/>
+        <location filename="../Configuration.ui" line="1200"/>
         <source>DTR:</source>
         <translation>DTR:</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1200"/>
-        <location filename="../Configuration.ui" line="1233"/>
+        <location filename="../Configuration.ui" line="1216"/>
+        <location filename="../Configuration.ui" line="1249"/>
         <source>High</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1205"/>
-        <location filename="../Configuration.ui" line="1238"/>
+        <location filename="../Configuration.ui" line="1221"/>
+        <location filename="../Configuration.ui" line="1254"/>
         <source>Low</source>
         <translation>Zems</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1217"/>
+        <location filename="../Configuration.ui" line="1233"/>
         <source>RTS:</source>
         <translation>RST:</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1270"/>
+        <location filename="../Configuration.ui" line="1286"/>
         <source>How this program activates the PTT on your radio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1273"/>
+        <location filename="../Configuration.ui" line="1289"/>
         <source>PTT Method</source>
         <translation>PTT metode</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1279"/>
+        <location filename="../Configuration.ui" line="1295"/>
         <source>Some radios support PTT via CAT commands,
 use this option if your radio supports it and you have no
 other hardware interface for PTT.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1284"/>
+        <location filename="../Configuration.ui" line="1300"/>
         <source>C&amp;AT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1294"/>
+        <location filename="../Configuration.ui" line="1310"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the RS-232 DTR control line to toggle your radio&apos;s PTT, requires hardware to inteface the line.&lt;/p&gt;&lt;p&gt;Some commercial interface units also use this method.&lt;/p&gt;&lt;p&gt;The DTR control line of the CAT serial port may be used for this or a DTR control line on a different serial port may be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1297"/>
+        <location filename="../Configuration.ui" line="1313"/>
         <source>&amp;DTR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1310"/>
+        <location filename="../Configuration.ui" line="1326"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No PTT activation, instead the radio&apos;s automatic VOX is used to key the transmitter.&lt;/p&gt;&lt;p&gt;Use this if you have no radio interface hardware.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1313"/>
+        <location filename="../Configuration.ui" line="1329"/>
         <source>VO&amp;X</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1323"/>
+        <location filename="../Configuration.ui" line="1339"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the RS-232 RTS control line to toggle your radio&apos;s PTT, requires hardware to inteface the line.&lt;/p&gt;&lt;p&gt;Some commercial interface units also use this method.&lt;/p&gt;&lt;p&gt;The RTS control line of the CAT serial port may be used for this or a RTS control line on a different serial port may be used. Note that this option is not available on the CAT serial port when hardware flow control is used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1326"/>
+        <location filename="../Configuration.ui" line="1342"/>
         <source>R&amp;TS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1357"/>
+        <location filename="../Configuration.ui" line="1373"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select the RS-232 serial port utilised for PTT control, this option is available when DTR or RTS is selected above as a transmit method.&lt;/p&gt;&lt;p&gt;This port can be the same one as the one used for CAT control.&lt;/p&gt;&lt;p&gt;For some interface types the special value CAT may be chosen, this is used for non-serial CAT interfaces that can control serial port control lines remotely (OmniRig for example).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1388"/>
+        <location filename="../Configuration.ui" line="1404"/>
         <source>Some radios can select the audio input using a CAT command,
 this setting allows you to select which audio input will be used
 (if it is available then generally the Rear/Data option is best).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1393"/>
+        <location filename="../Configuration.ui" line="1409"/>
         <source>Transmit Audio Source</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1399"/>
+        <location filename="../Configuration.ui" line="1415"/>
         <source>Rear&amp;/Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1409"/>
+        <location filename="../Configuration.ui" line="1425"/>
         <source>&amp;Front/Mic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1432"/>
+        <location filename="../Configuration.ui" line="1448"/>
         <source>Modulation mode selected on radio.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1435"/>
+        <location filename="../Configuration.ui" line="1451"/>
         <source>Mode</source>
         <translation>Mode</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1441"/>
+        <location filename="../Configuration.ui" line="1457"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;USB is usually the correct modulation mode,&lt;/p&gt;&lt;p&gt;unless the radio has a special data or packet mode setting&lt;/p&gt;&lt;p&gt;for AFSK operation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1444"/>
+        <location filename="../Configuration.ui" line="1460"/>
         <source>US&amp;B</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1457"/>
+        <location filename="../Configuration.ui" line="1473"/>
         <source>Don&apos;t allow the program to set the radio mode
 (not recommended but use if the wrong mode
 or bandwidth is selected).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1462"/>
-        <location filename="../Configuration.ui" line="1521"/>
+        <location filename="../Configuration.ui" line="1478"/>
+        <location filename="../Configuration.ui" line="1537"/>
         <source>None</source>
         <translation>Nav</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1472"/>
+        <location filename="../Configuration.ui" line="1488"/>
         <source>If this is availabe then it is usually the correct mode for this program.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1475"/>
+        <location filename="../Configuration.ui" line="1491"/>
         <source>Data/P&amp;kt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1495"/>
+        <location filename="../Configuration.ui" line="1511"/>
         <source>Split Operation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1501"/>
+        <location filename="../Configuration.ui" line="1517"/>
         <source>Fake It</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1511"/>
+        <location filename="../Configuration.ui" line="1527"/>
         <source>Rig</source>
         <translation>Transīvers</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1554"/>
+        <location filename="../Configuration.ui" line="1570"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Attempt to connect to the radio with these settings.&lt;/p&gt;&lt;p&gt;The button will turn green if the connection is successful or red if there is a problem.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1557"/>
+        <location filename="../Configuration.ui" line="1573"/>
         <source>Test CAT</source>
         <translation>Pārbaudīt CAT</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1580"/>
+        <location filename="../Configuration.ui" line="1596"/>
         <source>Attempt to activate the transmitter.
 Click again to deactivate. Normally no power should be
 output since there is no audio being generated at this time.
@@ -6618,38 +6694,38 @@ radio interface behave as expected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1598"/>
+        <location filename="../Configuration.ui" line="1614"/>
         <source>Test PTT</source>
         <translation>Pārbaudīt PTT</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1625"/>
-        <location filename="../Configuration.ui" line="1635"/>
+        <location filename="../Configuration.ui" line="1641"/>
+        <location filename="../Configuration.ui" line="1651"/>
         <source>Minimum delay between assertion of PTT and start of Tx audio.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1628"/>
+        <location filename="../Configuration.ui" line="1644"/>
         <source>Tx delay:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1685"/>
+        <location filename="../Configuration.ui" line="1701"/>
         <source>A&amp;udio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1688"/>
+        <location filename="../Configuration.ui" line="1704"/>
         <source>Audio interface settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1694"/>
+        <location filename="../Configuration.ui" line="1710"/>
         <source>Soundcard</source>
         <translation>Skaņas karte</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1729"/>
+        <location filename="../Configuration.ui" line="1745"/>
         <source>Select the audio CODEC to use for transmitting.
 If this is your default device for system sounds then
 ensure that all system sounds are disabled otherwise
@@ -6658,46 +6734,46 @@ transmitting periods.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1706"/>
+        <location filename="../Configuration.ui" line="1722"/>
         <source>Select the audio CODEC to use for receiving.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1713"/>
+        <location filename="../Configuration.ui" line="1729"/>
         <source>&amp;Input:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1740"/>
+        <location filename="../Configuration.ui" line="1756"/>
         <source>Select the channel to use for receiving.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1744"/>
-        <location filename="../Configuration.ui" line="1774"/>
+        <location filename="../Configuration.ui" line="1760"/>
+        <location filename="../Configuration.ui" line="1790"/>
         <source>Mono</source>
         <translation>Mono</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1749"/>
-        <location filename="../Configuration.ui" line="1779"/>
+        <location filename="../Configuration.ui" line="1765"/>
+        <location filename="../Configuration.ui" line="1795"/>
         <source>Left</source>
         <translation>Kreisais</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1754"/>
-        <location filename="../Configuration.ui" line="1784"/>
+        <location filename="../Configuration.ui" line="1770"/>
+        <location filename="../Configuration.ui" line="1800"/>
         <source>Right</source>
         <translation>Labais</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1759"/>
-        <location filename="../Configuration.ui" line="1789"/>
+        <location filename="../Configuration.ui" line="1775"/>
+        <location filename="../Configuration.ui" line="1805"/>
         <source>Both</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1767"/>
+        <location filename="../Configuration.ui" line="1783"/>
         <source>Select the audio channel used for transmission.
 Unless you have multiple radios connected on different
 channels; then you will usually want to select mono or
@@ -6705,180 +6781,180 @@ both here.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1797"/>
+        <location filename="../Configuration.ui" line="1813"/>
         <source>Ou&amp;tput:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1826"/>
+        <location filename="../Configuration.ui" line="1858"/>
         <source>Remember power settings by band and mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1834"/>
+        <location filename="../Configuration.ui" line="1866"/>
         <source>Enable power memory during transmit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1837"/>
+        <location filename="../Configuration.ui" line="1869"/>
         <source>Transmit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1844"/>
+        <location filename="../Configuration.ui" line="1876"/>
         <source>Enable power memory during tuning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1847"/>
+        <location filename="../Configuration.ui" line="1879"/>
         <source>Tune</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1872"/>
+        <location filename="../Configuration.ui" line="1904"/>
         <source>Audio files save directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1878"/>
+        <location filename="../Configuration.ui" line="1910"/>
         <source>Loc&amp;ation:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1894"/>
+        <location filename="../Configuration.ui" line="1926"/>
         <source>Path to which .WAV files are saved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1903"/>
+        <location filename="../Configuration.ui" line="1935"/>
         <source>TextLabel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1910"/>
+        <location filename="../Configuration.ui" line="1942"/>
         <source>Click to select a different save directory for .WAV files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1913"/>
+        <location filename="../Configuration.ui" line="1945"/>
         <source>S&amp;elect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1944"/>
+        <location filename="../Configuration.ui" line="1976"/>
         <source>Sequencing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1968"/>
+        <location filename="../Configuration.ui" line="2000"/>
         <source>Message sequencing short scenarios</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1976"/>
+        <location filename="../Configuration.ui" line="2008"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;AutoSeq 1..3: call CQ when counter is reached. AutoSeq 6/7: search through decoded messages for any valid &apos;CQ&apos; or &apos;73&apos; message, call CQ if there no such messages found. Halt Tx if Single Shot QSO option is enabled in AutoSeq tab.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1979"/>
+        <location filename="../Configuration.ui" line="2011"/>
         <source>Counters. Search through decoded messages, call CQ or Halt Tx if:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2011"/>
-        <location filename="../Configuration.ui" line="2050"/>
-        <location filename="../Configuration.ui" line="2076"/>
-        <location filename="../Configuration.ui" line="2112"/>
+        <location filename="../Configuration.ui" line="2043"/>
+        <location filename="../Configuration.ui" line="2082"/>
+        <location filename="../Configuration.ui" line="2108"/>
+        <location filename="../Configuration.ui" line="2144"/>
         <source>times</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2024"/>
+        <location filename="../Configuration.ui" line="2056"/>
         <source>called CQ,  received a call and answered</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2086"/>
+        <location filename="../Configuration.ui" line="2118"/>
         <source>sent RR73(73) answering to incoming RRR(RR73)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2125"/>
+        <location filename="../Configuration.ui" line="2157"/>
         <source>answered to someone&apos;s CQ with no response</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2138"/>
+        <location filename="../Configuration.ui" line="2170"/>
         <source>sent report answering to incoming report</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2172"/>
+        <location filename="../Configuration.ui" line="2204"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This option is being used for non-overlapping spectra scenario. Tx will be halted if spectra have common frequencies with no respect to this setting.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2175"/>
+        <location filename="../Configuration.ui" line="2207"/>
         <source>Halt TX if operator I called answered to other operator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2182"/>
+        <location filename="../Configuration.ui" line="2214"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;By default autoselection ignoring received/transmitted direction of CQ if there is a valid &apos;new DXCC&apos; message decoded, either incoming call or selection from decoded CQ/73 messages. This option eliminates &apos;new DXCC&apos; exception in autoselection for directional CQ processing.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2185"/>
+        <location filename="../Configuration.ui" line="2217"/>
         <source>Strict directional CQ operation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2243"/>
+        <location filename="../Configuration.ui" line="2275"/>
         <source>Tx &amp;Macros</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2246"/>
+        <location filename="../Configuration.ui" line="2278"/>
         <source>Canned free text messages setup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2252"/>
+        <location filename="../Configuration.ui" line="2284"/>
         <source>&amp;Add</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2259"/>
+        <location filename="../Configuration.ui" line="2291"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Maximum 13 characters for free message&lt;br&gt;&lt;br&gt;Maximum 19 characters for directional CQ standard message.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2269"/>
+        <location filename="../Configuration.ui" line="2301"/>
         <source>&amp;Delete</source>
         <translation>&amp;Dzēst</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2279"/>
+        <location filename="../Configuration.ui" line="2311"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Drag and drop items to rearrange order. Right click for item specific actions. Click, SHIFT+Click and, CRTL+Click to select items. @ symbol is being substituted with DX call, &amp; symbol with user&apos;s base callsign, # symbol with report to be transmitted, ^ symbol with correspondent&apos;s name retrieved from the log where name shall not exceed 7 chars.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2330"/>
+        <location filename="../Configuration.ui" line="2362"/>
         <source>Reportin&amp;g</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2333"/>
+        <location filename="../Configuration.ui" line="2365"/>
         <source>Reporting and logging settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2346"/>
+        <location filename="../Configuration.ui" line="2378"/>
         <source>Logging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2382"/>
+        <location filename="../Configuration.ui" line="2414"/>
         <source>Some logging programs will not accept the type of reports
 saved by this program.
 Check this option to save the sent and received reports in the
@@ -6886,191 +6962,221 @@ comments field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2388"/>
+        <location filename="../Configuration.ui" line="2420"/>
         <source>d&amp;B reports to comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2415"/>
+        <location filename="../Configuration.ui" line="2447"/>
         <source>Check this option to force the clearing of the DX Call
 and DX Grid fields when a 73 or free text message is sent.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2419"/>
+        <location filename="../Configuration.ui" line="2451"/>
         <source>Clear &amp;DX call and grid after logging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2395"/>
+        <location filename="../Configuration.ui" line="2427"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Check this option to force the clearing of the DX Call and DX Grid fields when exiting JTDX. This functionality is intended for UR5EQF logbook software users.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2398"/>
+        <location filename="../Configuration.ui" line="2430"/>
         <source>Clear DX call and grid on exit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2372"/>
+        <location filename="../Configuration.ui" line="2404"/>
         <source>Some logging programs will not accept JT-65 or JT9 as a recognized mode.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1807"/>
+        <location filename="../Configuration.ui" line="750"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Request switch on rig power when supported in Hamlib.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Configuration.ui" line="753"/>
+        <source>On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Configuration.ui" line="766"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Request switch off rig power when supported in Hamlib.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Configuration.ui" line="769"/>
+        <source>Off Rig power</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Configuration.ui" line="1823"/>
         <source>refresh audio device list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="1810"/>
+        <location filename="../Configuration.ui" line="1826"/>
         <source>Refresh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2375"/>
+        <location filename="../Configuration.ui" line="1839"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use TCI Audio when available.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Configuration.ui" line="1842"/>
+        <source>Use TCI Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Configuration.ui" line="2407"/>
         <source>Con&amp;vert mode to RTTY</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2405"/>
+        <location filename="../Configuration.ui" line="2437"/>
         <source>The program will pop up a partially completed Log QSO dialog when you send a 73 or free text message.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2408"/>
+        <location filename="../Configuration.ui" line="2440"/>
         <source>Promp&amp;t me to log QSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2426"/>
+        <location filename="../Configuration.ui" line="2458"/>
         <source>Enable automatic logging of QSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2433"/>
+        <location filename="../Configuration.ui" line="2465"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Add distance to correspondent to comments in ADIF QSO record.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2436"/>
+        <location filename="../Configuration.ui" line="2468"/>
         <source>Distance to comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2466"/>
+        <location filename="../Configuration.ui" line="2498"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Connection to external logbook software.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2469"/>
+        <location filename="../Configuration.ui" line="2501"/>
         <source>Send logged QSO ADIF data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2503"/>
-        <location filename="../Configuration.ui" line="2519"/>
+        <location filename="../Configuration.ui" line="2535"/>
+        <location filename="../Configuration.ui" line="2551"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;TCP server name or address&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2506"/>
+        <location filename="../Configuration.ui" line="2538"/>
         <source>TCP server:</source>
         <translation>TCP serveris:</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2526"/>
-        <location filename="../Configuration.ui" line="2536"/>
+        <location filename="../Configuration.ui" line="2558"/>
+        <location filename="../Configuration.ui" line="2568"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;TCP server port number&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2529"/>
+        <location filename="../Configuration.ui" line="2561"/>
         <source>TCP port:</source>
         <translation>TCP ports:</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2551"/>
+        <location filename="../Configuration.ui" line="2583"/>
         <source>Enable sending to TCP server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2576"/>
+        <location filename="../Configuration.ui" line="2608"/>
         <source>2nd UDP server</source>
         <translation>2. UDP serveris</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2590"/>
-        <location filename="../Configuration.ui" line="2600"/>
+        <location filename="../Configuration.ui" line="2622"/>
+        <location filename="../Configuration.ui" line="2632"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;secondary UDP server port number&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2593"/>
+        <location filename="../Configuration.ui" line="2625"/>
         <source>UDP port:</source>
         <translation>UDP ports:</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2609"/>
+        <location filename="../Configuration.ui" line="2641"/>
         <source>Enable sending to secondary UDP server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2642"/>
+        <location filename="../Configuration.ui" line="2674"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Allows to configure data for recording into the ALL.TXT file. Recording of TX messages can not be switched off.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2645"/>
+        <location filename="../Configuration.ui" line="2677"/>
         <source>Recording to ALL.TXT</source>
         <translation>Ieraksts vietnē ALL.TXT</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2667"/>
+        <location filename="../Configuration.ui" line="2699"/>
         <source>decoded messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2674"/>
+        <location filename="../Configuration.ui" line="2706"/>
         <source>decoded and debug messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2716"/>
+        <location filename="../Configuration.ui" line="2748"/>
         <source>Network Services</source>
         <translation>Tīkla pakalpojumi</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2737"/>
+        <location filename="../Configuration.ui" line="2769"/>
         <source>The program can send logged QSO info to the http://www.eqsl.cc web site.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2740"/>
+        <location filename="../Configuration.ui" line="2772"/>
         <source>Enable &amp;eQSL sending</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2760"/>
+        <location filename="../Configuration.ui" line="2792"/>
         <source>EQSL Username.</source>
         <translation>EQSL lietotājvārds.</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2767"/>
+        <location filename="../Configuration.ui" line="2799"/>
         <source>U&amp;sername:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2777"/>
+        <location filename="../Configuration.ui" line="2809"/>
         <source>P&amp;assword:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2787"/>
+        <location filename="../Configuration.ui" line="2819"/>
         <source>EQSL Password.</source>
         <translation>EQSL parole.</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2797"/>
+        <location filename="../Configuration.ui" line="2829"/>
         <source>The program can send your station details and all
 decoded signals as spots to the http://pskreporter.info web site.
 This is used for reverse beacon analysis which is very useful
@@ -7078,704 +7184,704 @@ for assessing propagation and system performance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2803"/>
+        <location filename="../Configuration.ui" line="2835"/>
         <source>Enable &amp;PSK Reporter Spotting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2810"/>
+        <location filename="../Configuration.ui" line="2842"/>
         <source>EQSL OTH Nickname.</source>
         <translation>EQSL QTH segvārds.</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2817"/>
+        <location filename="../Configuration.ui" line="2849"/>
         <source>Enable DXSummit Spotting </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2824"/>
+        <location filename="../Configuration.ui" line="2856"/>
         <source>QTH N&amp;ickname:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2837"/>
+        <location filename="../Configuration.ui" line="2869"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Primary UDP connection to external software.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2840"/>
+        <location filename="../Configuration.ui" line="2872"/>
         <source>Primary UDP Server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2870"/>
+        <location filename="../Configuration.ui" line="2902"/>
         <source>UDP Server:</source>
         <translation>UDP Serveris:</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2886"/>
+        <location filename="../Configuration.ui" line="2918"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Optional hostname of network service to receive decodes.&lt;/p&gt;&lt;p&gt;Formats:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;hostname&lt;/li&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;IPv4 address&lt;/li&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;IPv6 address&lt;/li&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;IPv4 multicast group address&lt;/li&gt;&lt;li style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;IPv6 multicast group address&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Clearing this field will disable the broadcasting of UDP status updates.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2896"/>
+        <location filename="../Configuration.ui" line="2928"/>
         <source>UDP Server port number:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2906"/>
+        <location filename="../Configuration.ui" line="2938"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter the service port number of the UDP server that JTDX should send updates to. If this is zero no updates will be broadcast.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2923"/>
+        <location filename="../Configuration.ui" line="2955"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;With this enabled JTDX will accept certain requests back from a UDP server that receives decode messages.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2926"/>
+        <location filename="../Configuration.ui" line="2958"/>
         <source>Accept UDP requests</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2933"/>
+        <location filename="../Configuration.ui" line="2965"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Indicate acceptance of an incoming UDP request. The effect of this option varies depending on the operating system and window manager, its intent is to notify the acceptance of an incoming UDP request even if this application is minimized or hidden.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2936"/>
+        <location filename="../Configuration.ui" line="2968"/>
         <source>Notify on accepted UDP request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2943"/>
+        <location filename="../Configuration.ui" line="2975"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Restore the window from minimized if an UDP request is accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2946"/>
+        <location filename="../Configuration.ui" line="2978"/>
         <source>Accepted UDP request restores window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2957"/>
+        <location filename="../Configuration.ui" line="2989"/>
         <source>Enable sending logged QSO ADIF data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2967"/>
+        <location filename="../Configuration.ui" line="2999"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Messages marked by questionmark will not be passed to JTAlert and other UDP based software.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2970"/>
+        <location filename="../Configuration.ui" line="3002"/>
         <source>Prevent spotting messages with the unconfirmed callsigns via UDP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2977"/>
+        <location filename="../Configuration.ui" line="3009"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Selected text filters will be applied to limit transmission of the UDP messages from JTDX, for instance messages from some continents can be blocked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="2980"/>
+        <location filename="../Configuration.ui" line="3012"/>
         <source>Apply text filters to transmission of the UDP messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3015"/>
+        <location filename="../Configuration.ui" line="3047"/>
         <source>Frequencies</source>
         <translation>Frekvences</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3018"/>
+        <location filename="../Configuration.ui" line="3050"/>
         <source>Default frequencies and band specific station details setup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3024"/>
+        <location filename="../Configuration.ui" line="3056"/>
         <source>Working Frequencies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3039"/>
+        <location filename="../Configuration.ui" line="3071"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Right click to maintain the working frequencies list.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3066"/>
+        <location filename="../Configuration.ui" line="3098"/>
         <source>See WSPR documentattion Appendix C for details of how to determine these factors for your radio.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3069"/>
+        <location filename="../Configuration.ui" line="3101"/>
         <source>Frequency Calibration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3078"/>
+        <location filename="../Configuration.ui" line="3110"/>
         <source>Intercept:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3091"/>
-        <location filename="../Configuration.ui" line="6852"/>
+        <location filename="../Configuration.ui" line="3123"/>
+        <location filename="../Configuration.ui" line="6884"/>
         <source> Hz</source>
         <translation> Hz</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3110"/>
+        <location filename="../Configuration.ui" line="3142"/>
         <source>Slope:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3123"/>
+        <location filename="../Configuration.ui" line="3155"/>
         <source> ppm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3166"/>
+        <location filename="../Configuration.ui" line="3198"/>
         <source>Station Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3178"/>
+        <location filename="../Configuration.ui" line="3210"/>
         <source>Items may be edited.
 Right click for insert and delete options.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3226"/>
+        <location filename="../Configuration.ui" line="3258"/>
         <source>Notifications</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3234"/>
+        <location filename="../Configuration.ui" line="3266"/>
         <source>&apos;New one&apos; and &apos;worked B4&apos; status notifications</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3260"/>
+        <location filename="../Configuration.ui" line="3292"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with CQ Zones which do not exist in the wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3263"/>
+        <location filename="../Configuration.ui" line="3295"/>
         <source>Check and highlight new CQZ</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3270"/>
+        <location filename="../Configuration.ui" line="3302"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with CQ Zones which are new on the band according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3273"/>
-        <location filename="../Configuration.ui" line="3313"/>
-        <location filename="../Configuration.ui" line="3353"/>
-        <location filename="../Configuration.ui" line="3393"/>
-        <location filename="../Configuration.ui" line="3433"/>
-        <location filename="../Configuration.ui" line="3473"/>
+        <location filename="../Configuration.ui" line="3305"/>
+        <location filename="../Configuration.ui" line="3345"/>
+        <location filename="../Configuration.ui" line="3385"/>
+        <location filename="../Configuration.ui" line="3425"/>
+        <location filename="../Configuration.ui" line="3465"/>
+        <location filename="../Configuration.ui" line="3505"/>
         <source>per band</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3280"/>
+        <location filename="../Configuration.ui" line="3312"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with CQ Zones which are new in the mode according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3283"/>
-        <location filename="../Configuration.ui" line="3323"/>
-        <location filename="../Configuration.ui" line="3363"/>
-        <location filename="../Configuration.ui" line="3403"/>
-        <location filename="../Configuration.ui" line="3443"/>
-        <location filename="../Configuration.ui" line="3483"/>
+        <location filename="../Configuration.ui" line="3315"/>
+        <location filename="../Configuration.ui" line="3355"/>
+        <location filename="../Configuration.ui" line="3395"/>
+        <location filename="../Configuration.ui" line="3435"/>
+        <location filename="../Configuration.ui" line="3475"/>
+        <location filename="../Configuration.ui" line="3515"/>
         <source>per mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3290"/>
-        <location filename="../Configuration.ui" line="3330"/>
-        <location filename="../Configuration.ui" line="3370"/>
-        <location filename="../Configuration.ui" line="3410"/>
-        <location filename="../Configuration.ui" line="3450"/>
-        <location filename="../Configuration.ui" line="3490"/>
+        <location filename="../Configuration.ui" line="3322"/>
+        <location filename="../Configuration.ui" line="3362"/>
+        <location filename="../Configuration.ui" line="3402"/>
+        <location filename="../Configuration.ui" line="3442"/>
+        <location filename="../Configuration.ui" line="3482"/>
+        <location filename="../Configuration.ui" line="3522"/>
         <source>Use also system sound for the notification.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3293"/>
-        <location filename="../Configuration.ui" line="3333"/>
-        <location filename="../Configuration.ui" line="3373"/>
-        <location filename="../Configuration.ui" line="3413"/>
-        <location filename="../Configuration.ui" line="3453"/>
-        <location filename="../Configuration.ui" line="3493"/>
+        <location filename="../Configuration.ui" line="3325"/>
+        <location filename="../Configuration.ui" line="3365"/>
+        <location filename="../Configuration.ui" line="3405"/>
+        <location filename="../Configuration.ui" line="3445"/>
+        <location filename="../Configuration.ui" line="3485"/>
+        <location filename="../Configuration.ui" line="3525"/>
         <source>Beep as well</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3300"/>
+        <location filename="../Configuration.ui" line="3332"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with ITU Zones which do not exist in the wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3303"/>
+        <location filename="../Configuration.ui" line="3335"/>
         <source>Check and highlight new ITUZ</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3310"/>
+        <location filename="../Configuration.ui" line="3342"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with ITU Zones which are new on the band according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3320"/>
+        <location filename="../Configuration.ui" line="3352"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with ITU Zones which are new in the mode according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3340"/>
+        <location filename="../Configuration.ui" line="3372"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with DXCC countries which do not exist in the wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3343"/>
+        <location filename="../Configuration.ui" line="3375"/>
         <source>Check and highlight new DXCC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3350"/>
+        <location filename="../Configuration.ui" line="3382"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with DXCC countries which are new on the band according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3360"/>
+        <location filename="../Configuration.ui" line="3392"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with DXCC countries which are new in the mode according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3380"/>
+        <location filename="../Configuration.ui" line="3412"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with grid squares which do not exist in the wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3383"/>
+        <location filename="../Configuration.ui" line="3415"/>
         <source>Check and highlight new grids</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3390"/>
+        <location filename="../Configuration.ui" line="3422"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with grid squares which are new on the band according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3400"/>
+        <location filename="../Configuration.ui" line="3432"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with grid squares which are new in the mode according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3420"/>
+        <location filename="../Configuration.ui" line="3452"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with prefixes which do not exist in the wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3423"/>
+        <location filename="../Configuration.ui" line="3455"/>
         <source>Check and highlight new prefixes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3430"/>
+        <location filename="../Configuration.ui" line="3462"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with prefixes which are new on the band according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3440"/>
+        <location filename="../Configuration.ui" line="3472"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with prefixes which are new in the mode according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3460"/>
+        <location filename="../Configuration.ui" line="3492"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with callsigns which do not exist in the wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3463"/>
+        <location filename="../Configuration.ui" line="3495"/>
         <source>Check and highlight new calls</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3470"/>
+        <location filename="../Configuration.ui" line="3502"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with callsigns which are new on the band according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3480"/>
+        <location filename="../Configuration.ui" line="3512"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Highlight messages with callsigns which are new in the mode according to the data from wsjtx_log.adi log file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3500"/>
+        <location filename="../Configuration.ui" line="3532"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use color notification for messages with the worked DXCC, Grid, Call.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3503"/>
+        <location filename="../Configuration.ui" line="3535"/>
         <source>Highlight worked ones</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3510"/>
+        <location filename="../Configuration.ui" line="3542"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Messages with worked DXCC, Grid, Call will be striked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3513"/>
+        <location filename="../Configuration.ui" line="3545"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Messages with worked Call will be striked&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3516"/>
+        <location filename="../Configuration.ui" line="3548"/>
         <source>strike it</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3523"/>
+        <location filename="../Configuration.ui" line="3555"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Messages with worked DXCC, Grid, Call will be underlined.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3526"/>
+        <location filename="../Configuration.ui" line="3558"/>
         <source>underline it</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3533"/>
+        <location filename="../Configuration.ui" line="3565"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Messages with worked DXCC, Grid, Call where there is no MyCall will be skipped in the decoded text window&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3536"/>
+        <location filename="../Configuration.ui" line="3568"/>
         <source>don&apos;t show it</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3543"/>
+        <location filename="../Configuration.ui" line="3575"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Invert text&lt;-&gt;background color for received messages&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3546"/>
+        <location filename="../Configuration.ui" line="3578"/>
         <source>Inverse text/background color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3553"/>
+        <location filename="../Configuration.ui" line="3585"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;By default &apos;CQ&apos; and &apos;MyCall&apos; messages being only checked, this setting allows to check also other received standard messages for new DXCC, Grid, Call. &apos;Other standard message&apos; color being used for the notification&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3556"/>
+        <location filename="../Configuration.ui" line="3588"/>
         <source>Highlight other standard messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3576"/>
+        <location filename="../Configuration.ui" line="3608"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use system sound for notification as soon as the first message is decoded in the RX interval.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3579"/>
+        <location filename="../Configuration.ui" line="3611"/>
         <source>Beep on 1st decoded message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3586"/>
+        <location filename="../Configuration.ui" line="3618"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use system sound for notification if there is MyCall in the received message.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3589"/>
+        <location filename="../Configuration.ui" line="3621"/>
         <source>Beep on my call</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3619"/>
+        <location filename="../Configuration.ui" line="3651"/>
         <source>Markers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3626"/>
+        <location filename="../Configuration.ui" line="3658"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use blue marker to notify if there is my callsign in the decoded message related to the ongoing QSO (QSO party&apos;s callsign is in the DX Call window), other incoming calls with my callsign will be followed with the red marker.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3629"/>
+        <location filename="../Configuration.ui" line="3661"/>
         <source>blue / my call at QSO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3636"/>
+        <location filename="../Configuration.ui" line="3668"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Hide hint character in marker field.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3639"/>
+        <location filename="../Configuration.ui" line="3671"/>
         <source>Hide hint char</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3675"/>
+        <location filename="../Configuration.ui" line="3707"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use red marker to notify if there is my callsign in the decoded message.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3678"/>
+        <location filename="../Configuration.ui" line="3710"/>
         <source>red / my call in message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3688"/>
+        <location filename="../Configuration.ui" line="3720"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use marker at end of message instead of background color to other standard message notification.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3691"/>
+        <location filename="../Configuration.ui" line="3723"/>
         <source>Other standard messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3734"/>
+        <location filename="../Configuration.ui" line="3766"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;On top of the preview pane there are types of message that being checked for some criterion, text color being selected for each  type of message.&lt;br&gt;&lt;br&gt;On left side there are criteria allocated in the hierarchy order, and background color being selected for messages for each criterion.&lt;br&gt;&lt;br&gt;&apos;Worked one&apos; notification functionality is based on the residual principle, triggered if all activated &apos;New one&apos; criteria or criterion are not met.&lt;br&gt;&lt;br&gt;&apos;Inverse color&apos; may be used if user would like to highlight CQ and &apos;MyCall&apos; messages by some specific backgroung color.&lt;br&gt;&lt;br&gt;For beginning one criterion can be chose and for new band/mode notifications may be used similar color with the different saturation level, later number of required criteria can be increased.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3737"/>
-        <location filename="../Configuration.ui" line="6917"/>
+        <location filename="../Configuration.ui" line="3769"/>
+        <location filename="../Configuration.ui" line="6949"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Configuration tips&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3785"/>
+        <location filename="../Configuration.ui" line="3817"/>
         <source>Transmitted message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3801"/>
-        <location filename="../Configuration.ui" line="3884"/>
-        <location filename="../Configuration.ui" line="3906"/>
-        <location filename="../Configuration.ui" line="3928"/>
+        <location filename="../Configuration.ui" line="3833"/>
+        <location filename="../Configuration.ui" line="3916"/>
+        <location filename="../Configuration.ui" line="3938"/>
         <location filename="../Configuration.ui" line="3960"/>
-        <location filename="../Configuration.ui" line="3979"/>
-        <location filename="../Configuration.ui" line="3998"/>
+        <location filename="../Configuration.ui" line="3992"/>
+        <location filename="../Configuration.ui" line="4011"/>
         <location filename="../Configuration.ui" line="4030"/>
-        <location filename="../Configuration.ui" line="4049"/>
-        <location filename="../Configuration.ui" line="4068"/>
+        <location filename="../Configuration.ui" line="4062"/>
+        <location filename="../Configuration.ui" line="4081"/>
         <location filename="../Configuration.ui" line="4100"/>
-        <location filename="../Configuration.ui" line="4119"/>
-        <location filename="../Configuration.ui" line="4138"/>
+        <location filename="../Configuration.ui" line="4132"/>
+        <location filename="../Configuration.ui" line="4151"/>
         <location filename="../Configuration.ui" line="4170"/>
-        <location filename="../Configuration.ui" line="4189"/>
-        <location filename="../Configuration.ui" line="4208"/>
+        <location filename="../Configuration.ui" line="4202"/>
+        <location filename="../Configuration.ui" line="4221"/>
         <location filename="../Configuration.ui" line="4240"/>
-        <location filename="../Configuration.ui" line="4259"/>
-        <location filename="../Configuration.ui" line="4278"/>
+        <location filename="../Configuration.ui" line="4272"/>
+        <location filename="../Configuration.ui" line="4291"/>
         <location filename="../Configuration.ui" line="4310"/>
-        <location filename="../Configuration.ui" line="4329"/>
-        <location filename="../Configuration.ui" line="4348"/>
+        <location filename="../Configuration.ui" line="4342"/>
+        <location filename="../Configuration.ui" line="4361"/>
         <location filename="../Configuration.ui" line="4380"/>
-        <location filename="../Configuration.ui" line="4399"/>
-        <location filename="../Configuration.ui" line="4418"/>
+        <location filename="../Configuration.ui" line="4412"/>
+        <location filename="../Configuration.ui" line="4431"/>
         <location filename="../Configuration.ui" line="4450"/>
-        <location filename="../Configuration.ui" line="4469"/>
-        <location filename="../Configuration.ui" line="4488"/>
+        <location filename="../Configuration.ui" line="4482"/>
+        <location filename="../Configuration.ui" line="4501"/>
         <location filename="../Configuration.ui" line="4520"/>
-        <location filename="../Configuration.ui" line="4539"/>
-        <location filename="../Configuration.ui" line="4558"/>
+        <location filename="../Configuration.ui" line="4552"/>
+        <location filename="../Configuration.ui" line="4571"/>
         <location filename="../Configuration.ui" line="4590"/>
-        <location filename="../Configuration.ui" line="4609"/>
-        <location filename="../Configuration.ui" line="4628"/>
+        <location filename="../Configuration.ui" line="4622"/>
+        <location filename="../Configuration.ui" line="4641"/>
         <location filename="../Configuration.ui" line="4660"/>
-        <location filename="../Configuration.ui" line="4679"/>
-        <location filename="../Configuration.ui" line="4698"/>
+        <location filename="../Configuration.ui" line="4692"/>
+        <location filename="../Configuration.ui" line="4711"/>
         <location filename="../Configuration.ui" line="4730"/>
-        <location filename="../Configuration.ui" line="4749"/>
-        <location filename="../Configuration.ui" line="4768"/>
-        <location filename="../Configuration.ui" line="4803"/>
-        <location filename="../Configuration.ui" line="4822"/>
-        <location filename="../Configuration.ui" line="4841"/>
+        <location filename="../Configuration.ui" line="4762"/>
+        <location filename="../Configuration.ui" line="4781"/>
+        <location filename="../Configuration.ui" line="4800"/>
+        <location filename="../Configuration.ui" line="4835"/>
+        <location filename="../Configuration.ui" line="4854"/>
+        <location filename="../Configuration.ui" line="4873"/>
         <source>K1ABC</source>
         <translation>K1ABC</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3817"/>
+        <location filename="../Configuration.ui" line="3849"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Treat RR73/73 messages in the same way as CQ messages for auto selection.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3823"/>
+        <location filename="../Configuration.ui" line="3855"/>
         <source>RR73/73           </source>
         <translation>RR73/73           </translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3836"/>
+        <location filename="../Configuration.ui" line="3868"/>
         <source>CQ/73 in message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3849"/>
+        <location filename="../Configuration.ui" line="3881"/>
         <source>My Call in message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3862"/>
+        <location filename="../Configuration.ui" line="3894"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set text color for non (&apos;CQ&apos; and &apos;MyCall&apos;) standard messages&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3865"/>
+        <location filename="../Configuration.ui" line="3897"/>
         <source>Other standard message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="3944"/>
+        <location filename="../Configuration.ui" line="3976"/>
         <source>New CQZ</source>
         <translation>Jauna CQZ</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4014"/>
+        <location filename="../Configuration.ui" line="4046"/>
         <source>New CQZ on Band/Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4084"/>
+        <location filename="../Configuration.ui" line="4116"/>
         <source>New ITUZ</source>
         <translation>Jauna ITUZ</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4154"/>
+        <location filename="../Configuration.ui" line="4186"/>
         <source>New ITUZ on Band/Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4224"/>
+        <location filename="../Configuration.ui" line="4256"/>
         <source>New DXCC</source>
         <translation>Jauna DXCC</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4294"/>
+        <location filename="../Configuration.ui" line="4326"/>
         <source>New DXCC on Band/Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4364"/>
+        <location filename="../Configuration.ui" line="4396"/>
         <source>New Grid</source>
         <translation>Jauns Lokātors</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4434"/>
+        <location filename="../Configuration.ui" line="4466"/>
         <source>New Grid on Band/Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4504"/>
+        <location filename="../Configuration.ui" line="4536"/>
         <source>New Prefix</source>
         <translation>Jauns Prefiks</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4574"/>
+        <location filename="../Configuration.ui" line="4606"/>
         <source>New Prefix on Band/Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4644"/>
+        <location filename="../Configuration.ui" line="4676"/>
         <source>New Call</source>
         <translation>jauns Izsaukuma signāls</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4714"/>
+        <location filename="../Configuration.ui" line="4746"/>
         <source>New Call on Band/Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4784"/>
+        <location filename="../Configuration.ui" line="4816"/>
         <source>Being used for CQ and MyCall messages only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4787"/>
+        <location filename="../Configuration.ui" line="4819"/>
         <source>Worked one</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4884"/>
+        <location filename="../Configuration.ui" line="4916"/>
         <source>Filters</source>
         <translation>Filtrs</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4895"/>
+        <location filename="../Configuration.ui" line="4927"/>
         <source>Hide messages from continents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4907"/>
+        <location filename="../Configuration.ui" line="4939"/>
         <source>Africa</source>
         <translation>Āfrika</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4914"/>
+        <location filename="../Configuration.ui" line="4946"/>
         <source>Antarctica</source>
         <translation>Antarktīda</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4921"/>
+        <location filename="../Configuration.ui" line="4953"/>
         <source>Asia</source>
         <translation>Āzija</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4928"/>
+        <location filename="../Configuration.ui" line="4960"/>
         <source>Europe</source>
         <translation>Eiropa</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4935"/>
+        <location filename="../Configuration.ui" line="4967"/>
         <source>Oceania</source>
         <translation>Okeānija</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4942"/>
+        <location filename="../Configuration.ui" line="4974"/>
         <source>North America</source>
         <translation>Ziemeļamerika</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4949"/>
+        <location filename="../Configuration.ui" line="4981"/>
         <source>South America</source>
         <translation>Dienvidamerika</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4959"/>
+        <location filename="../Configuration.ui" line="4991"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&apos;Show DXCC name/prefix&apos; shall be activated in General tab of the settings or any &apos;New one&apos; notification to get this functionality working.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4962"/>
+        <location filename="../Configuration.ui" line="4994"/>
         <source>Hide messages from countries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4982"/>
-        <location filename="../Configuration.ui" line="5047"/>
+        <location filename="../Configuration.ui" line="5014"/>
+        <location filename="../Configuration.ui" line="5079"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable option&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4985"/>
-        <location filename="../Configuration.ui" line="5050"/>
+        <location filename="../Configuration.ui" line="5017"/>
+        <location filename="../Configuration.ui" line="5082"/>
         <source>Hide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="4992"/>
+        <location filename="../Configuration.ui" line="5024"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comma separated list of country prefixes based on cty.dat file.&lt;br&gt;
 Gaps are not allowed. Accepatble values are: 1A,1S,3A,3B6,3B8,3B9,3C,3C0,3D2,3D2/C,&lt;br&gt;
 3D2/R,3DA,3V,3W,3X,3Y/B,3Y/P,4J,4L,4O,4S,4U1I,4U1U,*4U1V,4W,4X,5A,5B,5H,5N,5R,5T,&lt;br&gt;
@@ -7796,23 +7902,23 @@ ZD8,ZD9,ZF,ZK3,ZL,ZL7,ZL8,ZL9,ZP,ZS,ZS8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</sou
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5015"/>
+        <location filename="../Configuration.ui" line="5047"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clear country list&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5018"/>
-        <location filename="../Configuration.ui" line="5073"/>
+        <location filename="../Configuration.ui" line="5050"/>
+        <location filename="../Configuration.ui" line="5105"/>
         <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5030"/>
+        <location filename="../Configuration.ui" line="5062"/>
         <source>Hide messages from callsigns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5057"/>
+        <location filename="../Configuration.ui" line="5089"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comma separated list of callsigns,
 gaps are not allowed, base callsign shall be
 used for compound callsigns, for instance:
@@ -7820,577 +7926,577 @@ AA1AAA,BB1BB,CC1CC&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5070"/>
+        <location filename="../Configuration.ui" line="5102"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clear callsign list&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5085"/>
+        <location filename="../Configuration.ui" line="5117"/>
         <source>Show content related messages in RX frequency window </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5102"/>
+        <location filename="../Configuration.ui" line="5134"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pass content related free messages to the RX frequency messages window.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5105"/>
+        <location filename="../Configuration.ui" line="5137"/>
         <source>Enable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5112"/>
+        <location filename="../Configuration.ui" line="5144"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comma separated list of content names.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5119"/>
+        <location filename="../Configuration.ui" line="5151"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Reset content name list to default value.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5122"/>
+        <location filename="../Configuration.ui" line="5154"/>
         <source>Reset</source>
         <translation type="unfinished">Nomest</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5136"/>
-        <location filename="../Configuration.ui" line="5159"/>
-        <location filename="../Configuration.ui" line="5182"/>
+        <location filename="../Configuration.ui" line="5168"/>
+        <location filename="../Configuration.ui" line="5191"/>
+        <location filename="../Configuration.ui" line="5214"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filter will be applied out of the RX frequency.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5139"/>
+        <location filename="../Configuration.ui" line="5171"/>
         <source>Show CQ messages only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5162"/>
+        <location filename="../Configuration.ui" line="5194"/>
         <source>Show CQ/RRR/RR73/73 messages only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5185"/>
+        <location filename="../Configuration.ui" line="5217"/>
         <source>Show CQ/RR73/73 messages only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5207"/>
+        <location filename="../Configuration.ui" line="5239"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Hide decoded free messages located out of the RX frequency.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5210"/>
+        <location filename="../Configuration.ui" line="5242"/>
         <source>Hide decoded free messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5217"/>
+        <location filename="../Configuration.ui" line="5249"/>
         <source>Hide messages with not associated hash for 2nd callsign</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5240"/>
+        <location filename="../Configuration.ui" line="5272"/>
         <source>Scheduler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5248"/>
+        <location filename="../Configuration.ui" line="5280"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Automatic band switching as per predefined schedule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5251"/>
+        <location filename="../Configuration.ui" line="5283"/>
         <source>Band scheduler configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5261"/>
+        <location filename="../Configuration.ui" line="5293"/>
         <source>hh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5271"/>
+        <location filename="../Configuration.ui" line="5303"/>
         <source>mm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5281"/>
+        <location filename="../Configuration.ui" line="5313"/>
         <source>Band</source>
         <translation>Diapazons</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5291"/>
-        <location filename="../Configuration.ui" line="5551"/>
-        <location filename="../Configuration.ui" line="5808"/>
-        <location filename="../Configuration.ui" line="6065"/>
-        <location filename="../Configuration.ui" line="6322"/>
-        <location filename="../Configuration.ui" line="6579"/>
+        <location filename="../Configuration.ui" line="5323"/>
+        <location filename="../Configuration.ui" line="5583"/>
+        <location filename="../Configuration.ui" line="5840"/>
+        <location filename="../Configuration.ui" line="6097"/>
+        <location filename="../Configuration.ui" line="6354"/>
+        <location filename="../Configuration.ui" line="6611"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Scheduler will set JT65+JT9 mode if JT65 frequency is selected.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5294"/>
+        <location filename="../Configuration.ui" line="5326"/>
         <source>JT65+JT9</source>
         <translation>JT65+JT9</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5310"/>
-        <location filename="../Configuration.ui" line="5448"/>
-        <location filename="../Configuration.ui" line="5567"/>
-        <location filename="../Configuration.ui" line="5705"/>
-        <location filename="../Configuration.ui" line="5824"/>
-        <location filename="../Configuration.ui" line="5962"/>
-        <location filename="../Configuration.ui" line="6081"/>
-        <location filename="../Configuration.ui" line="6219"/>
-        <location filename="../Configuration.ui" line="6338"/>
-        <location filename="../Configuration.ui" line="6476"/>
+        <location filename="../Configuration.ui" line="5342"/>
+        <location filename="../Configuration.ui" line="5480"/>
+        <location filename="../Configuration.ui" line="5599"/>
+        <location filename="../Configuration.ui" line="5737"/>
+        <location filename="../Configuration.ui" line="5856"/>
+        <location filename="../Configuration.ui" line="5994"/>
+        <location filename="../Configuration.ui" line="6113"/>
+        <location filename="../Configuration.ui" line="6251"/>
+        <location filename="../Configuration.ui" line="6370"/>
+        <location filename="../Configuration.ui" line="6508"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select time&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5319"/>
-        <location filename="../Configuration.ui" line="5457"/>
-        <location filename="../Configuration.ui" line="5576"/>
-        <location filename="../Configuration.ui" line="5714"/>
-        <location filename="../Configuration.ui" line="5833"/>
-        <location filename="../Configuration.ui" line="5971"/>
-        <location filename="../Configuration.ui" line="6090"/>
-        <location filename="../Configuration.ui" line="6228"/>
-        <location filename="../Configuration.ui" line="6347"/>
-        <location filename="../Configuration.ui" line="6485"/>
+        <location filename="../Configuration.ui" line="5351"/>
+        <location filename="../Configuration.ui" line="5489"/>
+        <location filename="../Configuration.ui" line="5608"/>
+        <location filename="../Configuration.ui" line="5746"/>
+        <location filename="../Configuration.ui" line="5865"/>
+        <location filename="../Configuration.ui" line="6003"/>
+        <location filename="../Configuration.ui" line="6122"/>
+        <location filename="../Configuration.ui" line="6260"/>
+        <location filename="../Configuration.ui" line="6379"/>
+        <location filename="../Configuration.ui" line="6517"/>
         <source>00</source>
         <translation type="unfinished">00</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5324"/>
-        <location filename="../Configuration.ui" line="5581"/>
-        <location filename="../Configuration.ui" line="5838"/>
-        <location filename="../Configuration.ui" line="6095"/>
-        <location filename="../Configuration.ui" line="6352"/>
+        <location filename="../Configuration.ui" line="5356"/>
+        <location filename="../Configuration.ui" line="5613"/>
+        <location filename="../Configuration.ui" line="5870"/>
+        <location filename="../Configuration.ui" line="6127"/>
+        <location filename="../Configuration.ui" line="6384"/>
         <source>01</source>
         <translation type="unfinished">01</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5329"/>
-        <location filename="../Configuration.ui" line="5586"/>
-        <location filename="../Configuration.ui" line="5843"/>
-        <location filename="../Configuration.ui" line="6100"/>
-        <location filename="../Configuration.ui" line="6357"/>
+        <location filename="../Configuration.ui" line="5361"/>
+        <location filename="../Configuration.ui" line="5618"/>
+        <location filename="../Configuration.ui" line="5875"/>
+        <location filename="../Configuration.ui" line="6132"/>
+        <location filename="../Configuration.ui" line="6389"/>
         <source>02</source>
         <translation type="unfinished">02</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5334"/>
-        <location filename="../Configuration.ui" line="5591"/>
-        <location filename="../Configuration.ui" line="5848"/>
-        <location filename="../Configuration.ui" line="6105"/>
-        <location filename="../Configuration.ui" line="6362"/>
+        <location filename="../Configuration.ui" line="5366"/>
+        <location filename="../Configuration.ui" line="5623"/>
+        <location filename="../Configuration.ui" line="5880"/>
+        <location filename="../Configuration.ui" line="6137"/>
+        <location filename="../Configuration.ui" line="6394"/>
         <source>03</source>
         <translation type="unfinished">03</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5339"/>
-        <location filename="../Configuration.ui" line="5596"/>
-        <location filename="../Configuration.ui" line="5853"/>
-        <location filename="../Configuration.ui" line="6110"/>
-        <location filename="../Configuration.ui" line="6367"/>
+        <location filename="../Configuration.ui" line="5371"/>
+        <location filename="../Configuration.ui" line="5628"/>
+        <location filename="../Configuration.ui" line="5885"/>
+        <location filename="../Configuration.ui" line="6142"/>
+        <location filename="../Configuration.ui" line="6399"/>
         <source>04</source>
         <translation type="unfinished">04</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5344"/>
-        <location filename="../Configuration.ui" line="5462"/>
-        <location filename="../Configuration.ui" line="5601"/>
-        <location filename="../Configuration.ui" line="5719"/>
-        <location filename="../Configuration.ui" line="5858"/>
-        <location filename="../Configuration.ui" line="5976"/>
-        <location filename="../Configuration.ui" line="6115"/>
-        <location filename="../Configuration.ui" line="6233"/>
-        <location filename="../Configuration.ui" line="6372"/>
-        <location filename="../Configuration.ui" line="6490"/>
+        <location filename="../Configuration.ui" line="5376"/>
+        <location filename="../Configuration.ui" line="5494"/>
+        <location filename="../Configuration.ui" line="5633"/>
+        <location filename="../Configuration.ui" line="5751"/>
+        <location filename="../Configuration.ui" line="5890"/>
+        <location filename="../Configuration.ui" line="6008"/>
+        <location filename="../Configuration.ui" line="6147"/>
+        <location filename="../Configuration.ui" line="6265"/>
+        <location filename="../Configuration.ui" line="6404"/>
+        <location filename="../Configuration.ui" line="6522"/>
         <source>05</source>
         <translation type="unfinished">05</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5349"/>
-        <location filename="../Configuration.ui" line="5606"/>
-        <location filename="../Configuration.ui" line="5863"/>
-        <location filename="../Configuration.ui" line="6120"/>
-        <location filename="../Configuration.ui" line="6377"/>
+        <location filename="../Configuration.ui" line="5381"/>
+        <location filename="../Configuration.ui" line="5638"/>
+        <location filename="../Configuration.ui" line="5895"/>
+        <location filename="../Configuration.ui" line="6152"/>
+        <location filename="../Configuration.ui" line="6409"/>
         <source>06</source>
         <translation type="unfinished">06</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5354"/>
-        <location filename="../Configuration.ui" line="5611"/>
-        <location filename="../Configuration.ui" line="5868"/>
-        <location filename="../Configuration.ui" line="6125"/>
-        <location filename="../Configuration.ui" line="6382"/>
+        <location filename="../Configuration.ui" line="5386"/>
+        <location filename="../Configuration.ui" line="5643"/>
+        <location filename="../Configuration.ui" line="5900"/>
+        <location filename="../Configuration.ui" line="6157"/>
+        <location filename="../Configuration.ui" line="6414"/>
         <source>07</source>
         <translation type="unfinished">07</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5359"/>
-        <location filename="../Configuration.ui" line="5616"/>
-        <location filename="../Configuration.ui" line="5873"/>
-        <location filename="../Configuration.ui" line="6130"/>
-        <location filename="../Configuration.ui" line="6387"/>
+        <location filename="../Configuration.ui" line="5391"/>
+        <location filename="../Configuration.ui" line="5648"/>
+        <location filename="../Configuration.ui" line="5905"/>
+        <location filename="../Configuration.ui" line="6162"/>
+        <location filename="../Configuration.ui" line="6419"/>
         <source>08</source>
         <translation type="unfinished">08</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5364"/>
-        <location filename="../Configuration.ui" line="5621"/>
-        <location filename="../Configuration.ui" line="5878"/>
-        <location filename="../Configuration.ui" line="6135"/>
-        <location filename="../Configuration.ui" line="6392"/>
+        <location filename="../Configuration.ui" line="5396"/>
+        <location filename="../Configuration.ui" line="5653"/>
+        <location filename="../Configuration.ui" line="5910"/>
+        <location filename="../Configuration.ui" line="6167"/>
+        <location filename="../Configuration.ui" line="6424"/>
         <source>09</source>
         <translation type="unfinished">09</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5369"/>
-        <location filename="../Configuration.ui" line="5467"/>
-        <location filename="../Configuration.ui" line="5626"/>
-        <location filename="../Configuration.ui" line="5724"/>
-        <location filename="../Configuration.ui" line="5883"/>
-        <location filename="../Configuration.ui" line="5981"/>
-        <location filename="../Configuration.ui" line="6140"/>
-        <location filename="../Configuration.ui" line="6238"/>
-        <location filename="../Configuration.ui" line="6397"/>
-        <location filename="../Configuration.ui" line="6495"/>
+        <location filename="../Configuration.ui" line="5401"/>
+        <location filename="../Configuration.ui" line="5499"/>
+        <location filename="../Configuration.ui" line="5658"/>
+        <location filename="../Configuration.ui" line="5756"/>
+        <location filename="../Configuration.ui" line="5915"/>
+        <location filename="../Configuration.ui" line="6013"/>
+        <location filename="../Configuration.ui" line="6172"/>
+        <location filename="../Configuration.ui" line="6270"/>
+        <location filename="../Configuration.ui" line="6429"/>
+        <location filename="../Configuration.ui" line="6527"/>
         <source>10</source>
         <translation type="unfinished">10</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5374"/>
-        <location filename="../Configuration.ui" line="5631"/>
-        <location filename="../Configuration.ui" line="5888"/>
-        <location filename="../Configuration.ui" line="6145"/>
-        <location filename="../Configuration.ui" line="6402"/>
+        <location filename="../Configuration.ui" line="5406"/>
+        <location filename="../Configuration.ui" line="5663"/>
+        <location filename="../Configuration.ui" line="5920"/>
+        <location filename="../Configuration.ui" line="6177"/>
+        <location filename="../Configuration.ui" line="6434"/>
         <source>11</source>
         <translation type="unfinished">11</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5379"/>
-        <location filename="../Configuration.ui" line="5636"/>
-        <location filename="../Configuration.ui" line="5893"/>
-        <location filename="../Configuration.ui" line="6150"/>
-        <location filename="../Configuration.ui" line="6407"/>
+        <location filename="../Configuration.ui" line="5411"/>
+        <location filename="../Configuration.ui" line="5668"/>
+        <location filename="../Configuration.ui" line="5925"/>
+        <location filename="../Configuration.ui" line="6182"/>
+        <location filename="../Configuration.ui" line="6439"/>
         <source>12</source>
         <translation type="unfinished">12</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5384"/>
-        <location filename="../Configuration.ui" line="5641"/>
-        <location filename="../Configuration.ui" line="5898"/>
-        <location filename="../Configuration.ui" line="6155"/>
-        <location filename="../Configuration.ui" line="6412"/>
+        <location filename="../Configuration.ui" line="5416"/>
+        <location filename="../Configuration.ui" line="5673"/>
+        <location filename="../Configuration.ui" line="5930"/>
+        <location filename="../Configuration.ui" line="6187"/>
+        <location filename="../Configuration.ui" line="6444"/>
         <source>13</source>
         <translation type="unfinished">13</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5389"/>
-        <location filename="../Configuration.ui" line="5646"/>
-        <location filename="../Configuration.ui" line="5903"/>
-        <location filename="../Configuration.ui" line="6160"/>
-        <location filename="../Configuration.ui" line="6417"/>
+        <location filename="../Configuration.ui" line="5421"/>
+        <location filename="../Configuration.ui" line="5678"/>
+        <location filename="../Configuration.ui" line="5935"/>
+        <location filename="../Configuration.ui" line="6192"/>
+        <location filename="../Configuration.ui" line="6449"/>
         <source>14</source>
         <translation type="unfinished">14</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5394"/>
-        <location filename="../Configuration.ui" line="5472"/>
-        <location filename="../Configuration.ui" line="5651"/>
-        <location filename="../Configuration.ui" line="5729"/>
-        <location filename="../Configuration.ui" line="5908"/>
-        <location filename="../Configuration.ui" line="5986"/>
-        <location filename="../Configuration.ui" line="6165"/>
-        <location filename="../Configuration.ui" line="6243"/>
-        <location filename="../Configuration.ui" line="6422"/>
-        <location filename="../Configuration.ui" line="6500"/>
+        <location filename="../Configuration.ui" line="5426"/>
+        <location filename="../Configuration.ui" line="5504"/>
+        <location filename="../Configuration.ui" line="5683"/>
+        <location filename="../Configuration.ui" line="5761"/>
+        <location filename="../Configuration.ui" line="5940"/>
+        <location filename="../Configuration.ui" line="6018"/>
+        <location filename="../Configuration.ui" line="6197"/>
+        <location filename="../Configuration.ui" line="6275"/>
+        <location filename="../Configuration.ui" line="6454"/>
+        <location filename="../Configuration.ui" line="6532"/>
         <source>15</source>
         <translation type="unfinished">15</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5399"/>
-        <location filename="../Configuration.ui" line="5656"/>
-        <location filename="../Configuration.ui" line="5913"/>
-        <location filename="../Configuration.ui" line="6170"/>
-        <location filename="../Configuration.ui" line="6427"/>
+        <location filename="../Configuration.ui" line="5431"/>
+        <location filename="../Configuration.ui" line="5688"/>
+        <location filename="../Configuration.ui" line="5945"/>
+        <location filename="../Configuration.ui" line="6202"/>
+        <location filename="../Configuration.ui" line="6459"/>
         <source>16</source>
         <translation type="unfinished">16</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5404"/>
-        <location filename="../Configuration.ui" line="5661"/>
-        <location filename="../Configuration.ui" line="5918"/>
-        <location filename="../Configuration.ui" line="6175"/>
-        <location filename="../Configuration.ui" line="6432"/>
+        <location filename="../Configuration.ui" line="5436"/>
+        <location filename="../Configuration.ui" line="5693"/>
+        <location filename="../Configuration.ui" line="5950"/>
+        <location filename="../Configuration.ui" line="6207"/>
+        <location filename="../Configuration.ui" line="6464"/>
         <source>17</source>
         <translation type="unfinished">17</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5409"/>
-        <location filename="../Configuration.ui" line="5666"/>
-        <location filename="../Configuration.ui" line="5923"/>
-        <location filename="../Configuration.ui" line="6180"/>
-        <location filename="../Configuration.ui" line="6437"/>
+        <location filename="../Configuration.ui" line="5441"/>
+        <location filename="../Configuration.ui" line="5698"/>
+        <location filename="../Configuration.ui" line="5955"/>
+        <location filename="../Configuration.ui" line="6212"/>
+        <location filename="../Configuration.ui" line="6469"/>
         <source>18</source>
         <translation type="unfinished">18</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5414"/>
-        <location filename="../Configuration.ui" line="5671"/>
-        <location filename="../Configuration.ui" line="5928"/>
-        <location filename="../Configuration.ui" line="6185"/>
-        <location filename="../Configuration.ui" line="6442"/>
+        <location filename="../Configuration.ui" line="5446"/>
+        <location filename="../Configuration.ui" line="5703"/>
+        <location filename="../Configuration.ui" line="5960"/>
+        <location filename="../Configuration.ui" line="6217"/>
+        <location filename="../Configuration.ui" line="6474"/>
         <source>19</source>
         <translation type="unfinished">19</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5419"/>
-        <location filename="../Configuration.ui" line="5477"/>
-        <location filename="../Configuration.ui" line="5676"/>
-        <location filename="../Configuration.ui" line="5734"/>
-        <location filename="../Configuration.ui" line="5933"/>
-        <location filename="../Configuration.ui" line="5991"/>
-        <location filename="../Configuration.ui" line="6190"/>
-        <location filename="../Configuration.ui" line="6248"/>
-        <location filename="../Configuration.ui" line="6447"/>
-        <location filename="../Configuration.ui" line="6505"/>
+        <location filename="../Configuration.ui" line="5451"/>
+        <location filename="../Configuration.ui" line="5509"/>
+        <location filename="../Configuration.ui" line="5708"/>
+        <location filename="../Configuration.ui" line="5766"/>
+        <location filename="../Configuration.ui" line="5965"/>
+        <location filename="../Configuration.ui" line="6023"/>
+        <location filename="../Configuration.ui" line="6222"/>
+        <location filename="../Configuration.ui" line="6280"/>
+        <location filename="../Configuration.ui" line="6479"/>
+        <location filename="../Configuration.ui" line="6537"/>
         <source>20</source>
         <translation type="unfinished">20</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5424"/>
-        <location filename="../Configuration.ui" line="5681"/>
-        <location filename="../Configuration.ui" line="5938"/>
-        <location filename="../Configuration.ui" line="6195"/>
-        <location filename="../Configuration.ui" line="6452"/>
+        <location filename="../Configuration.ui" line="5456"/>
+        <location filename="../Configuration.ui" line="5713"/>
+        <location filename="../Configuration.ui" line="5970"/>
+        <location filename="../Configuration.ui" line="6227"/>
+        <location filename="../Configuration.ui" line="6484"/>
         <source>21</source>
         <translation type="unfinished">21</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5429"/>
-        <location filename="../Configuration.ui" line="5686"/>
-        <location filename="../Configuration.ui" line="5943"/>
-        <location filename="../Configuration.ui" line="6200"/>
-        <location filename="../Configuration.ui" line="6457"/>
+        <location filename="../Configuration.ui" line="5461"/>
+        <location filename="../Configuration.ui" line="5718"/>
+        <location filename="../Configuration.ui" line="5975"/>
+        <location filename="../Configuration.ui" line="6232"/>
+        <location filename="../Configuration.ui" line="6489"/>
         <source>22</source>
         <translation type="unfinished">22</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5434"/>
-        <location filename="../Configuration.ui" line="5691"/>
-        <location filename="../Configuration.ui" line="5948"/>
-        <location filename="../Configuration.ui" line="6205"/>
-        <location filename="../Configuration.ui" line="6462"/>
+        <location filename="../Configuration.ui" line="5466"/>
+        <location filename="../Configuration.ui" line="5723"/>
+        <location filename="../Configuration.ui" line="5980"/>
+        <location filename="../Configuration.ui" line="6237"/>
+        <location filename="../Configuration.ui" line="6494"/>
         <source>23</source>
         <translation type="unfinished">23</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5482"/>
-        <location filename="../Configuration.ui" line="5739"/>
-        <location filename="../Configuration.ui" line="5996"/>
-        <location filename="../Configuration.ui" line="6253"/>
-        <location filename="../Configuration.ui" line="6510"/>
+        <location filename="../Configuration.ui" line="5514"/>
+        <location filename="../Configuration.ui" line="5771"/>
+        <location filename="../Configuration.ui" line="6028"/>
+        <location filename="../Configuration.ui" line="6285"/>
+        <location filename="../Configuration.ui" line="6542"/>
         <source>25</source>
         <translation type="unfinished">25</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5487"/>
-        <location filename="../Configuration.ui" line="5744"/>
-        <location filename="../Configuration.ui" line="6001"/>
-        <location filename="../Configuration.ui" line="6258"/>
-        <location filename="../Configuration.ui" line="6515"/>
+        <location filename="../Configuration.ui" line="5519"/>
+        <location filename="../Configuration.ui" line="5776"/>
+        <location filename="../Configuration.ui" line="6033"/>
+        <location filename="../Configuration.ui" line="6290"/>
+        <location filename="../Configuration.ui" line="6547"/>
         <source>30</source>
         <translation type="unfinished">30</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5492"/>
-        <location filename="../Configuration.ui" line="5749"/>
-        <location filename="../Configuration.ui" line="6006"/>
-        <location filename="../Configuration.ui" line="6263"/>
-        <location filename="../Configuration.ui" line="6520"/>
+        <location filename="../Configuration.ui" line="5524"/>
+        <location filename="../Configuration.ui" line="5781"/>
+        <location filename="../Configuration.ui" line="6038"/>
+        <location filename="../Configuration.ui" line="6295"/>
+        <location filename="../Configuration.ui" line="6552"/>
         <source>35</source>
         <translation type="unfinished">35</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5497"/>
-        <location filename="../Configuration.ui" line="5754"/>
-        <location filename="../Configuration.ui" line="6011"/>
-        <location filename="../Configuration.ui" line="6268"/>
-        <location filename="../Configuration.ui" line="6525"/>
+        <location filename="../Configuration.ui" line="5529"/>
+        <location filename="../Configuration.ui" line="5786"/>
+        <location filename="../Configuration.ui" line="6043"/>
+        <location filename="../Configuration.ui" line="6300"/>
+        <location filename="../Configuration.ui" line="6557"/>
         <source>40</source>
         <translation type="unfinished">40</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5502"/>
-        <location filename="../Configuration.ui" line="5759"/>
-        <location filename="../Configuration.ui" line="6016"/>
-        <location filename="../Configuration.ui" line="6273"/>
-        <location filename="../Configuration.ui" line="6530"/>
+        <location filename="../Configuration.ui" line="5534"/>
+        <location filename="../Configuration.ui" line="5791"/>
+        <location filename="../Configuration.ui" line="6048"/>
+        <location filename="../Configuration.ui" line="6305"/>
+        <location filename="../Configuration.ui" line="6562"/>
         <source>45</source>
         <translation type="unfinished">45</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5507"/>
-        <location filename="../Configuration.ui" line="5764"/>
-        <location filename="../Configuration.ui" line="6021"/>
-        <location filename="../Configuration.ui" line="6278"/>
-        <location filename="../Configuration.ui" line="6535"/>
+        <location filename="../Configuration.ui" line="5539"/>
+        <location filename="../Configuration.ui" line="5796"/>
+        <location filename="../Configuration.ui" line="6053"/>
+        <location filename="../Configuration.ui" line="6310"/>
+        <location filename="../Configuration.ui" line="6567"/>
         <source>50</source>
         <translation type="unfinished">50</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5512"/>
-        <location filename="../Configuration.ui" line="5769"/>
-        <location filename="../Configuration.ui" line="6026"/>
-        <location filename="../Configuration.ui" line="6283"/>
-        <location filename="../Configuration.ui" line="6540"/>
+        <location filename="../Configuration.ui" line="5544"/>
+        <location filename="../Configuration.ui" line="5801"/>
+        <location filename="../Configuration.ui" line="6058"/>
+        <location filename="../Configuration.ui" line="6315"/>
+        <location filename="../Configuration.ui" line="6572"/>
         <source>55</source>
         <translation type="unfinished">55</translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="5532"/>
-        <location filename="../Configuration.ui" line="5789"/>
-        <location filename="../Configuration.ui" line="6046"/>
-        <location filename="../Configuration.ui" line="6303"/>
-        <location filename="../Configuration.ui" line="6560"/>
+        <location filename="../Configuration.ui" line="5564"/>
+        <location filename="../Configuration.ui" line="5821"/>
+        <location filename="../Configuration.ui" line="6078"/>
+        <location filename="../Configuration.ui" line="6335"/>
+        <location filename="../Configuration.ui" line="6592"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select band&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6609"/>
+        <location filename="../Configuration.ui" line="6641"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activating band scheduler&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6612"/>
+        <location filename="../Configuration.ui" line="6644"/>
         <source>Use band scheduler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6635"/>
+        <location filename="../Configuration.ui" line="6667"/>
         <source>Advanced</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6645"/>
+        <location filename="../Configuration.ui" line="6677"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;User-selectable parameters for JT65 decoding.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6648"/>
+        <location filename="../Configuration.ui" line="6680"/>
         <source>JT65 decoding parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6676"/>
-        <location filename="../Configuration.ui" line="6689"/>
+        <location filename="../Configuration.ui" line="6708"/>
+        <location filename="../Configuration.ui" line="6721"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Defines number of decoding attempts for the wideband decoding passes&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6679"/>
-        <location filename="../Configuration.ui" line="7031"/>
+        <location filename="../Configuration.ui" line="6711"/>
+        <location filename="../Configuration.ui" line="7063"/>
         <source>Number of decoding attempts:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6715"/>
-        <location filename="../Configuration.ui" line="6728"/>
+        <location filename="../Configuration.ui" line="6747"/>
+        <location filename="../Configuration.ui" line="6760"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Number of decoding passes for the wideband decoding&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6718"/>
+        <location filename="../Configuration.ui" line="6750"/>
         <source>Number of decoding  passes: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6748"/>
-        <location filename="../Configuration.ui" line="6761"/>
+        <location filename="../Configuration.ui" line="6780"/>
+        <location filename="../Configuration.ui" line="6793"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Defines number of decoding attempts for RX frequency decoding passes&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6751"/>
-        <location filename="../Configuration.ui" line="7067"/>
+        <location filename="../Configuration.ui" line="6783"/>
+        <location filename="../Configuration.ui" line="7099"/>
         <source>RX frequency decoding attempts:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6787"/>
-        <location filename="../Configuration.ui" line="6800"/>
-        <location filename="../Configuration.ui" line="6958"/>
+        <location filename="../Configuration.ui" line="6819"/>
+        <location filename="../Configuration.ui" line="6832"/>
+        <location filename="../Configuration.ui" line="6990"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This DT window being used only for RX frequency CALL3 data based Hint decoders focused on CQ and &apos;mycall hiscall hisgrid&apos; messages. Higher values may increase number of the false decodes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6790"/>
+        <location filename="../Configuration.ui" line="6822"/>
         <source>Hinted decoding DT range:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6821"/>
+        <location filename="../Configuration.ui" line="6853"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activate two additional frequency mask JT65 decoding passes for overcrowded band conditions. This decoding passes being activated automatically if there are few signals on the band. Use this setting only for fast CPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6827"/>
+        <location filename="../Configuration.ui" line="6859"/>
         <source>Use frequency mask decoding</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6839"/>
-        <location filename="../Configuration.ui" line="6849"/>
+        <location filename="../Configuration.ui" line="6871"/>
+        <location filename="../Configuration.ui" line="6881"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Defines ceiling for decoding of the JT65a signals, default value is 3000 Hz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6842"/>
+        <location filename="../Configuration.ui" line="6874"/>
         <source>Top decoding frequency: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6875"/>
-        <location filename="../Configuration.ui" line="6888"/>
+        <location filename="../Configuration.ui" line="6907"/>
+        <location filename="../Configuration.ui" line="6920"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Signal distortion in RX or TX path can produce harmonics of the JT65A signal (JT65B, JT65C etc.) Decoding harmonics of JT65A signal can improve overall decoding efficiency via subtraction of the decoded signals. Decoding depth is proportional to the required CPU resources, set it to 1 for slow CPU. Greater value of depth will allow to decode more harmonics. JT65B and JT65C decoding is being supported.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6878"/>
+        <location filename="../Configuration.ui" line="6910"/>
         <source>Harmonics decoding depth:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="6914"/>
+        <location filename="../Configuration.ui" line="6946"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Settings depend on the CPU power, try to use maximum number of decoding passes for overcrowded HF bands.&lt;br&gt;&lt;br&gt;Number of decoding passes may be decreased for low populated HF/VHF bands while an increase of the number of decoding attempts might bring better decoding efficiency for the weak signals there.&lt;br&gt;&lt;br&gt;Number of decoding attempts affecting decoding efficiency of the low SNR signals: wideband or RX frequency one.&lt;br&gt;&lt;br&gt;Number of decoding passes affecting maximum number of the signals that can be decoded on the same frequency or located close to each other with largely overlapped spectra, it is possible to decode up to 4 signals on the same frequency and up to 7 signals on the RX frequency if number of decoding passes is set to 4.&lt;br&gt;&lt;br&gt;Increase number of decoding attempts to the value allowing to get decoding finished until end of the RX minute interval.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="7002"/>
+        <location filename="../Configuration.ui" line="7034"/>
         <source>T10 decoding parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="7028"/>
-        <location filename="../Configuration.ui" line="7038"/>
+        <location filename="../Configuration.ui" line="7060"/>
+        <location filename="../Configuration.ui" line="7070"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Defines number of decoding attempts for the wideband T10 decoding.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="7064"/>
-        <location filename="../Configuration.ui" line="7077"/>
+        <location filename="../Configuration.ui" line="7096"/>
+        <location filename="../Configuration.ui" line="7109"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Defines number of T10 decoding attempts for RX frequency&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Configuration.ui" line="7168"/>
+        <location filename="../Configuration.ui" line="7200"/>
         <source>Discard or apply configuration changes including
 resetting the radio interface and applying any
 soundcard changes</source>
@@ -8410,27 +8516,27 @@ soundcard changes</source>
         <translation>Negaidīta fatāla kļūda</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="142"/>
+        <location filename="../main.cpp" line="144"/>
         <source>&lt;style&gt; can be Fusion (default) or Windows</source>
         <translation>&lt;style&gt; var būt Fusion (noklusējuma) vai Windows</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="143"/>
+        <location filename="../main.cpp" line="145"/>
         <source>style</source>
         <translation>Stils</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="147"/>
+        <location filename="../main.cpp" line="149"/>
         <source>Where &lt;rig-name&gt; is for multi-instance support.</source>
         <translation>Kur &lt;rig-name&gt; ir paredzēts vairāku instanču atbalstam.</translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="148"/>
+        <location filename="../main.cpp" line="150"/>
         <source>rig-name</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../main.cpp" line="152"/>
+        <location filename="../main.cpp" line="154"/>
         <source>Writable files in test location.  Use with caution, for testing only.</source>
         <translation>Rakstāmi faili testa vietā. Lietojiet piesardzīgi, tikai testēšanai.</translation>
     </message>
