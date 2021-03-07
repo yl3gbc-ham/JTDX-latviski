@@ -210,7 +210,7 @@ Formāts:
     <message>
         <location filename="../Configuration.cpp" line="3498"/>
         <source>CQ/73 in message</source>
-        <translation></translation>
+        <translation>CQ/73 ziņojumā</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3499"/>
@@ -248,7 +248,7 @@ Formāts:
     <message>
         <location filename="../Configuration.cpp" line="5346"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with the loaded ones?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties atiestatīt pašreizējos darba biežumus un aizstāt tos ar noklusējuma vērtībām?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5358"/>
@@ -5507,7 +5507,8 @@ Error(%2): %3</source>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="255"/>
         <source>Cannot make path:
 &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar izveidot ceļu:
+&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="263"/>
@@ -6164,7 +6165,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="108"/>
         <source>M&amp;y Grid:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="118"/>
@@ -6189,7 +6190,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="152"/>
         <source>Full call in Tx1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="157"/>
