@@ -109,7 +109,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1618"/>
         <source>&amp;Load ...</source>
-        <translation></translation>
+        <translation type="unfinished">&amp;Ievietot ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1622"/>
@@ -2340,7 +2340,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../Configuration.cpp" line="224"/>
         <source>IARU &amp;Region:</source>
-        <translation>IARU &amp;Reģionas:</translation>
+        <translation>IARU &amp;Reģins:</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="225"/>
