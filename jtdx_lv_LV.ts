@@ -78,7 +78,7 @@
 %1
 Another application may be locking the directory</source>
         <translation>Kļūda izveidojot pagaidu direktoriju:
-% 1
+%1
  Cita programma var bloķēt direktoriju</translation>
     </message>
     <message>
@@ -109,7 +109,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1622"/>
         <source>&amp;Load ...</source>
-        <translation></translation>
+        <translation>&amp;Ielādēt ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1626"/>
