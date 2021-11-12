@@ -333,7 +333,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="35"/>
         <source>Spratly Is.</source>
-        <translation>Spratlija sala</translation>
+        <translation>Spratlija salas</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="36"/>
@@ -408,7 +408,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="50"/>
         <source>Peter 1 Is.</source>
-        <translation>Pētera I sala</translation>
+        <translation>Pētera 1 sala</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="51"/>
@@ -438,12 +438,12 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="56"/>
         <source>United Nations HQ</source>
-        <translation>Apvienoto Nāciju Organizācija</translation>
+        <translation>Apvienoto Nāciju Organizācija HQ</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="57"/>
         <source>Vienna Intl Ctr</source>
-        <translation>Vīnes Starptautiskais centrs</translation>
+        <translation>Vīnes Starptautiskais centrs HQ</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="58"/>
