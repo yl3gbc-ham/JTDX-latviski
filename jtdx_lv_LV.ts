@@ -139,7 +139,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="2964"/>
         <source>TCI Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>TCI serveris:</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2965"/>
@@ -149,7 +149,12 @@ Formats:
 	hostname:port
 	IPv4-address:port
 	[IPv6-address]:port</source>
-        <translation type="unfinished"></translation>
+        <translation>Pēc izvēles resursdatora nosaukums un TCI pakalpojuma ports.
+Atstājiet tukšu, lai šajā ierīcē iestatītu saprātīgu noklusējuma iestatījumu.
+Formāti:
+	resursdatora nosaukums: ports
+	IPv4 adrese: ports
+	[IPv6 adrese]: ports</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2977"/>
@@ -1608,7 +1613,7 @@ Formāts:
     <message>
         <location filename="../logbook/countrydat.cpp" line="289"/>
         <source>Iceland</source>
-        <translation>Īslande</translation>
+        <translation>Islande</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="290"/>
@@ -2492,7 +2497,7 @@ Error: %2 - %3</source>
         <location filename="../HamlibTransceiver.cpp" line="214"/>
         <location filename="../HamlibTransceiver.cpp" line="299"/>
         <source>Hamlib initialisation error</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamlib inicializācijas kļūda</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="259"/>
