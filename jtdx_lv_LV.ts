@@ -98,13 +98,13 @@ Another application may be locking the directory</source>
         <location filename="../Configuration.cpp" line="1617"/>
         <location filename="../Configuration.cpp" line="1669"/>
         <source>&amp;Delete</source>
-        <translation>Dzēst</translation>
+        <translation>&amp;Dzēst</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1621"/>
         <location filename="../Configuration.cpp" line="1673"/>
         <source>&amp;Insert ...</source>
-        <translation>Ievietot ...</translation>
+        <translation>&amp;Ievietot ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1625"/>
@@ -114,7 +114,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1629"/>
         <source>&amp;Save as ...</source>
-        <translation>Saglabāt kā ...</translation>
+        <translation>&amp;Saglabāt kā ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1633"/>
@@ -2537,7 +2537,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="267"/>
         <source>Protocol error</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokola kļūda</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="268"/>
