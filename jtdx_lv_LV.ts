@@ -2960,7 +2960,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="26"/>
         <source>JTDX</source>
-        <translation></translation>
+        <translation>JTDX</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="175"/>
@@ -3013,7 +3013,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="708"/>
         <source>Menu</source>
-        <translation>Izvēlne</translation>
+        <translation>Izvēltne</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="718"/>
