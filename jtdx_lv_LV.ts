@@ -6514,12 +6514,12 @@ klusais periods, kad tiek veikta dekodēšana.</translation>
     <message>
         <location filename="../Configuration.ui" line="737"/>
         <source>0.5 s</source>
-        <translation type="unfinished"></translation>
+        <translation>0,5 s</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="808"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Request S meter data from transceiver: CAT shall be set up via Hamlib, Hamlib does support getting S meter data for some transceivers.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pieprasīt S metra datus no raiduztvērēja: CAT ir jāiestata, izmantojot Hamlib, Hamlib atbalsta S metra datu iegūšanu dažiem raiduztvērējiem.&lt;/p&gt;&lt;/body&gt;&lt;/html &gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="811"/>
@@ -6529,7 +6529,7 @@ klusais periods, kad tiek veikta dekodēšana.</translation>
     <message>
         <location filename="../Configuration.ui" line="840"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Request output power data from transceiver: CAT shall be set up via Hamlib, Hamlib does support getting output power data for some transceivers.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pieprasīt izejas jaudas datus no raiduztvērēja: CAT ir jāiestata, izmantojot Hamlib, Hamlib atbalsta izejas jaudas datu iegūšanu dažiem raiduztvērējiem.&lt;/p&gt;&lt;/body&gt;&lt;/html &gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="843"/>
@@ -6539,7 +6539,7 @@ klusais periods, kad tiek veikta dekodēšana.</translation>
     <message>
         <location filename="../Configuration.ui" line="871"/>
         <source>Settings that control your CAT interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iestatījumi, kas kontrolē jūsu CAT saskarni.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="874"/>
@@ -6555,12 +6555,12 @@ klusais periods, kad tiek veikta dekodēšana.</translation>
     <message>
         <location filename="../Configuration.ui" line="901"/>
         <source>Serial port used for CAT control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seriālais ports, ko izmanto CAT vadībai.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="925"/>
         <source>Serial Port Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Sērijas porta parametri</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="942"/>
@@ -6570,7 +6570,7 @@ klusais periods, kad tiek veikta dekodēšana.</translation>
     <message>
         <location filename="../Configuration.ui" line="958"/>
         <source>Serial port data rate which must match the setting of your radio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seriālā porta datu pārraides ātrums, kam jāatbilst radio iestatījumam.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="965"/>
@@ -6615,7 +6615,7 @@ klusais periods, kad tiek veikta dekodēšana.</translation>
     <message>
         <location filename="../Configuration.ui" line="1010"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Number of data bits used to communicate with your radio&apos;s CAT interface (usually eight).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Datu bitu skaits, kas izmantoti saziņai ar radio CAT saskarni (parasti astoņi).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1013"/>
@@ -6642,7 +6642,7 @@ klusais periods, kad tiek veikta dekodēšana.</translation>
     <message>
         <location filename="../Configuration.ui" line="1067"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Number of stop bits used when communicating with your radio&apos;s CAT interface&lt;/p&gt;&lt;p&gt;(consult you radio&apos;s manual for details).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Apturēšanas bitu skaits, kas izmantots, sazinoties ar radio CAT interfeisu&lt;/p&gt;&lt;p&gt;(sīkāku informāciju skatiet radio rokasgrāmatā).&lt;/p&gt;&lt;/body&gt;&lt; /html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1070"/>
@@ -6662,7 +6662,7 @@ klusais periods, kad tiek veikta dekodēšana.</translation>
     <message>
         <location filename="../Configuration.ui" line="1121"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Flow control protocol used between this computer and your radio&apos;s CAT interface (usually &amp;quot;None&amp;quot; but some require &amp;quot;Hardware&amp;quot;).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Plūsmas vadības protokols, kas tiek izmantots starp šo datoru un radio CAT interfeisu (parasti &amp;quot;Nav&amp;quot;, bet dažiem ir nepieciešama &amp;quot;Aparatūra&amp;quot;).&lt;/p&gt;&lt;/body&gt;&lt;/ html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1124"/>
@@ -6677,7 +6677,7 @@ klusais periods, kad tiek veikta dekodēšana.</translation>
     <message>
         <location filename="../Configuration.ui" line="1162"/>
         <source>Software flow control (very rare on CAT interfaces).</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmatūras plūsmas kontrole (ļoti reti CAT saskarnēs).</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1165"/>
@@ -6689,7 +6689,9 @@ klusais periods, kad tiek veikta dekodēšana.</translation>
         <source>Flow control using the RTS and CTS RS-232 control lines
 not often used but some radios have it as an option and 
 a few, particularly some Kenwood rigs, require it).</source>
-        <translation type="unfinished"></translation>
+        <translation>Plūsmas kontrole, izmantojot RTS un CTS RS-232 vadības līnijas
+netiek bieži lietots, bet dažiem radioaparātiem tā ir iespēja un
+dažām, īpaši dažām Kenwood platformām, tas ir nepieciešams).</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1180"/>
@@ -6699,12 +6701,12 @@ a few, particularly some Kenwood rigs, require it).</source>
     <message>
         <location filename="../Configuration.ui" line="1193"/>
         <source>Special control of CAT port control lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Special control of CAT port control lines.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1196"/>
         <source>Force Control Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Spēka kontroles līnijas</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1213"/>
@@ -6731,7 +6733,7 @@ a few, particularly some Kenwood rigs, require it).</source>
     <message>
         <location filename="../Configuration.ui" line="1299"/>
         <source>How this program activates the PTT on your radio</source>
-        <translation type="unfinished"></translation>
+        <translation>Kā šī programma aktivizē rācijsaziņu jūsu radio</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1302"/>
@@ -6743,7 +6745,9 @@ a few, particularly some Kenwood rigs, require it).</source>
         <source>Some radios support PTT via CAT commands,
 use this option if your radio supports it and you have no
 other hardware interface for PTT.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daži radio atbalsta PTT, izmantojot CAT komandas,
+izmantojiet šo opciju, ja jūsu radio to atbalsta un jums nav
+cita aparatūras saskarne rācijsaziņai.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1313"/>
@@ -6753,7 +6757,7 @@ other hardware interface for PTT.</source>
     <message>
         <location filename="../Configuration.ui" line="1323"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the RS-232 DTR control line to toggle your radio&apos;s PTT, requires hardware to inteface the line.&lt;/p&gt;&lt;p&gt;Some commercial interface units also use this method.&lt;/p&gt;&lt;p&gt;The DTR control line of the CAT serial port may be used for this or a DTR control line on a different serial port may be used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Izmantojiet RS-232 DTR vadības līniju, lai pārslēgtu radio rācijsaziņu, ir nepieciešama aparatūra līnijas saskarnei.&lt;/p&gt;&lt;p&gt;Šo metodi izmanto arī dažas komerciālas saskarnes vienības. &lt;/p&gt;&lt;p&gt;Šai var izmantot CAT seriālā porta DTR vadības līniju vai var izmantot cita seriālā porta DTR vadības līniju.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1326"/>
@@ -6763,7 +6767,7 @@ other hardware interface for PTT.</source>
     <message>
         <location filename="../Configuration.ui" line="1339"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No PTT activation, instead the radio&apos;s automatic VOX is used to key the transmitter.&lt;/p&gt;&lt;p&gt;Use this if you have no radio interface hardware.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Netiek aktivizēta rācijsaziņa, tā vietā raidītāja ievadīšanai tiek izmantots radio automātiskais VOX.&lt;/p&gt;&lt;p&gt;Izmantojiet to, ja jums nav radio interfeisa aparatūras.&lt;/p&gt; &lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1342"/>
@@ -6773,7 +6777,7 @@ other hardware interface for PTT.</source>
     <message>
         <location filename="../Configuration.ui" line="1352"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the RS-232 RTS control line to toggle your radio&apos;s PTT, requires hardware to inteface the line.&lt;/p&gt;&lt;p&gt;Some commercial interface units also use this method.&lt;/p&gt;&lt;p&gt;The RTS control line of the CAT serial port may be used for this or a RTS control line on a different serial port may be used. Note that this option is not available on the CAT serial port when hardware flow control is used.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Izmantojiet RS-232 RTS vadības līniju, lai pārslēgtu radio rācijsaziņu, ir nepieciešama aparatūra līnijas saskarnei.&lt;/p&gt;&lt;p&gt;Šo metodi izmanto arī dažas komerciālas saskarnes vienības. &lt;/p&gt;&lt;p&gt;Šai var izmantot CAT seriālā porta RTS vadības līniju vai cita seriālā porta RTS vadības līniju. Ņemiet vērā, ka šī opcija nav pieejama CAT seriālajā portā, ja tiek izmantota aparatūras plūsmas vadība.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1355"/>
@@ -6783,34 +6787,36 @@ other hardware interface for PTT.</source>
     <message>
         <location filename="../Configuration.ui" line="1386"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select the RS-232 serial port utilised for PTT control, this option is available when DTR or RTS is selected above as a transmit method.&lt;/p&gt;&lt;p&gt;This port can be the same one as the one used for CAT control.&lt;/p&gt;&lt;p&gt;For some interface types the special value CAT may be chosen, this is used for non-serial CAT interfaces that can control serial port control lines remotely (OmniRig for example).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Atlasiet RS-232 seriālo portu, kas tiek izmantots rācijsaziņas vadībai. Šī opcija ir pieejama, ja iepriekš kā pārraides metode ir atlasīta DTR vai RTS.&lt;/p&gt;&lt;p&gt;Šis ports var būt tāda pati kā CAT vadībai izmantotā.&lt;/p&gt;&lt;p&gt;Dažiem interfeisa veidiem var izvēlēties īpašu vērtību CAT. To izmanto CAT ne-seriālām saskarnēm, kuras var attālināti vadīt seriālo portu vadības līnijas ( Piemēram, OmniRig).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1411"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Request enable PTT port sharing in Hamlib.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pieprasiet iespējot rācijsaziņas porta koplietošanu Hamlibā.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1414"/>
         <source>Share PTT port</source>
-        <translation type="unfinished"></translation>
+        <translation>Koplietot rācijsaziņas PTT portu</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1433"/>
         <source>Some radios can select the audio input using a CAT command,
 this setting allows you to select which audio input will be used
 (if it is available then generally the Rear/Data option is best).</source>
-        <translation type="unfinished"></translation>
+        <translation>Daži radio var izvēlēties audio ievadi, izmantojot CAT komandu,
+šis iestatījums ļauj izvēlēties, kura audio ieeja tiks izmantota
+(ja tas ir pieejams, parasti vislabākā ir opcija Aizmugure/Dati).</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1438"/>
         <source>Transmit Audio Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārsūtiet audio avotu</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1444"/>
         <source>Rear&amp;/Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Aizmugure&amp;/Dati</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1454"/>
@@ -6820,7 +6826,7 @@ this setting allows you to select which audio input will be used
     <message>
         <location filename="../Configuration.ui" line="1477"/>
         <source>Modulation mode selected on radio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio izvēlēts modulācijas režīms.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1480"/>
@@ -6830,7 +6836,7 @@ this setting allows you to select which audio input will be used
     <message>
         <location filename="../Configuration.ui" line="1486"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;USB is usually the correct modulation mode,&lt;/p&gt;&lt;p&gt;unless the radio has a special data or packet mode setting&lt;/p&gt;&lt;p&gt;for AFSK operation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;USB parasti ir pareizais modulācijas režīms,&lt;/p&gt;&lt;p&gt;ja vien radio nav īpašs datu vai pakešu režīma iestatījums&lt;/p&gt;&lt;p&gt;, kas paredzēts AFSK darbībai. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1489"/>
@@ -6842,7 +6848,9 @@ this setting allows you to select which audio input will be used
         <source>Don&apos;t allow the program to set the radio mode
 (not recommended but use if the wrong mode
 or bandwidth is selected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Neļaujiet programmai iestatīt radio režīmu
+(nav ieteicams, bet izmantojiet nepareizu režīmu
+vai ir atlasīts joslas platums).</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1507"/>
@@ -6853,7 +6861,7 @@ or bandwidth is selected).</source>
     <message>
         <location filename="../Configuration.ui" line="1517"/>
         <source>If this is availabe then it is usually the correct mode for this program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja tas ir pieejams, tas parasti ir pareizais režīms šai programmai.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1520"/>
@@ -6863,12 +6871,12 @@ or bandwidth is selected).</source>
     <message>
         <location filename="../Configuration.ui" line="1540"/>
         <source>Split Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sadalītā darbība</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1546"/>
         <source>Fake It</source>
-        <translation type="unfinished"></translation>
+        <translation>Viltot to</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="1556"/>
