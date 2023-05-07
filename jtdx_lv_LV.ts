@@ -6226,7 +6226,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="35"/>
         <source>Select tab to change configuration parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atlasiet cilni, lai mainītu konfigurācijas parametrus.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="42"/>
@@ -6236,7 +6236,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="45"/>
         <source>General station details and settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vispārīga stacijas informācija un iestatījumi.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="57"/>
@@ -6261,7 +6261,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="118"/>
         <source>Maidenhead locator (only the first four characters are required).</source>
-        <translation type="unfinished"></translation>
+        <translation>Maidenhead lokators (ir nepieciešamas tikai pirmās četras rakstzīmes).</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="125"/>
@@ -6276,7 +6276,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="145"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type 2 compound callsigns are those with prefixes or suffixes not included in the allowed shortlist (See Help-&amp;gt;Add-on prefixes and suffixes).&lt;/p&gt;&lt;p&gt;This option determines which generated messages should contain your full type 2 compound call sign rather than your base callsign. It only applies if you have a type 2 compound callsign.&lt;/p&gt;&lt;p&gt;This option controls the way the messages that are used to answer CQ calls are generated. Generated messages 6 (CQ) and 5 (73) will always contain your full callsign. The JT65 and JT9 protocols allow for some standard messages with your full call at the expense of another piece of information such as the DX call or your locator.&lt;/p&gt;&lt;p&gt;Choosing message 1 omits the DX callsign which may be an issue when replying to CQ calls. Choosing message 3 also omits the DX callsign and many versions of this and other software will not extract the report. Choosing neither means that your full callsign only goes in your message 5 (73) so your QSO partner my log the wrong callsign.&lt;/p&gt;&lt;p&gt;None of these options are perfect, message 3 is best but be aware your QSO partner may not log the report you send them.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. tipa saliktie izsaukuma signāli ir tie, kuru prefiksi vai sufiksi nav iekļauti atļautajā izlases sarakstā (skatiet Palīdzību —&amp;gt;Papildinājumu prefiksi un sufiksi).&lt;/p&gt;&lt;p&gt; Šī opcija nosaka, kuros ģenerētajos ziņojumos ir jāietver pilnais 2. tipa saliktais izsaukuma signāls, nevis pamata izsaukuma signāls. Tas attiecas tikai tad, ja jums ir 2. tipa salikts izsaukuma signāls.&lt;/p&gt;&lt;p&gt;Šī opcija kontrolē veidu, kā tiek ģenerēti ziņojumi, kas tiek izmantoti, lai atbildētu uz CQ izsaukumiem. Ģenerētie ziņojumi 6 (CQ) un 5 (73) vienmēr saturēs jūsu pilnu izsaukuma signālu. JT65 un JT9 protokoli ļauj nosūtīt dažus standarta ziņojumus ar pilnu zvanu uz citas informācijas, piemēram, DX zvana vai jūsu lokatora rēķina.&lt;/p&gt;&lt;p&gt;Izvēloties 1. ziņojumu, tiek izlaists DX izsaukuma signāls, kas var radīt problēmas. atbildot uz CQ izsaukumiem. Izvēloties 3. ziņojumu, tiek izlaists arī DX izsaukuma signāls, un daudzas šīs un citas programmatūras versijas neizgūs ziņojumu. Izvēloties ne vienu, ne otru, nenozīmē, ka jūsu pilns izsaukuma signāls tiek ievadīts tikai jūsu ziņojumā 5 (73), tāpēc jūsu QSO partneris manā žurnālā ir nepareizs izsaukuma signāls.&lt;/p&gt;&lt;p&gt;Neviena no šīm iespējām nav ideāla, 3. ziņojums ir vislabākais, taču ņemiet vērā savu QSO partneri. var nereģistrēt jūsu nosūtīto ziņojumu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="152"/>
@@ -6296,7 +6296,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="170"/>
         <source>Message generation for type 2 compound callsign holders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziņojumu ģenerēšana 2. tipa salikto izsaukuma signālu turētājiem:</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="192"/>
