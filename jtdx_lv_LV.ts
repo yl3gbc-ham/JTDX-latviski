@@ -6356,7 +6356,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="409"/>
         <source>Append DXCC names to decoded messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienojiet dekodētajiem ziņojumiem DXCC nosaukumus.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="412"/>
@@ -6366,7 +6366,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="383"/>
         <source>Append prefix instead of name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienojiet prefiksu vārda vietā.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="386"/>
@@ -6376,12 +6376,12 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="373"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;When TX message is changed previous message will not be shown if it was transmitted for less than 2 seconds.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kad TX ziņojums tiek mainīts, iepriekšējais ziņojums netiks rādīts, ja tas tika nosūtīts mazāk nekā 2 sekundes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="396"/>
         <source>Show outgoing transmitted messages in the Rx frequency window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rx frekvences logā parādīt izejošos pārsūtītos ziņojumus.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="399"/>
@@ -6391,33 +6391,33 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="458"/>
         <source>Behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzvedība</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="484"/>
         <source>Don&apos;t start decoding until the monitor button is clicked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nesāciet dekodēšanu, kamēr nav noklikšķināts uz monitora pogas.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="487"/>
         <source>Mon&amp;itor off at startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzraudzība ir izslēgta startēšanas laikā</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="513"/>
         <source>Tx watchdog timer</source>
-        <translation type="unfinished"></translation>
+        <translation>Tx sargsuņa taimeris</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="523"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Number of minutes before unattended transmissions are aborted&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Minūšu skaits, pirms tiek pārtraukta pārraide bez uzraudzības&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="526"/>
         <location filename="../Configuration.ui" line="573"/>
         <source>Disabled</source>
-        <translation>Atslēgt</translation>
+        <translation>Atspējots</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="529"/>
@@ -6427,17 +6427,17 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="543"/>
         <source>Decode at t = 52 s</source>
-        <translation type="unfinished"></translation>
+        <translation>Atšifrēt pie t = 52 s</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="563"/>
         <source>Tune timer</source>
-        <translation type="unfinished"></translation>
+        <translation>Noskaņot taimeri</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="570"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Number of seconds before tune is aborted&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sekunžu skaits pirms melodijas pārtraukšanas&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="576"/>
@@ -6447,17 +6447,17 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="597"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Some rigs are not able to process CAT commands while transmitting. This means that if you are operating in split mode you may have to uncheck this option.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dažas iekārtas pārraides laikā nespēj apstrādāt CAT komandas. Tas nozīmē, ka, ja strādājat sadalītā režīmā, iespējams, būs jānoņem šī opcijas atzīme.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="607"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Check this if you wish to automatically return to the last monitored frequency when monitor is enabled, leave it unchecked if you wish to have the current rig frequency maintained.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Atzīmējiet šo, ja vēlaties automātiski atgriezties pie pēdējās uzraudzītās frekvences, kad monitors ir iespējots, atstājiet to neatzīmētu, ja vēlaties saglabāt pašreizējo iekārtas frekvenci.&lt;/p&gt;&lt; /body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="619"/>
         <source>Send a CW ID after every 73 or free text message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nosūtiet CW ID pēc katras 73 vai bezmaksas īsziņas.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="622"/>
@@ -6475,7 +6475,10 @@ Error(%2): %3</source>
 This might be required under your countries licence regulations.
 It will not interfere with other users as it is always sent in the
 quiet period when decoding is done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Periodiski ik pēc dažām minūtēm nosūtiet CW ID.
+Tas var būt nepieciešams saskaņā ar jūsu valsts licences noteikumiem.
+Tas netraucēs citiem lietotājiem, jo ​​tas vienmēr tiek nosūtīts
+klusais periods, kad tiek veikta dekodēšana.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="693"/>
@@ -6485,7 +6488,7 @@ quiet period when decoding is done.</source>
     <message>
         <location filename="../Configuration.ui" line="696"/>
         <source>Radio interface configuration settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio interfeisa konfigurācijas iestatījumi.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="704"/>
@@ -6495,12 +6498,12 @@ quiet period when decoding is done.</source>
     <message>
         <location filename="../Configuration.ui" line="724"/>
         <source>Poll Interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aptaujas intervāls:</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="734"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Interval to poll rig for status. Longer intervals will mean that changes to the rig will take longer to be detected.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Intervāls, lai noskaidrotu statusu. Garāki intervāli nozīmēs, ka būs nepieciešams ilgāks laiks, līdz tiks noteiktas iekārtas izmaiņas.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="740"/>
