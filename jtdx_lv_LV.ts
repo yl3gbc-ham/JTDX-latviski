@@ -6301,12 +6301,12 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="192"/>
         <source>Logbook filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>Žurnāla filtrēšana</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="264"/>
         <source>Filter logbook starting from date/time (YYYYMMDDHHMMSS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrēt žurnālu, sākot no datuma/laika (GGGGMMDDHHMMSS)</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="304"/>
@@ -6316,17 +6316,17 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="343"/>
         <source>Set the font characteristics for the Band Activity and Rx Frequency areas.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iestatiet fontu raksturlielumus apgabaliem Joslas aktivitāte un Rx frekvence.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="346"/>
         <source>Decoded Text Font...</source>
-        <translation type="unfinished"></translation>
+        <translation>Atšifrēts teksta fonts...</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="333"/>
         <source>Set the font characteristics for the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iestatiet lietojumprogrammas fonta raksturlielumus.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="336"/>
@@ -6336,17 +6336,17 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="363"/>
         <source>Show distance to DX station in miles rather than kilometers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rādīt attālumu līdz DX stacijai jūdzēs, nevis kilometros.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="366"/>
         <source>Display dista&amp;nce in miles</source>
-        <translation type="unfinished"></translation>
+        <translation>Rādīt attālumu jūdzēs</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="419"/>
         <source>Include a separator line between periods in the band activity window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iekļaujiet atdalīšanas līniju starp periodiem joslas darbības logā.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="422"/>
